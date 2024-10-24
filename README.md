@@ -97,12 +97,13 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
     - Text-Extraktion aus PDF: **pdftotext** aus den [xpdf-utils](http://www.xpdfreader.com) \[**choco install xpdf-utils**\]
   - YouTube Summarizer (mittels GPT): **[Glasp](https://glasp.co/youtube-summary)**
 - Text-zu-X: [There is an AI for that](https://theresanaiforthat.com/most-saved/)
-  - Text-zu-Bild: OpenAI [**DALL·E** 2](https://labs.openai.com/waitlist), **[Midjourney](https://www.midjourney.com/)**, [craiyon](https://www.craiyon.com/) (früher: „DALL·E mini“), Google [Imagen](https://imagen.research.google/), **[Stable Diffusion](https://github.com/CompVis/stable-diffusion)**, …
+  - Text-zu-Bild: **[OpenArt](https://openart.ai/create)** ⭐, OpenAI [**DALL·E** 2](https://labs.openai.com/waitlist), **[Midjourney](https://www.midjourney.com/)**, [craiyon](https://www.craiyon.com/) (früher: „DALL·E mini“), Google [Imagen](https://imagen.research.google/), **[Stable Diffusion](https://github.com/CompVis/stable-diffusion)**, …
   - Text-zu-Video: [synthesia](https://www.synthesia.io), [kaiber.ai](https://kaiber.ai), … , China: [Kling](https://kling.kuaishou.com/en)
   - Text-zu-Präsentation: [SlidesPilot](https://www.slidespilot.com/), [SlideSpeak](https://slidespeak.co/), [ChatBA](https://www.chatba.com/), …
   - Text-zu-Quiz: [Quizalize](https://app.quizalize.com/pricing), …
   - Text-zu-Sprache (TTS): [NaturalReader](https://www.naturalreaders.com/online/), [TTSMaker](https://ttsmaker.com/), [Murf.AI](https://murf.ai/text-to-speech), …
   - Text-zu-Sound: [boomy](https://boomy.com/), [Sumo AI](https://app.suno.ai/), Google [Instrument Playground](https://artsandculture.google.com/experiment/instrument-playground/8QFo2oQr2uT3pg?hl=en), …
+  - Weiterführende Referenzen: Altern [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)
 - IT-Security:
   - [WormGPT](https://thehackernews.com/2023/07/wormgpt-new-ai-tool-allows.html)
 - Weiterführende Quellen / Werkzeugsammlungen: [Awesome **ChatGPT Prompts**](https://github.com/f/awesome-chatgpt-prompts) | **[FutureTools](https://www.futuretools.io)** | [Awesome AI Tools](https://tools.awesomechatgpt.com) #1 | [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) #2| [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) #1 | [Awesome Generative AI](https://github.com/filipecalegario/awesome-generative-ai) #2 | [Awesome AGI](https://github.com/EmbraceAGI/Awesome-AGI) | [Awesome GPT](https://github.com/formulahendry/awesome-gpt) | [Awesome GPT-4](https://gpt4.tools) | [Awesome Bots](https://github.com/DopplerHQ/awesome-bots)
@@ -117,7 +118,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
   - BibTeX/Literaturverzeichnis: **[Tame the BeaST](http://tug.ctan.org/info/bibtex/tamethebeast/ttb_en.pdf)**
     - Wichtige Einordnung: **[bibtex vs. biber and biblatex vs. natbib](https://tex.stackexchange.com/questions/25701/bibtex-vs-biber-and-biblatex-vs-natbib)** ⚠️
     - Common Anti-Patterns: **[How to not mess up your bibliographies with Bibtex](https://clauswilke.com/blog/2015/10/02/bibtex/)** (2015) von Claus Wilke ⭐
-    - Nennenswerte biblatex-Erweiterung: **\[biblatex-ext\]**([https://github.com/moewew/biblatex-ext](https://github.com/moewew/biblatex-ext))
+    - Nennenswerte biblatex-Erweiterung: **[biblatex-ext](https://github.com/moewew/biblatex-ext)** ([CTAN](https://ctan.org/tex-archive/macros/latex/contrib/biblatex-contrib/biblatex-ext)) sowie darin enthalten **biblatex-ext-oa** für Open Access Symbole
   - Installation: [LaTeX-**Installationsmöglichkeiten** für Linux, macOS, Windows und Cloud-Optionen](https://www.latex-project.org/get/) unter latex-project.org
   - Vorlagen: Es gibt [LaTeX-**Vorlagen der OTH-AW**](https://www.oth-aw.de/latex/) bzw. Fakultät EMI für die Abschlussarbeit
   - Groß-/Kleinschreibung von engl. Überschriften: **[Capitalize My Title](https://capitalizemytitle.com/style/Chicago/)** ⭐
@@ -257,6 +258,9 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 ## Management & Agile Methoden
 
 - Kalenderwoche: [aktuelle-**kalenderwoche**.org](https://www.aktuelle-kalenderwoche.org/)
+- Ganttcharts:
+  - Desktop: FOSS [Agantty](https://www.agantty.com/)
+  - Web: [Agantty](https://www.agantty.com/), [team gantt](https://www.teamgantt.com/), [toggl plan](https://toggl.com/plan/)
 - Kanban-Board: **[Wekan](https://wekan.GitHub.io/)** «Self-hosted»
 - Timer: **[Boxing Interval Timer](https://boxingtimer.org/)** oder [Online-Stopwatch](https://www.online-stopwatch.com/timer/5minutes/) (5min) etc. pp.
 - Time Tracking? **[TopTracker](https://www.toptal.com/tracker)**
@@ -399,7 +403,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
   - Unterstützung bei der Prompt Generation: **[NightCafe](https://nightcafe.studio/)**, **[promptoMANIA](https://promptomania.com/prompt-builder/)**
   - Von Unternehmen mit Marktführerschaften: [**Adobe** Firefly](https://firefly.adobe.com/), [**Microsoft** Designer](https://designer.microsoft.com/), ([**Google** Imagen](https://imagen.research.google/) in Vorbereitung)
   - (vgl. auch die Lernmaterialien zu [Prompt Engineering](https://www.oth-aw.de/i/#c40155))
-  - Open Source: **[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)** als free cloud UI via Huggingface Space (eigentliches [KI-Modell](https://github.com/CompVis/stable-diffusion) auf GitHub) by [stability.ai](https://stability.ai/) + [runway](https://runwayml.com/) sowie darauf basierend **[Lexica](https://lexica.art/)**
+  - Open Source: **[OpenArt](https://openart.ai/create)** ⭐ ([github](https://github.com/OpenArt-AI)), **[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)** als free cloud UI via Huggingface Space (eigentliches [KI-Modell](https://github.com/CompVis/stable-diffusion) auf GitHub) by [stability.ai](https://stability.ai/) + [runway](https://runwayml.com/) sowie darauf basierend **[Lexica](https://lexica.art/)**
     - Kommandozeilenwerkzeug: **[imaginAIry](https://github.com/brycedrennan/imaginAIry)**
   - Closed Source: **[craiyon](https://www.craiyon.com/)** (früher: „DALL·E mini“), per Warteliste: [OpenAI DALL·E 2](https://labs.openai.com/waitlist)
     - (€:) **[Midjourney](https://www.midjourney.com/)** ([Anleitung](https://docs.midjourney.com/docs/midjourney-discord); benötigt [Discord](https://discord.com/download); [Pricing](https://docs.midjourney.com/docs/plans))
