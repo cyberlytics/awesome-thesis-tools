@@ -54,6 +54,7 @@ Hinweise:
 - [Google **Scholar**](https://scholar.google.com) | **[ResearchGate](https://www.researchgate.net/)** | **[Semantic Scholar](https://www.semanticscholar.org)**
   - DE: [**DBLP** Computer Science Bibliography](https://dblp.org/) | [**BASE**: Bielefeld Academic Search Engine](https://www.base-search.net/)
 - Fortgeschrittene Websuchen: Google [Advanced Search](https://www.google.com/advanced_search) (Liste of [Search Operators](https://ahrefs.com/blog/google-advanced-search-operators/)) | Google [Advanced Image Search](https://www.google.com/advanced_image_search)
+- Fortgeschritte Literaturrecherche: [ResearchRabbit](https://www.researchrabbit.ai/), [Open Knowledge Maps](https://openknowledgemaps.org/)
 - Drei Informatik-Primärquellen: **[SpringerLink](https://link.springer.com/)**, **[ACM](https://dl.acm.org/)**, **[IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)**
 - **[Publish or Perish](https://harzing.com/resources/publish-or-perish)**: Desktop Applikation mit intergrierten Autoren-Metriken
 - Suche in mehreren PDFs? **[ripgrep-all](https://github.com/phiresky/ripgrep-all)** \[**choco install ripgrep-all**\] | **[SeekFast](https://seekfast.org/download-seekfast)**
@@ -96,13 +97,13 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
     - Prompt Splitter: [chatgpt-**prompt-splitter**](https://chatgpt-prompt-splitter.jjdiaz.dev) für großen Text-Input (derzeit sind nur Chunks von jeweils ein paar Tausend Zeichen erlaubt)
     - Text-Extraktion aus PDF: **pdftotext** aus den [xpdf-utils](http://www.xpdfreader.com) \[**choco install xpdf-utils**\]
   - YouTube Summarizer (mittels GPT): **[Glasp](https://glasp.co/youtube-summary)**
-- Text-zu-X: [There is an AI for that](https://theresanaiforthat.com/most-saved/)
-  - Text-zu-Bild: **[OpenArt](https://openart.ai/create)** ⭐, OpenAI [**DALL·E** 2](https://labs.openai.com/waitlist), **[Midjourney](https://www.midjourney.com/)**, [craiyon](https://www.craiyon.com/) (früher: „DALL·E mini“), Google [Imagen](https://imagen.research.google/), **[Stable Diffusion](https://github.com/CompVis/stable-diffusion)**, …
+- Text-zu-X: [There is an AI for that](https://theresanaiforthat.com/most-saved/) | [There's an AI](https://theresanai.com/)
+  - Text-zu-Bild: **[OpenArt](https://openart.ai/create)** ⭐, OpenAI [**DALL·E** 2](https://labs.openai.com/waitlist), **[Midjourney](https://www.midjourney.com/)**, [craiyon](https://www.craiyon.com/) (früher: „DALL·E mini“), Google [Imagen](https://imagen.research.google/), **[Stable Diffusion](https://github.com/CompVis/stable-diffusion)**, Adobe [Firefly](https://www.adobe.com/products/firefly.html) …
   - Text-zu-Video: [synthesia](https://www.synthesia.io), [kaiber.ai](https://kaiber.ai), … , China: [Kling](https://kling.kuaishou.com/en)
   - Text-zu-Präsentation: [SlidesPilot](https://www.slidespilot.com/), [SlideSpeak](https://slidespeak.co/), [ChatBA](https://www.chatba.com/), …
   - Text-zu-Quiz: [Quizalize](https://app.quizalize.com/pricing), …
   - Text-zu-Sprache (TTS): [NaturalReader](https://www.naturalreaders.com/online/), [TTSMaker](https://ttsmaker.com/), [Murf.AI](https://murf.ai/text-to-speech), …
-  - Text-zu-Sound: [boomy](https://boomy.com/), [Sumo AI](https://app.suno.ai/), Google [Instrument Playground](https://artsandculture.google.com/experiment/instrument-playground/8QFo2oQr2uT3pg?hl=en), …
+  - Text-zu-Sound: [boomy](https://boomy.com/), [Suno AI](https://app.suno.ai/), [Vocaloid](https://www.vocaloid.com/en/vocaloid6/), Google [Instrument Playground](https://artsandculture.google.com/experiment/instrument-playground/8QFo2oQr2uT3pg?hl=en), …
   - Weiterführende Referenzen: Altern [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)
 - IT-Security:
   - [WormGPT](https://thehackernews.com/2023/07/wormgpt-new-ai-tool-allows.html)
