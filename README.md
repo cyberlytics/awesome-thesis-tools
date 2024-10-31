@@ -85,29 +85,33 @@ Hinweise:
 
 Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist Ihnen durch meine eigenen Policies untersagt. Dennoch können Sie sich die diversen Werkzeuge zu Nutzen machen, bspw. als persönlicher KI Tutor.
 
-- Search-Chatbots: [**perplexity**.ai](https://www.perplexity.ai/) (mit „Focus: Academic“ ⭐)
-  - Weitere Nennenswerte: Anthropic **[Claude](https://www.anthropic.com)**, Google [Gemini](https://gemini.google.com/), OpenAI [ChatGPT](https://openai.com/blog/chatgpt/), Meta [Llama](https://llama.meta.com/), [HuggingChat](https://huggingface.co/chat/), Opera [Aria](https://www.opera.com/features/aria), [character.ai](https://beta.character.ai/), …
-- KI-Suche
-  - [**you**.com](https://you.com/), [Andi](https://andisearch.com), Microsoft [Bing](https://bing.com/new), OpenAI [SearchGPT](https://openai.com/index/searchgpt-prototype/), …
-- Data Science
-  - [**WolframAlpha** Chat Notebooks in der Wolfram Cloud](https://www.wolframcloud.com/) ⭐ ([Anleitung](https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/))
-- Summarizer
-  - Ask your Document: [AskYourPDF](https://askyourpdf.com), [ChatPDF](https://www.chatpdf.com/), [PDF.ai](https://pdf.ai/), …
-  - DIY-Helfer
-    - Prompt Splitter: [chatgpt-**prompt-splitter**](https://chatgpt-prompt-splitter.jjdiaz.dev) für großen Text-Input (derzeit sind nur Chunks von jeweils ein paar Tausend Zeichen erlaubt)
-    - Text-Extraktion aus PDF: **pdftotext** aus den [xpdf-utils](http://www.xpdfreader.com) \[**choco install xpdf-utils**\]
-  - YouTube Summarizer (mittels GPT): **[Glasp](https://glasp.co/youtube-summary)**
-- Text-zu-X: [There is an AI for that](https://theresanaiforthat.com/most-saved/) | [There's an AI](https://theresanai.com/)
+- Text-zu-Text:
+  - Search-Chatbots: [**perplexity**.ai](https://www.perplexity.ai/) ⭐ (mit „Focus: Academic“)
+    - Weitere Nennenswerte: Anthropic **[Claude](https://www.anthropic.com)**, Google [Gemini](https://gemini.google.com/), OpenAI [ChatGPT](https://openai.com/blog/chatgpt/), Meta [Llama](https://llama.meta.com/), [HuggingChat](https://huggingface.co/chat/), Opera [Aria](https://www.opera.com/features/aria), [character.ai](https://beta.character.ai/), …
+  - KI-Suche
+    - [**you**.com](https://you.com/), [Andi](https://andisearch.com), Microsoft [Bing](https://bing.com/new), OpenAI [SearchGPT](https://openai.com/index/searchgpt-prototype/), …
+  - Data Science
+    - [**WolframAlpha** Chat Notebooks in der Wolfram Cloud](https://www.wolframcloud.com/) ⭐ ([Anleitung](https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/))
+  - Summarizer
+    - Ask your Document: [AskYourPDF](https://askyourpdf.com), [ChatPDF](https://www.chatpdf.com/), [PDF.ai](https://pdf.ai/), …
+    - DIY-Helfer
+      - Prompt Splitter: [chatgpt-**prompt-splitter**](https://chatgpt-prompt-splitter.jjdiaz.dev) für großen Text-Input (derzeit sind nur Chunks von jeweils ein paar Tausend Zeichen erlaubt)
+      - Text-Extraktion aus PDF: **pdftotext** aus den [xpdf-utils](http://www.xpdfreader.com) \[**choco install xpdf-utils**\]
+    - YouTube Summarizer (mittels GPT): **[Glasp](https://glasp.co/youtube-summary)**
+- Text-zu-...: [There is an AI for that](https://theresanaiforthat.com/most-saved/) | [There's an AI](https://theresanai.com/)
   - Text-zu-Bild: **[OpenArt](https://openart.ai/create)** ⭐, OpenAI [**DALL·E** 2](https://labs.openai.com/waitlist), **[Midjourney](https://www.midjourney.com/)**, [craiyon](https://www.craiyon.com/) (früher: „DALL·E mini“), Google [Imagen](https://imagen.research.google/), **[Stable Diffusion](https://github.com/CompVis/stable-diffusion)**, Adobe [Firefly](https://www.adobe.com/products/firefly.html) …
   - Text-zu-Video: [synthesia](https://www.synthesia.io), [kaiber.ai](https://kaiber.ai), … , China: [Kling](https://kling.kuaishou.com/en)
   - Text-zu-Präsentation: [SlidesPilot](https://www.slidespilot.com/), [SlideSpeak](https://slidespeak.co/), [ChatBA](https://www.chatba.com/), …
   - Text-zu-Quiz: [Quizalize](https://app.quizalize.com/pricing), …
   - Text-zu-Sprache (TTS): [NaturalReader](https://www.naturalreaders.com/online/), [TTSMaker](https://ttsmaker.com/), [Murf.AI](https://murf.ai/text-to-speech), …
   - Text-zu-Sound: [boomy](https://boomy.com/), [Suno AI](https://app.suno.ai/), [Vocaloid](https://www.vocaloid.com/en/vocaloid6/), Google [Instrument Playground](https://artsandculture.google.com/experiment/instrument-playground/8QFo2oQr2uT3pg?hl=en), …
-  - Weiterführende Referenzen: Altern [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)
+  - Text-zu-3D / Bild-zu-3D: [csm.ai](https://www.csm.ai) (zzgl. €: [3D AI Studio](https://www.3daistudio.com))
+  - Weiterführende Referenzen: 
 - IT-Security:
   - [WormGPT](https://thehackernews.com/2023/07/wormgpt-new-ai-tool-allows.html)
-- Weiterführende Quellen / Werkzeugsammlungen: [Awesome **ChatGPT Prompts**](https://github.com/f/awesome-chatgpt-prompts) | **[FutureTools](https://www.futuretools.io)** | [Awesome AI Tools](https://tools.awesomechatgpt.com) #1 | [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) #2| [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) #1 | [Awesome Generative AI](https://github.com/filipecalegario/awesome-generative-ai) #2 | [Awesome AGI](https://github.com/EmbraceAGI/Awesome-AGI) | [Awesome GPT](https://github.com/formulahendry/awesome-gpt) | [Awesome GPT-4](https://gpt4.tools) | [Awesome Bots](https://github.com/DopplerHQ/awesome-bots)
+- Weiterführende Quellen
+  - Werkzeugsammlungen: **[FutureTools](https://www.futuretools.io)** | [Awesome AI Tools](https://tools.awesomechatgpt.com) #1 | [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) #2 | Altern [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) #3 | [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) #1 | [Awesome Generative AI](https://github.com/filipecalegario/awesome-generative-ai) #2 | [Awesome AGI](https://github.com/EmbraceAGI/Awesome-AGI) | [Awesome GPT](https://github.com/formulahendry/awesome-gpt) | [Awesome GPT-4](https://gpt4.tools) | [Awesome Bots](https://github.com/DopplerHQ/awesome-bots)
+  - Prompting: [Awesome **ChatGPT Prompts**](https://github.com/f/awesome-chatgpt-prompts)
 
 ## LaTeX & PDF
 
