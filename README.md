@@ -303,8 +303,15 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 
 ## Zeichnen
 
-- Bild-Vektorisierer (Image to SVG): [vectorizer.io](https://de.vectorizer.io), [Aspose](https://products.aspose.app/svg/de/image-vectorization), [convertio.co](https://convertio.co/de/image-converter/)
-- Hintergrund-Entferner: [PhotoRoom](https://www.photoroom.com/hintergrund-entfernen), [Erase.bg](https://www.erase.bg/de), [cutout.pro](https://www.cutout.pro/remove-background)
+- Upsampling: (kann ggf. auch Kompressionsartefakte entfernen)
+  - Web/Cloud: [bigjpg](https://bigjpg.com), [Nero AI](https://ai.nero.com), [imglarger](https://imglarger.com), [Gigapixel AI](www.topazlabs.com/gigapixel-ai-it-really-works), etc. pp.
+  - Desktop: [Upscayl](https://upscayl.github.io) ⭐ (choco install upscayl)
+- Bild-Vektorisierer (Image to SVG):
+  - Web/Cloud: [vectorizer.io](https://de.vectorizer.io), [Aspose](https://products.aspose.app/svg/de/image-vectorization), [convertio.co](https://convertio.co/de/image-converter/)
+  - Desktop: [inkscape](https://inkscape-manuals.readthedocs.io/en/latest/tracing-an-image.html) (allows for color by quantization and multiple scanning; based on famous but black/white [potrace](https://potrace.sourceforge.net))
+- Hintergrund-Entferner:
+  - Web/Cloud: [PhotoRoom](https://www.photoroom.com/hintergrund-entfernen), [Erase.bg](https://www.erase.bg/de), [cutout.pro](https://www.cutout.pro/remove-background)
+  - Desktop: [rembg](https://github.com/danielgatis/rembg) ⭐ (pip install rembg, pip install "rembg[cli]"; basiert auf [ONNX Runtime](https://onnxruntime.ai))
 - Microsoft **PowerPoint**: Unterschätzen Sie PowerPoint nicht als universelles Zeichenwerkzeug!
   - Es ist ebenfalls mein Lieblingswerkzeug für Poster (DIN A1).
   - Man kann in PowerPoint sogar Wireframing betreiben, mittels [Keynotopia](https://keynotopia.com/).
@@ -508,6 +515,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
     | [**OnlyOffice** Docs](https://www.onlyoffice.com/desktop.aspx) for Desktop\
     | (€:) [**WordPerfect** Office Education](https://www.wordperfect.com/en/product/education-edition/)
   - Cloud: **[ZoHo](https://www.zoho.com/)** inkl. [Zoho Docs for Desktop](https://www.zoho.com/docs/help/zoho-docs-for-desktop.html#installing-zohodrive) | [**OnlyOffice** Personal](https://personal.onlyoffice.com/) | **[Google Workspace](https://workspace.google.com/)** ([Google Docs](https://docs.google.com/document/u/0/), [Google Sheets](https://docs.google.com/spreadsheets/u/0/), [Google Slides](https://docs.google.com/presentation/u/0/))
+  - Web/Self-Hosted: [APITable](https://github.com/apitable/apitable)
 - Microsoft **Word**
   - vgl. Office, hinzu kommen noch weitere nennenswerte Alternativen:
   - Desktop: **[Jarte](https://www.jarte.com/)**
