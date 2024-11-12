@@ -98,15 +98,25 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
       - Prompt Splitter: [chatgpt-**prompt-splitter**](https://chatgpt-prompt-splitter.jjdiaz.dev) für großen Text-Input (derzeit sind nur Chunks von jeweils ein paar Tausend Zeichen erlaubt)
       - Text-Extraktion aus PDF: **pdftotext** aus den [xpdf-utils](http://www.xpdfreader.com) \[**choco install xpdf-utils**\]
     - YouTube Summarizer (mittels GPT): **[Glasp](https://glasp.co/youtube-summary)**
-- Text-zu-...: [There is an AI for that](https://theresanaiforthat.com/most-saved/) | [There's an AI](https://theresanai.com/)
-  - Text-zu-Bild: **[OpenArt](https://openart.ai/create)** ⭐, OpenAI [**DALL·E** 2](https://labs.openai.com/waitlist), **[Midjourney](https://www.midjourney.com/)**, [craiyon](https://www.craiyon.com/) (früher: „DALL·E mini“), Google [Imagen](https://imagen.research.google/), **[Stable Diffusion](https://github.com/CompVis/stable-diffusion)**, Adobe [Firefly](https://www.adobe.com/products/firefly.html) …
-  - Text-zu-Video: [synthesia](https://www.synthesia.io), [kaiber.ai](https://kaiber.ai), … , China: [Kling](https://kling.kuaishou.com/en)
+- Text-to-...: 
+  - Text-to-Code: [AI Code Tools](https://codesubmit.io/blog/ai-code-tools/), Model-Benchmark [Eval Plus](https://evalplus.github.io/leaderboard.html), Online [Eden AI](https://www.edenai.co/)
+    - Dev-Tools: [dir-assistant](https://github.com/curvedinf/dir-assistant)
+    - Weiterführende Referenzen: [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) | [Awesome Code-AI](https://github.com/sourcegraph/awesome-code-ai)
+  - Text-to-SQL: [DuckDB NSQL](https://github.com/NumbersStationAI/DuckDB-NSQL)
+  - Text-to-Image:
+    - Dev/FOSS: **[Stable Diffusion](https://github.com/CompVis/stable-diffusion)**, **[FLUX.1](https://github.com/black-forest-labs/flux)**
+    - Local/Desktop/Offline: Lykos **[Stability Matrix](https://lykos.ai/downloads)** ⭐ (Tutorial: [Using FLUX.1 locally](https://www.kdnuggets.com/using-flux-1-locally)), Stable Diffusion WebUI [Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) bzw. [reForge](https://github.com/Panchovix/stable-diffusion-webui-reForge), [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+    - Cloud/freemium-with-API: [Playground](https://playground.com/design/pricing), [PicoGen](https://picogen.io/), [Pollinations AI](https://pollinations.ai/)
+    - Cloud/freemium: [Deep Dream Generator](https://deepdreamgenerator.com/) ([old version](https://deepdreamgenerator.com/generator?old-tools=1)), [Dezgo](https://dezgo.com/text2image/sdxl), [Stable Diffusion Online](https://stablediffusionweb.com/) (10img/d; mit Wasserzeichen), [NightCafe](https://creator.nightcafe.studio/), [WPimages](https://www.wpimagines.com/), [AI Image Generator](https://www.aiimagegenerator.org/), [und viele mehr](https://easywithai.com/best-free-ai-image-generators/))
+    - Cloud/€€€/Subscriptions: **[OpenArt](https://openart.ai/create)** ⭐, OpenAI [**DALL·E** 2](https://labs.openai.com/waitlist), **[Midjourney](https://www.midjourney.com/)**, [craiyon](https://www.craiyon.com/) (früher: „DALL·E mini“), Google [Imagen](https://imagen.research.google/), Adobe [Firefly](https://www.adobe.com/products/firefly.html) …
+  - Text-to-Video: [synthesia](https://www.synthesia.io), [kaiber.ai](https://kaiber.ai), … , China: [Kling](https://kling.kuaishou.com/en)
   - Text-zu-Präsentation: [SlidesPilot](https://www.slidespilot.com/), [SlideSpeak](https://slidespeak.co/), [ChatBA](https://www.chatba.com/), …
   - Text-zu-Quiz: [Quizalize](https://app.quizalize.com/pricing), …
-  - Text-zu-Sprache (TTS): [NaturalReader](https://www.naturalreaders.com/online/), [TTSMaker](https://ttsmaker.com/), [Murf.AI](https://murf.ai/text-to-speech), …
-  - Text-zu-Sound: [boomy](https://boomy.com/), [Suno AI](https://app.suno.ai/), [Vocaloid](https://www.vocaloid.com/en/vocaloid6/), Google [Instrument Playground](https://artsandculture.google.com/experiment/instrument-playground/8QFo2oQr2uT3pg?hl=en), …
-  - Text-zu-3D / Bild-zu-3D: [csm.ai](https://www.csm.ai) (zzgl. €: [3D AI Studio](https://www.3daistudio.com))
-  - Weiterführende Referenzen: 
+  - Text-to-Speach (TTS): [NaturalReader](https://www.naturalreaders.com/online/), [TTSMaker](https://ttsmaker.com/), [Murf.AI](https://murf.ai/text-to-speech), …
+  - Text-to-Sound: [boomy](https://boomy.com/), [Suno AI](https://app.suno.ai/), [Vocaloid](https://www.vocaloid.com/en/vocaloid6/), Google [Instrument Playground](https://artsandculture.google.com/experiment/instrument-playground/8QFo2oQr2uT3pg?hl=en), …
+  - Text-to-3D / Image-to-3D: [csm.ai](https://www.csm.ai) (zzgl. €: [3D AI Studio](https://www.3daistudio.com))
+  - AI-Suites/API-centric/Pay-as-you-Go: **[Fireworks AI](https://fireworks.ai/)**, [Replicate](https://replicate.com/)
+  - Weiterführende Referenzen: [There is an AI for that](https://theresanaiforthat.com/most-saved/) | [There's an AI](https://theresanai.com/) | [
 - IT-Security:
   - [WormGPT](https://thehackernews.com/2023/07/wormgpt-new-ai-tool-allows.html)
 - Weiterführende Quellen
@@ -303,8 +313,8 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 
 ## Zeichnen
 
-- Upsampling: (kann ggf. auch Kompressionsartefakte entfernen)
-  - Web/Cloud: [bigjpg](https://bigjpg.com), [Nero AI](https://ai.nero.com), [imglarger](https://imglarger.com), [Gigapixel AI](www.topazlabs.com/gigapixel-ai-it-really-works), etc. pp.
+- Upscaler/Upsampling: (kann ggf. auch Kompressionsartefakte entfernen)
+  - Web/Cloud: [bigjpg](https://bigjpg.com), [Nero AI](https://ai.nero.com), [imglarger](https://imglarger.com), [Gigapixel AI](www.topazlabs.com/gigapixel-ai-it-really-works), [Waifu2X](https://waifu2x.io/), etc. pp.
   - Desktop: [Upscayl](https://upscayl.github.io) ⭐ (choco install upscayl)
 - Bild-Vektorisierer (Image to SVG):
   - Web/Cloud: [vectorizer.io](https://de.vectorizer.io), [Aspose](https://products.aspose.app/svg/de/image-vectorization), [convertio.co](https://convertio.co/de/image-converter/)
@@ -326,9 +336,6 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
   - Unterstützt ebenfalls Notationen wie UML und E/R-Diagramme
   - Entweder als Cloud-WebApp oder als Desktop-Anwendung
   - (Unter Windows bspw. mittels chocolatey: **choco install drawio**)
-- **[Gravit Designer](https://www.designer.io/en/offers/freegravit/)**: Open Source Alternative für Illustrator, also für Vektorgrafiken
-  - (Unter Windos bspw. mittels chocolatey: **choco install gravitdesigner**)
-  - \[ Es gibt andere Open Source Vektorgrafikwerkzeuge, aber um Himmels willen **nicht** Inkscape… \]
 - **[Krita](https://krita.org/)**: Open Source Alternative für Photoshop, also für Rastergrafiken
   - (Unter Windos bspw. mittels chocolatey: **choco install krita**)
   - \[ Es gibt andere Open Source Rastergrafikwerkzeuge, aber um Himmels willen **nicht** Gimp… \]
@@ -450,9 +457,9 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
   - Cloud: **[Pixlr](https://pixlr.com/de/)**
   - AI-gestützte Teilaspekte: [clipdrop.co](https://clipdrop.co/), [iLoveIMG](https://www.iloveimg.com/)
   - Kollaboratives Malen: **[Aggie.io](https://aggie.io/)**
-- Adobe **Illustrator**
-  - Desktop: **[Inkscape](https://inkscape.org/)** \[**choco install inkscape**\]
-  - Cloud: **[Vectr](https://vectr.com/)** | **[Canva](https://www.canva.com)** | [Graphite](https://editor.graphite.rs/)
+- Adobe **Illustrator** (und Adobe Fresco)
+  - Desktop: **[FireAlpaca](https://firealpaca.com/)** \[**choco install firealpaca**\] | **[Inkscape](https://inkscape.org/)** \[**choco install inkscape**\]
+  - Cloud: **[Vectr](https://vectr.com/)** | **[Canva](https://www.canva.com)** | [Graphite](https://editor.graphite.rs/) | [Corel Vector](https://app.corelvector.com/) (formerly: Gravit Designer)
   - Kollaboratives Zeichnen (Design): **[snappa](https://snappa.com/)**
   - Kollaboratives Zeichnen (Whiteboarding): **[invision](https://www.invisionapp.com/)** | **[miro](https://miro.com/de/)** | **[mural](https://start.mural.co/)**
 - Adobe **InDesign**
@@ -586,6 +593,12 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
     - **[3DS Max](https://www.autodesk.de/education/edu-software/overview)** \[**choco install 3dsmax**\] (One-Year Educational Access)
     - **[Cinema 4D](https://www.maxon.net/en/educational-licenses)** (Educational, Six-month, renewable)
     - **[Houdini](https://www.sidefx.com/education/education-programs/students/#free_software)** (Free Apprentice Edition)
+- Blackmagic Design: **DaVinci Resolve Studio** (Post-Production)
+  - Kostenlose Variante: **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)**
+- Foundry **[Nuke VFX](https://www.foundry.com/products/nuke-family/nuke)** (Post-Producton: Node-based Compositing/VFX)
+  - Nennenswerte AI-Erweiterung: **[Copy Cat](https://learn.foundry.com/nuke/content/reference_guide/air_nodes/copycat.html)**
+  - €€€-Konkurrent: Blackmagic Design **[Fusion](https://www.blackmagicdesign.com/products/fusion)**
+  - FOSS/Desktop: **[Blender VFX](https://www.blender.org/features/vfx/)**
 
 ## Appendix: More Free Student Stuff
 
