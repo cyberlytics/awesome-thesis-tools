@@ -110,19 +110,19 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
   - Text-to-SQL: [DuckDB NSQL](https://github.com/NumbersStationAI/DuckDB-NSQL)
   - Text-to-Image:
     - AI-Image-Generator Model-Benchmark: Artificial Analysis [Image AI Model & Provider Leaderboard](https://artificialanalysis.ai/text-to-image) | [Benchmarking-Awesome-Diffusion-Models](https://github.com/Schuture/Benchmarking-Awesome-Diffusion-Models)
-    - Dev/FOSS: **[Stable Diffusion](https://github.com/CompVis/stable-diffusion)**, **[FLUX.1](https://github.com/black-forest-labs/flux)**
+    - Dev/FOSS Models: **[Stable Diffusion](https://github.com/CompVis/stable-diffusion)**, **[FLUX.1](https://github.com/black-forest-labs/flux)**
     - Local/Desktop/Offline: Lykos **[Stability Matrix](https://lykos.ai/downloads)** ⭐ (Tutorial: [Using FLUX.1 locally](https://www.kdnuggets.com/using-flux-1-locally)), Stable Diffusion WebUI [Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) bzw. [reForge](https://github.com/Panchovix/stable-diffusion-webui-reForge), [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
     - Cloud/freemium-with-API: [Playground](https://playground.com/design/pricing), [PicoGen](https://picogen.io/), [Pollinations AI](https://pollinations.ai/)
-    - Cloud/freemium: [Deep Dream Generator](https://deepdreamgenerator.com/) ([old version](https://deepdreamgenerator.com/generator?old-tools=1)), [Dezgo](https://dezgo.com/text2image/sdxl), [Stable Diffusion Online](https://stablediffusionweb.com/) (10img/d; mit Wasserzeichen), [NightCafe](https://creator.nightcafe.studio/), [WPimages](https://www.wpimagines.com/), [AI Image Generator](https://www.aiimagegenerator.org/), [und viele mehr](https://easywithai.com/best-free-ai-image-generators/))
+    - Cloud/freemium: [Deep Dream Generator](https://deepdreamgenerator.com/) ([old version](https://deepdreamgenerator.com/generator?old-tools=1)), [Dezgo](https://dezgo.com/text2image/sdxl), [Stable Diffusion Online](https://stablediffusionweb.com/) (10img/d; mit Wasserzeichen), [NightCafe](https://creator.nightcafe.studio/), [WPimages](https://www.wpimagines.com/), [AI Image Generator](https://www.aiimagegenerator.org/), [uvm.](https://easywithai.com/best-free-ai-image-generators/)
     - Cloud/€€€/Subscriptions: **[OpenArt](https://openart.ai/create)** ⭐, OpenAI [**DALL·E** 2](https://labs.openai.com/waitlist), **[Midjourney](https://www.midjourney.com/)**, [craiyon](https://www.craiyon.com/) (früher: „DALL·E mini“), Google [Imagen](https://imagen.research.google/), Adobe [Firefly](https://www.adobe.com/products/firefly.html) …
   - Text-to-Video: [synthesia](https://www.synthesia.io), [kaiber.ai](https://kaiber.ai), … , China: [Kling](https://kling.kuaishou.com/en)
-  - Text-zu-Präsentation: [SlidesPilot](https://www.slidespilot.com/), [SlideSpeak](https://slidespeak.co/), [ChatBA](https://www.chatba.com/), …
-  - Text-zu-Quiz: [Quizalize](https://app.quizalize.com/pricing), …
+  - Text-to-Slides: **[gamma](https://gamma.app/)** ⭐, [SlidesPilot](https://www.slidespilot.com/), [SlideSpeak](https://slidespeak.co/), [ChatBA](https://www.chatba.com/), …
+  - Text-to-Quiz: [Quizalize](https://app.quizalize.com/pricing), …
   - Text-to-Speach (TTS): [NaturalReader](https://www.naturalreaders.com/online/), [TTSMaker](https://ttsmaker.com/), [Murf.AI](https://murf.ai/text-to-speech), …
   - Text-to-Sound: [boomy](https://boomy.com/), [Suno AI](https://app.suno.ai/), [Vocaloid](https://www.vocaloid.com/en/vocaloid6/), Google [Instrument Playground](https://artsandculture.google.com/experiment/instrument-playground/8QFo2oQr2uT3pg?hl=en), …
   - Text-to-3D / Image-to-3D: [csm.ai](https://www.csm.ai) (zzgl. €: [3D AI Studio](https://www.3daistudio.com))
   - AI-Suites/API-centric/Pay-as-you-Go: **[Fireworks AI](https://fireworks.ai/)**, [Replicate](https://replicate.com/)
-  - Weiterführende Referenzen: [There is an AI for that](https://theresanaiforthat.com/most-saved/) | [There's an AI](https://theresanai.com/) | [
+  - Weiterführende Referenzen: [There is an AI for that](https://theresanaiforthat.com/most-saved/) | [There's an AI](https://theresanai.com/)
 - IT-Security:
   - [WormGPT](https://thehackernews.com/2023/07/wormgpt-new-ai-tool-allows.html)
 - Weiterführende Quellen
