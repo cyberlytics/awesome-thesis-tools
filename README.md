@@ -161,6 +161,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
   - Sowohl MikTeX als auch Sumatra PDF vor den Editoren installieren, da diese sich tlw. beim ersten Start gleich für beides konfigurieren
   - Alternativen: [TeXnicCenter 2.0](https://www.texniccenter.org) \[**choco install texniccenter**\], [Kile](https://kile.sourceforge.io/) \[**choco install kile**\], [Texmaker](https://www.xm1math.net/texmaker/) \[**choco install texmaker**\] sowie der in MikTeX und TeX Live enthaltene [TeXworks](https://tug.org/texworks) | speziell unter Mac/iOS: [Texifier](https://www.texifier.com/) oder [TeXShop](https://pages.uoregon.edu/koch/texshop/) | Gesamtübersicht: [LaTeX Editors/IDEs](https://tex.stackexchange.com/questions/339/latex-editors-ides)
 - **[Zotero](https://www.zotero.org/)** \[**choco install zotero**\] ⭐: Verwaltung der Literatur, u.a. PDFs sowie BibTeX
+  - Anleitungen: [Quick Start Guide](https://www.zotero.org/support/quick_start_guide), [Integrating Zotero with Word](https://researchguides.gonzaga.edu/zotero/word)
   - Alternativen: [JabRef](https://www.jabref.org) \[**choco install jabref.install --ignore-dependencies**\] | [Mendeley Reference Manager](https://www.mendeley.com/reference-management/reference-manager) \[**choco install mendeley-reference-manager**\]
   - Kommerzielle Alternativen: Citavi | EndNote, …
   - Cloud-Alternative insb. im Zusammenspiel mit Overleaf: **[CiteDrive](https://www.citedrive.com/)**
