@@ -23,29 +23,28 @@ Hinweise:
 
 <!-- toc -->
 
-- [Awesome Abschlussarbeit (Informatik/KI)](#awesome-abschlussarbeit-informatikki)
-  - [Literaturrecherche \& Wissensaufbau](#literaturrecherche--wissensaufbau)
-  - [Generative KI](#generative-ki)
-  - [LaTeX \& PDF](#latex--pdf)
-  - [Schreiben](#schreiben)
-  - [Anti-Prokrastination](#anti-prokrastination)
-  - [Translations](#translations)
-  - [Evaluation-Werkzeuge](#evaluation-werkzeuge)
-  - [Management \& Agile Methoden](#management--agile-methoden)
-  - [Kollaborative Werkzeuge](#kollaborative-werkzeuge)
-  - [Zeichnen](#zeichnen)
-  - [Presentations](#presentations)
-  - [Plug-Ins / Add-Ins / Extensions](#plug-ins--add-ins--extensions)
-  - [Bildmaterialien](#bildmaterialien)
-  - [Mathe](#mathe)
-  - [Job-Bewerbungen](#job-bewerbungen)
-  - [Kostenlose Alternativen](#kostenlose-alternativen)
-  - [Appendix: More Free Student Stuff](#appendix-more-free-student-stuff)
-  - [Footer](#footer)
-    - [Future Work](#future-work)
-    - [Contribute](#contribute)
-    - [Backers](#backers)
-    - [License](#license)
+- [Literaturrecherche & Wissensaufbau](#literaturrecherche--wissensaufbau)
+- [Generative KI](#generative-ki)
+- [LaTeX & PDF](#latex--pdf)
+- [Schreiben](#schreiben)
+- [Anti-Prokrastination](#anti-prokrastination)
+- [Translations](#translations)
+- [Evaluation-Werkzeuge](#evaluation-werkzeuge)
+- [Management & Agile Methoden](#management--agile-methoden)
+- [Kollaborative Werkzeuge](#kollaborative-werkzeuge)
+- [Zeichnen](#zeichnen)
+- [Presentations](#presentations)
+- [Plug-Ins / Add-Ins / Extensions](#plug-ins--add-ins--extensions)
+- [Bildmaterialien](#bildmaterialien)
+- [Mathe](#mathe)
+- [Job-Bewerbungen](#job-bewerbungen)
+- [Kostenlose Alternativen](#kostenlose-alternativen)
+- [Appendix: More Free Student Stuff](#appendix-more-free-student-stuff)
+- [Footer](#footer)
+  - [Future Work](#future-work)
+  - [Contribute](#contribute)
+  - [Backers](#backers)
+  - [License](#license)
 
 <!-- tocstop -->
 
@@ -294,7 +293,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 - Timer: **[Boxing Interval Timer](https://boxingtimer.org/)** oder [Online-Stopwatch](https://www.online-stopwatch.com/timer/5minutes/) (5min) etc. pp.
 - Time Tracking? **[TopTracker](https://www.toptal.com/tracker)**
 - Projektmanagement? **[OpenProject](https://www.openproject.org/)** \[via [Docker](https://www.openproject.org/docs/installation-and-operations/installation/docker/)\] | **[GitLab](https://about.gitlab.com/install/)**[Issue Tracking](https://about.gitlab.com/stages-devops-lifecycle/issueboard/) \[bspw. via [Docker](https://docs.gitlab.com/ee/install/docker.html) oder per [Cloud](https://about.gitlab.com/pricing/)\] | Cloud: **[Taiga.io](https://www.taiga.io/)**
-- Mind Mapping? Desktop: **[XMind](https://www.xmind.net/)** \[**choco install xmind**\]
+- Mind Mapping? Desktop: **[XMind](https://www.xmind.net/)** \[**choco install xmind**\] | **[PlantUML MindMaps](https://plantuml.com/mindmap-diagram)** | **[Mermaid](https://mermaid.js.org/syntax/mindmap.html)**
 - Whiteboard? **[OpenBoard](https://openboard.ch)** \[**choco install openboard**\]
 - Zufallsentscheidung? [Online-**Glücksrad**](https://de.piliapp.com/random/wheel/) | **[Spin the Wheel](https://spinthewheel.io/de)**
 - Produktmanagement: **[pendo](https://www.pendo.io/)** kostenlos für 1 Web+Mobile App mit bis zu 1000 Endnutzern
@@ -412,7 +411,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
   - **Photoshop** Plug-Ins: bspw. [skylum **Photoshop-Plug-Ins-Empfehlung**lsliste](https://skylum.com/de/blog/best-free-photoshop-plugins-to-improve-your-creative-work)
   - …
 - Software-Programming
-  - **VS Code** Extensions: **[Marketplace](https://marketplace.visualstudio.com/VSCode)** sowie bspw. [hackr.io **Code-Extensions-Empfehlung**sliste](https://hackr.io/blog/best-vscode-extensions)
+  - **VS Code** Extensions: **[Open VSX Registry](https://open-vsx.org/)** | **[Marketplace](https://marketplace.visualstudio.com/VSCode)** sowie bspw. [hackr.io **Code-Extensions-Empfehlung**sliste](https://hackr.io/blog/best-vscode-extensions)
   - **Visual Studio** Extensions: **[Marketplace](https://marketplace.visualstudio.com/)** sowie bspw. [elmah.io **Visual-Studio-Extensions-Empfehlung**sliste](https://blog.elmah.io/list-of-the-best-free-visual-studio-extensions/)
   - **Eclipse IDE** Plug-Ins: **[Marketplace](https://marketplace.eclipse.org/category/free-tagging/java)** sowie bspw. [tabnine **Eclipse-Plug-Ins-Empfehlung**sliste](https://www.tabnine.com/blog/plugins-for-eclipse/) bzw. [snyk-Liste](https://snyk.io/blog/10-eclipse-plugins-you-shouldnt-code-without/)
   - …
@@ -529,6 +528,9 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 - Adobe **Experience Manager** bzw. **MediaValet** (Media Asset Management bzw. Digital Asset Management = DAM)
   - Web/Self-Hosted: **[AtroDAM](https://www.atrodam.com/)** (und [weitere](https://www.softwaresuggest.com/digital-asset-management-software/open-source))
   - Cloud: (€:) **[pixx.io](https://www.pixx.io/)** (Deutsch, dt. Server, DSGVO), (€:) [**brandfolder**.com](https://brandfolder.com/), (€:) **[OpenText Media Management](https://www.opentext.com/products/media-management)**, uvm.
+- Apple AirDrop
+  - Ad Hoc: **[Local Send](https://localsend.org)** (selbes WLAN benötigt)
+  - Continuos: **[Syncthing](https://syncthing.net/)** (bilateral Peer-to-Peer)
 - Microsoft **Office** (Word, Excel, PowerPoint)
   - Spezialhinweis: [Microsoft Office 365](https://www.oth-aw.de/hochschule/services/online-services/microsoft-produkte/) für Studierende kostenlos per Studisoft / OTH-Rahmenvertrag
   - Desktop: **[LibreOffice](https://www.libreoffice.org/)** \[**choco install libreoffice-fresh --ignore-dependencies**\]\
