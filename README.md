@@ -61,18 +61,23 @@ Hinweise:
 - Fancy Cloud-/AI-Stuff (€): **[scite\_](https://scite.ai/)**, **[wizdom.ai](https://www.wizdom.ai)** und **[Iris.ai](https://the.iris.ai/)**
 - Anti-Paywall
   - Ausgangsbasis: Google Scholar, etc. pp., dort kein PDF sondern nur Link des Publishers, dort teuer
+  - Rechtlicher Hintergrund: Webartikel [Was dürfen Sie nach Urheberrecht wirklich kopieren?](https://www.kopierermiete.de/news/18/04/was-duerfen-sie-nach-urheberrecht-wirklich-kopieren)
   - WICHTIG Anti-Paywall #1: Recherchieren Sie aus dem Netzwerk Ihrer Hochschule heraus (VPN) ⚠️
     - Die [Hochschul-Bibliothek](https://www.oth-aw.de/hochschule/ueber-uns/einrichtungen/bibliothek/suchen-und-finden/) schließt Verträge mit den Verlagen, Literaturdatenbanken, elektronischen Zeitschriften und verschiedenen E-Book-Portalen
     - Der Zugang, bspw. **SpringerLink** ✔️ und **Hanser ✔️**, ist i.d.R. IP-basiert, verwenden Sie deswegen VPN wie von der [Hochschul-Bibliothek](https://www.oth-aw.de/hochschule/ueber-uns/einrichtungen/bibliothek/suchen-und-finden/digitale-bibliothek/) beschrieben
     - Größte Lücke an der OTH-AW in Hinsicht _Informatik_-Literaturrecherche: Sie haben **KEINEN Zugang zu IEEE ❌ und ACM** ❌ (Warum? Gilt als zu teuer für uns. 😞)
   - WICHTIG Anti-Paywall #2: Kostenlose PrePrint-Fassungen eruieren 1. **Fragen Sie den Erstautor** oder die Erstautorin per **E-Mail** ⚠️ oder 2. per **ResearchGate** ⚠️ nach einer (Preprint-)Fassung. **Nur Mut**!
   - Anti-Paywall #3: Bücher und Publikationen gibt es auch als Papier, sogar kostenlos In der Bib Ihres Vertrauens 😦
-    - Und kein „Mimimi“!
+    - Und kein „Mimimi“, an dieser Stelle! Fernleihe gibt es aus, fei echt.
   - Anti-Paywall #4: Legale Umgehung
     - Indirektes Entfernen, wirksam für „Soft-Paywalls“ mittels Popup/Overlay: **[readermode](https://readermode.io/)** ([Chrome](https://chrome.google.com/webstore/detail/reader-mode/llimhhconnjiflfimocjggfjdlmlhblm/))
-    - Für wissenschaftliche Fachartikel: **[unpaywall.org](https://unpaywall.org/)** ([Chrome](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha/), [Firefox](https://addons.mozilla.org/firefox/addon/unpaywall/))⚠️
+    - Für wissenschaftliche Fachartikel: **[unpaywall.org](https://unpaywall.org/)** ([Chrome](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha/), [Firefox](https://addons.mozilla.org/firefox/addon/unpaywall/))⚠️ sowie [Open Access Button](https://openaccessbutton.org/), [ScienceOpen](https://www.scienceopen.com/) und [CORE](https://scolary.com/tools/core) (= COnnecting REpositories)
     - Für journalistische Webartikel: **[12ft.io](https://12ft.io/)** sowie gleiches Prinzip als Chrome-Browser Extension: **[Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)**
-  - Zusammenfassung Ihres Informatik-Standard-Methodenkoffers zur Literaturbeschaffung:
+  - Rechtlich kritische Umgehung: Themenkomplex [Guerillia Open Access](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt) und [Schattenbibliothek](https://www.google.com/search?q=schattenbibliothek) (Sci-Hub, Library Genesis, b-ok / Z-Library, Anna’s Archive und abgeschaltete Formen wie Bookfi)
+    - [Rechtliche Einordnung](https://de.wikipedia.org/wiki/Schattenbibliothek#Rechtliche_Einordnung)
+    - Webartikel [Schattenbibliotheken: Ein Krisensymptom der Wissenschaft](https://irights.info/artikel/schattenbibliotheken-ein-krisensymptom-der-wissenschaft/28663)
+    - Journalartikel [Who's downloading pirated papers? Everyone](https://www.science.org/doi/10.1126/science.352.6285.508)
+  - **Zusammenfassung** Ihres Informatik-Standard-Methodenkoffers zur **Literaturbeschaffung**:
     - ⚠️: **Google Scholar, VPN: SpringerLink/Hanser, höfliche E-Mail-Nachfragen, ResearchGate, Bib besuchen (fei echt), unpaywall.org**
 - Persönliches Wissensmanagement / Zettelkasten / Notizen
   - **[Obsidian](https://obsidian.md/)** \[**choco install obsidian**\]: Zettelkasten und Notizen ([Obsidian **Video**-Tutorial: **Zettelkasten** für Beginner](https://www.youtube.com/watch?v=svqJ8BUh8mU))
