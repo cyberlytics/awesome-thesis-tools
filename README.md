@@ -54,7 +54,8 @@ Hinweise:
   - DE: [**DBLP** Computer Science Bibliography](https://dblp.org/) | [**BASE**: Bielefeld Academic Search Engine](https://www.base-search.net/)
 - Fortgeschrittene Websuchen: Google [Advanced Search](https://www.google.com/advanced_search) (Liste of [Search Operators](https://ahrefs.com/blog/google-advanced-search-operators/)) | Google [Advanced Image Search](https://www.google.com/advanced_image_search)
   - Clean Google Search result URLs: [URL clean](https://urlclean.com/)
-- Fortgeschritte Literaturrecherche: [ResearchRabbit](https://www.researchrabbit.ai/), [Open Knowledge Maps](https://openknowledgemaps.org/)
+- KI-gestützte Literaturrecherche: [ResearchRabbit](https://www.researchrabbit.ai/), [Open Knowledge Maps](https://openknowledgemaps.org/), [Connected Papers](https://www.connectedpapers.com), [Consensus](https://consensus.app/search/), uvm.
+  - Weitere Referenzen: [Georgetown Univ.-Bib. Liste](https://guides.library.georgetown.edu/ai/tools)
 - Drei Informatik-Primärquellen: **[SpringerLink](https://link.springer.com/)**, **[ACM](https://dl.acm.org/)**, **[IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)**
 - **[Publish or Perish](https://harzing.com/resources/publish-or-perish)**: Desktop Applikation mit intergrierten Autoren-Metriken
 - Suche in mehreren PDFs? **[ripgrep-all](https://github.com/phiresky/ripgrep-all)** \[**choco install ripgrep-all**\] | **[SeekFast](https://seekfast.org/download-seekfast)**
@@ -93,6 +94,8 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 - Text-to-Text:
   - LLM Model-Benchbark: [What LLM Provider](https://whatllm.vercel.app/) | [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) ([Method](https://huggingface.co/docs/leaderboards/open_llm_leaderboard/about)) sowie [MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
     - LLM Modelle mit DE-Unterstützung: [Webartikel](https://medium.com/@oledawidzinski/deutschsprachige-open-source-llms-als-alternative-zu-chatgpt-und-co-8ecbcf6ab96d) (u.a. Mistral-Nemo-Instruct-2407, DiscoLM_German_7b_v1, SauerkrautLM, …, Qwen2-7B-Instruct, Llama3-DiscoLeo-Instruct-8B, …)
+    - Long-Term Context LLM / Personalized AI: [MemGPT](https://memgpt.ai/)
+    - Agent AI: **[Letta](https://github.com/letta-ai/letta)**
   - Local/Desktop/Offline: **[Msty](https://msty.app/)** ⭐, **[LM Studio](https://lmstudio.ai/)** ⭐, Nomic [gpt4all](github.com/nomic-ai/gpt4all), [Jan AI](https://jan.ai) und andere
     - Local [OpenAI-compatible API](https://platform.openai.com/docs/api-reference/chat) Server: [LM Studio OpenAI-compatible API server](https://lmstudio.ai/docs/api/openai-api), [vLLM OpenAI-compatible API Server](docs.vllm.ai/en/latest/serving/openai_compatible_server.html), [Msty Local AI Service](https://docs.msty.app/how-to-guides/make-local-ai-service-available-on-the-network), [gpt4all API Server](https://docs.gpt4all.io/gpt4all_api_server/home.html), [Jan.ai Cortex Local API Server](https://cortex.so/docs/quickstart/) ([API](https://cortex.so/api-reference/))
     - Let LLMs run code locally: [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)
@@ -142,7 +145,8 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 ## LaTeX & PDF
 
 - Einstieg:
-  - LaTeX: Overleaf **[Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)** | **[A simple guide to LaTeX – Step by Step](https://latex-tutorial.com/tutorials/)** | **[Wikibooks: LaTeX](https://en.wikibooks.org/wiki/LaTeX)**
+  - LaTeX: Overleaf **[Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)** sowie **[How to Write a Thesis in LaTeX](https://www.overleaf.com/learn/latex/How_to_Write_a_Thesis_in_LaTeX_(Part_1)%3A_Basic_Structure)**
+    - Weiteres Einstiegsmaterial:  **[A simple guide to LaTeX – Step by Step](https://latex-tutorial.com/tutorials/)** | **[Wikibooks: LaTeX](https://en.wikibooks.org/wiki/LaTeX)**
     - Korrekte Anführungszeichen ⚠️: lese **[Quotation Marks](https://latex.silmaril.ie/formattinginformation/quotes.html)** von Peter Flynn oder **[Formatting](https://www.andy-roberts.net/latex/formatting/)** von Andrew Roberts bzw. verwende **[csquotes](https://tex.stackexchange.com/tags/csquotes/info)** mit **\\enquote{..}** ⭐
     - Wichtige Einordnung: [The **TeX family tree**: LaTeX, **pdfTeX**, **XeTeX**, LuaTeX and ConTeXt](https://de.overleaf.com/learn/latex/Articles/The_TeX_family_tree%3A_LaTeX%2C_pdfTeX%2C_XeTeX%2C_LuaTeX_and_ConTeXt) ⚠️
     - Common Anti-Patterns: enthalten in [An **essential guide** to LATEX2e usage](http://mirrors.ctan.org/info/l2tabu/english/l2tabuen.pdf) ⭐
@@ -620,6 +624,11 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
   - Nennenswerte AI-Erweiterung: **[Copy Cat](https://learn.foundry.com/nuke/content/reference_guide/air_nodes/copycat.html)**
   - €€€-Konkurrent: Blackmagic Design **[Fusion](https://www.blackmagicdesign.com/products/fusion)**
   - FOSS/Desktop: **[Blender VFX](https://www.blender.org/features/vfx/)**
+- Steinberg **Cubase** / Emagic|Apple **Logic** /  Ableton **Live** / Presonus **Studio One** / Image-Line **FL Studio** / Digital Audio Workstation (DAW)
+  - FOSS: **[Ardour](https://ardour.org/)**
+    - Weitere kostenlose Varianten: Cockos **[Reaper](https://www.reaper.fm/)** (60d kostenlos, dann Nag-Screen), [Garageband](https://www.apple.com/mac/garageband/) (nur macOS)
+  - Nennenswerte Plugins:
+    - (€) Antares [Auto-Tune](https://www.antarestech.com/products/auto-tune/), z.B. kostengünstige Einsteigerversion [Access](https://www.antarestech.com/products/auto-tune/access) ([Video](https://www.youtube.com/watch?v=3kfsVaeSvHw))
 
 ## Appendix: More Free Student Stuff
 
