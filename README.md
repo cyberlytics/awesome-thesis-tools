@@ -1,4 +1,3 @@
-[//]: # (Author: Christoph P. Neumann)
 [//]: # (Title: Awesome Abschlussarbeit Informatik/KI)
 [//]: # (Language: de-DE)
 [//]: # (Licence: CC BY 4.0)
@@ -295,6 +294,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 ## Management & Agile Methoden
 
 - Kalenderwoche: [aktuelle-**kalenderwoche**.org](https://www.aktuelle-kalenderwoche.org/)
+- Zeitzonen: **[worldtimebuddy](https://www.worldtimebuddy.com/)**, [Time Zone Map](https://www.timeanddate.com/time/map/)
 - Ganttcharts:
   - Desktop: FOSS [Agantty](https://www.agantty.com/)
   - Web: [Agantty](https://www.agantty.com/), [team gantt](https://www.teamgantt.com/), [toggl plan](https://toggl.com/plan/)
