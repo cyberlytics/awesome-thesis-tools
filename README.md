@@ -91,12 +91,12 @@ Hinweise:
 Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist Ihnen durch meine eigenen Policies untersagt. Dennoch können Sie sich die diversen Werkzeuge zu Nutzen machen, bspw. als persönlicher KI Tutor.
 
 - Text-to-Text:
-  - LLM Model-Benchbark: [What LLM Provider](https://whatllm.vercel.app/) | [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) ([Method](https://huggingface.co/docs/leaderboards/open_llm_leaderboard/about)) sowie [MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
+  - LLM Model-Benchmark: [What LLM Provider](https://whatllm.vercel.app/) | [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) ([Method](https://huggingface.co/docs/leaderboards/open_llm_leaderboard/about)) sowie [MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
     - LLM Modelle mit DE-Unterstützung: [Webartikel](https://medium.com/@oledawidzinski/deutschsprachige-open-source-llms-als-alternative-zu-chatgpt-und-co-8ecbcf6ab96d) (u.a. Mistral-Nemo-Instruct-2407, DiscoLM_German_7b_v1, SauerkrautLM, …, Qwen2-7B-Instruct, Llama3-DiscoLeo-Instruct-8B, …)
     - Long-Term Context LLM / Personalized AI: [MemGPT](https://memgpt.ai/)
     - Agent AI: **[Letta](https://github.com/letta-ai/letta)**
-  - Local/Desktop/Offline: **[Msty](https://msty.app/)** ⭐, **[LM Studio](https://lmstudio.ai/)** ⭐, Nomic [gpt4all](github.com/nomic-ai/gpt4all), [Jan AI](https://jan.ai) und andere
-    - Local [OpenAI-compatible API](https://platform.openai.com/docs/api-reference/chat) Server: [LM Studio OpenAI-compatible API server](https://lmstudio.ai/docs/api/openai-api), [vLLM OpenAI-compatible API Server](docs.vllm.ai/en/latest/serving/openai_compatible_server.html), [Msty Local AI Service](https://docs.msty.app/how-to-guides/make-local-ai-service-available-on-the-network), [gpt4all API Server](https://docs.gpt4all.io/gpt4all_api_server/home.html), [Jan.ai Cortex Local API Server](https://cortex.so/docs/quickstart/) ([API](https://cortex.so/api-reference/))
+  - Local/Desktop/Offline: **[Msty](https://msty.app/)** ⭐, **[LM Studio](https://lmstudio.ai/)** ⭐, Nomic [gpt4all](https://github.com/nomic-ai/gpt4all), [Jan AI](https://jan.ai) und andere
+    - Local [OpenAI-compatible API](https://platform.openai.com/docs/api-reference/chat) Server: [LM Studio OpenAI-compatible API server](https://lmstudio.ai/docs/api/openai-api), [vLLM OpenAI-compatible API Server](https://docs.vllm.ai/en/latest/serving/openai_compatible_server.html), [Msty Local AI Service](https://docs.msty.app/how-to-guides/make-local-ai-service-available-on-the-network), [gpt4all API Server](https://docs.gpt4all.io/gpt4all_api_server/home.html), [Jan.ai Cortex Local API Server](https://cortex.so/docs/quickstart/) ([API](https://cortex.so/api-reference/))
     - Let LLMs run code locally: [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)
   - Local/Embedded/Offline: [vLLM](https://github.com/vllm-project/vllm)
   - more: [basran](https://github.com/hyperonym/basaran), [LocalAI](https://github.com/mudler/LocalAI), [Xorbits Inference](https://github.com/xorbitsai/inference) 
@@ -249,7 +249,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 - **[namelix](https://namelix.com/)**: Namensgenerator für Bachel-/Master-/PhD-Projekte, OSS-Projekte, etc.
 - Call-for-Paper Termine: **[WikiCFP](http://www.wikicfp.com/cfp/)** | [Computer Science **Conference Search**](https://confsearch.ethz.ch/) (inkl. graphischer Kalender-Funktion)
 - Computing Research Conference Rank: [**CORE** Portal](http://portal.core.edu.au/conf-ranks/) | **[GGS](https://scie.lcc.uma.es/)**
-- **[SciSpace](https://typeset.io/for-writers/)** (früher: Typeset): Cloud-Editor mit unzähligen [Journal-Vorlagen](https://typeset.io/formats/) für das Schreiben von Papern
+- **[SciSpace](https://typeset.io/for-writers/)** (früher: Typeset): Cloud-Editor mit unzähligen [Journal-Vorlagen](https://typeset.io/formats/) für das Schreiben von wissenschaftlichen Publikationen
 - Fancy Cloud-/AI-Stuff (€): **[genei](https://www.genei.io/)** sowie [QuillBot-Premium-Features](https://quillbot.com/premium)
 - Weiterführende Quelle: [Awesome Thesis](https://github.com/ocean1/awesome-thesis) | [Awesome PhD](https://github.com/macoj/phd) | [PhD Comics](https://phdcomics.com/comics/most_popular.php)
 
@@ -257,7 +257,6 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 
 - Druckbare **[Wochenplaner](https://jinxkitchen.de/wp-content/uploads/printables/PDF-printable-jinxkitchen-sprinkle.pdf)** (kostenlos findbar im Dunstkreis [Essens- & Wochenplaner mit Einkaufslisten](https://jinxkitchen.de/printables/))
 - Erstellen eines Scrum Burndown-Charts (X: Werktage, Y: Seitenanzahl): [**Burndown-Chart**-Generator (**Printable-HTML**)](https://easyretro.io/tools/burndown-chart-generator/), [**Burndown-Chart**-Generator (**PDF**)](https://www.burndowngenerator.com/)
-- (€): **[Schachuhr](https://www.amazon.de/gp/product/B08ZJDVQ67/)** zur Selbst-Transparenz von „produktiver Zeit vs. prokrastinierter Zeit“
 - Pomodoro: **[Tomato-Timers](https://www.tomatotimers.com/)** (auch für [iOS](https://apps.apple.com/de/app/focus-hub-study-timer/id1478228599)), Android: [Google Play Search](https://play.google.com/store/search?q=pomodoro%20timer&c=apps)
   - Quasi-Pomodoro: **[Boxing-Interval-Timer](https://boxingtimer.org/)** (auch für [Android](https://play.google.com/store/apps/details?id=com.brucemax.boxintervals) und [iOS](https://apps.apple.com/de/app/boxing-timer-professional/id978829173))
   - Physisches Hilfsmittel: (€) **[Zeitwürfel](https://www.amazon.de/gp/product/B079HW6WT7/)**
@@ -336,7 +335,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 ## Zeichnen
 
 - Upscaler/Upsampling: (kann ggf. auch Kompressionsartefakte entfernen)
-  - Web/Cloud: [bigjpg](https://bigjpg.com), [Nero AI](https://ai.nero.com), [imglarger](https://imglarger.com), [Gigapixel AI](www.topazlabs.com/gigapixel-ai-it-really-works), [Waifu2X](https://waifu2x.io/), etc. pp.
+  - Web/Cloud: [bigjpg](https://bigjpg.com), [Nero AI](https://ai.nero.com), [imglarger](https://imglarger.com), [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai-it-really-works), [Waifu2X](https://waifu2x.io/), etc. pp.
   - Desktop: [Upscayl](https://upscayl.github.io) ⭐ (choco install upscayl)
 - Bild-Vektorisierer (Image to SVG):
   - Web/Cloud: [vectorizer.io](https://de.vectorizer.io), [Aspose](https://products.aspose.app/svg/de/image-vectorization), [convertio.co](https://convertio.co/de/image-converter/)
@@ -401,7 +400,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
   - Nennenswert: [Adobe PDF to PPT](https://www.adobe.com/acrobat/online/pdf-to-ppt.html) (use in private tab for reset)
 - **[DirectPoll](https://www.directpoll.com/)**: Abstimmungssystem („Clicker“), also Umfragen und Votings bei Großgruppen
   - Alternativen bei Großgruppen:
-    - Cloud: **[OnlineTED](https://onlineted.de/)** Basic (max. 100 Teilnehmer) | **[Tweedback](https://tweedback.de/)** Free (nur 24h Sessiondauer) | **[Mentimeter](https://www.mentimeter.com)** (max. 2 Fragen pro Präsentation) | [**vevox**.com](https://www.vevox.com/pricing/education-pricing) (Multiple-Choice-Fragen kostenlos; früher meetoo.io)
+    - Cloud: **[OnlineTED](https://onlineted.de/)** Basic (max. 100 Teilnehmer) | **[Tweedback](https://tweedback.de/)** Free (nur 24h Session-Dauer) | **[Mentimeter](https://www.mentimeter.com)** (max. 2 Fragen pro Präsentation) | [**vevox**.com](https://www.vevox.com/pricing/education-pricing) (Multiple-Choice-Fragen kostenlos; früher meetoo.io)
     - Self-Hosted: **[Arsnova](https://gitlab.com/particify/dev/foss/arsnova)** bzw. Particify \[via [Docker](https://gitlab.com/particify/dev/foss/docker-orchestration)\]
     - Desktop: **[FreeQuizDome](https://www.freequizdome.com/)**
   - Alternativen für kleinere Gruppen: **[PollEveryWhere](https://www.polleverywhere.com/)** Intro (max. 25 Teilnehmer, aber PPT-Integration) \[**choco install polleverywhere**\] | **[Kahoot!](https://kahoot.com/register/kahoot-study-pricing/)** (max. 10 Teilnehmer) | **[AhaSlides](https://ahaslides.com/pricing/)** (max. 7 Teilnehmer; mit [PowerPoint-Extension](https://ahaslides.com/blog/extension-for-powerpoint/))
@@ -536,7 +535,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
   - Cloud: **[Moodle](https://download.moodle.org/)**
 - Adobe **Experience Manager** bzw. **MediaValet** (Media Asset Management bzw. Digital Asset Management = DAM)
   - Web/Self-Hosted: **[AtroDAM](https://www.atrodam.com/)** (und [weitere](https://www.softwaresuggest.com/digital-asset-management-software/open-source))
-  - Cloud: (€:) **[pixx.io](https://www.pixx.io/)** (Deutsch, dt. Server, DSGVO), (€:) [**brandfolder**.com](https://brandfolder.com/), (€:) **[OpenText Media Management](https://www.opentext.com/products/media-management)**, uvm.
+  - Cloud: (€:) **[pixx.io](https://www.pixx.io/)** (DE, dt. Server, DSGVO), (€:) [**brandfolder**.com](https://brandfolder.com/), (€:) **[OpenText Media Management](https://www.opentext.com/products/media-management)**, uvm.
 - Apple AirDrop
   - Ad Hoc: **[Local Send](https://localsend.org)** (selbes WLAN benötigt)
   - Continuos: **[Syncthing](https://syncthing.net/)** (bilateral Peer-to-Peer)
@@ -559,7 +558,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 - Microsoft **PowerPoint**
   - vgl. Office, hinzu kommen noch weitere nennenswerte Alternativen:
   - Desktop: [latex-**beamer**](https://ctan.org/pkg/beamer)
-  - Web/Self-Hosted:**[reveal.js](https://revealjs.com/)**| [Decker](https://elearning.uni-wuerzburg.de/decker/) | [impress.js](https://github.com/impress/impress.js) | [Shower](https://github.com/shower/shower) | [Inspire.js](https://github.com/LeaVerou/inspire.js) | [deck.js](https://github.com/imakewebthings/deck.js) | [DZSlides](https://github.com/paulrouget/dzslides) | uvm.
+  - Web/Self-Hosted: **[reveal.js](https://revealjs.com/)**| [Decker](https://elearning.uni-wuerzburg.de/decker/) | [impress.js](https://github.com/impress/impress.js) | [Shower](https://github.com/shower/shower) | [Inspire.js](https://github.com/LeaVerou/inspire.js) | [deck.js](https://github.com/imakewebthings/deck.js) | [DZSlides](https://github.com/paulrouget/dzslides) | uvm.
   - Cloud: **[slides.com](https://slides.com/)** | [genially](https://app.genial.ly/) (für Studierende kostenlos) | **[Prezi](https://prezi.com/)** (nur 5 Dokumente kostenlos)\
     | (€:) **[Haiku Deck](https://www.haikudeck.com/)**: KI-gestützte Veredelung von Präsentationen durch automatische Fotos und Designs\
     | (€:) [Microsoft **Sway**](https://sway.office.com/)
@@ -570,8 +569,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
   - Web/Self-Hosted: **[nuBuilder](https://www.nubuilder.com/)** | **[budibase](https://budibase.com/pricing/)**
   - Cloud: **[Zoho Creator](https://www.zoho.com/creator/)** | **[Retool](https://retool.com/)** | **[Google AppSheet](https://about.appsheet.com/home/)**
 - Microsoft **Outlook** (Groupware)
-  - Desktop: **[EssentialPIM Free](https://www.essentialpim.com/features/overview/pro-vs-free)** | [**Kopano** Desktop](https://kopano.io/)\
-    | [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) \[choco install thunderbird\] | [SeaMonkey](https://www.seamonkey-project.org/) \[choco install seamonkey\]
+  - Desktop: **[EssentialPIM Free](https://www.essentialpim.com/features/overview/pro-vs-free)** | [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) \[choco install thunderbird\] | [SeaMonkey](https://www.seamonkey-project.org/) \[choco install seamonkey\]
   - Web/Self-Hosted: [**Zimbra** Open Source Edition](https://www.zimbra.com/open-source-email-overview/) | **[NextCloud Server](https://nextcloud.com/install/)** inkl. [Desktop File Sync Client](https://nextcloud.com/install/#install-clients) | Open Source **[grommunio](https://grommunio.com/download/)**
   - Cloud: **[Zoho Mail](https://www.zoho.com/mail/)** (Forever Free Plan), **[Google Workspace](https://workspace.google.com/)**\
     | [**OnlyOffice** Workspace](https://www.onlyoffice.com/saas.aspx) (u.a. [OnlyOffice Mail](https://www.onlyoffice.com/mail.aspx) und [Calendar](https://www.onlyoffice.com/calendar.aspx))
@@ -586,7 +584,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
   - Web/Self-Hosted: **[OpenProject](https://www.openproject.org/)**
   - Cloud: **[Taiga.io](https://www.taiga.io/)**
 - **Zoom** bzw. Microsoft **Teams** (Video-Konferenz)
-  - Web/Self-Hosted: **[BigBlueButton](https://docs.bigbluebutton.org/greenlight/gl-install.html)** \[via Containter\] | **[Jitsi](https://jitsi.org/)** \[**choco install jitsi**\] (für kleine Gruppen) ggf. in Kombination mit einer [rocket.chat](https://www.rocket.chat/)-Integration | **[Nextcloud Talk](https://nextcloud.com/talk/)** | **[WorkAdventure](https://github.com/thecodingmachine/workadventure)**
+  - Web/Self-Hosted: **[BigBlueButton](https://docs.bigbluebutton.org/greenlight/gl-install.html)** \[via Container\] | **[Jitsi](https://jitsi.org/)** \[**choco install jitsi**\] (für kleine Gruppen) ggf. in Kombination mit einer [rocket.chat](https://www.rocket.chat/)-Integration | **[NextCloud Talk](https://nextcloud.com/talk/)** | **[WorkAdventure](https://github.com/thecodingmachine/workadventure)**
   - Cloud: **[Discord](https://discord.com/)** | **[Jitsi Meet](https://meet.jit.si/)** (für kleine Gruppen) | [**gather**.town](https://www.gather.town/) | [Google **Meet**](https://apps.google.com/meet/) (max. 60 Minuten) | **[HyHyve](https://www.hyhyve.com/pricing/)**
   - (Ergänzungsempfehlung: Für einen hochwertigen virtuellen Hintergrund ohne Greenscreen empfehle ich das kostenpflichtige [XSplit VCam](https://www.xsplit.com/vcam))
   - (Zusatzhinweis: Slack-Alternativen (s. unten) – wie bspw. [Flock](https://www.flock.com/features/communication/video-calling/), [Pumble](https://pumble.com/video-conferencing), [rocket.chat](https://docs.rocket.chat/use-rocket.chat/rocket.chat-conference-call) oder [matrix mittels Element Call](https://call.element.io/) – integrieren ebenfalls Video-Konferenz-Funktionalitäten, haben aber traditionell einen anderen Schwerpunkt.)
@@ -600,7 +598,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
   - Web/Self-Hosted: [**Alfresco** Community Edition](https://www.alfresco.com/products/community/download)
   - (Groupware-Aspekte: vgl. MS Outlook Alternativen)
   - (Projektmanagement-Aspekte: vgl. MS Project Alternativen)
-  - (Wiki-Aspekte: vgl. Atlassian Confluence Alternativen)
+  - (Wiki-Aspekte: vgl. Atlassian Confluence Alternativen auf der [Schwesterseite](https://github.com/cyberlytics/awesome-software-engineering-tools#kostenlose-alternativen))
 - **cPanel** / **Plesk** / … (Small Business Linux Server)
   - **[KeyHelp](https://www.keyhelp.de)** (Linux-only), Deutsche Herkunft (kostenlos aber closed source)
     - Primär: Websites/Domains, Mail-Accounts, FTP und Fileserver
