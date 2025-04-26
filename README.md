@@ -58,7 +58,7 @@ Hinweise:
 - Drei Informatik-Primärquellen: **[SpringerLink](https://link.springer.com/)**, **[ACM](https://dl.acm.org/)**, **[IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)**
 - **[Publish or Perish](https://harzing.com/resources/publish-or-perish)**: Desktop Applikation mit intergrierten Autoren-Metriken
 - Suche in mehreren PDFs? **[ripgrep-all](https://github.com/phiresky/ripgrep-all)** \[**choco install ripgrep-all**\] | **[SeekFast](https://seekfast.org/download-seekfast)**
-- Fancy Cloud-/AI-Stuff (€): **[scite\_](https://scite.ai/)**, **[wizdom.ai](https://www.wizdom.ai)** und **[Iris.ai](https://the.iris.ai/)**
+- Fancy Cloud-/AI-Stuff (€): **[scite\_](https://scite.ai/)** und **[Iris.ai](https://the.iris.ai/)**
 - Anti-Paywall
   - Ausgangsbasis: Google Scholar, etc. pp., dort kein PDF sondern nur Link des Publishers, dort teuer
   - Rechtlicher Hintergrund: Webartikel [Was dürfen Sie nach Urheberrecht wirklich kopieren?](https://www.kopierermiete.de/news/18/04/was-duerfen-sie-nach-urheberrecht-wirklich-kopieren)
@@ -72,7 +72,7 @@ Hinweise:
   - Anti-Paywall #4: Legale Umgehung
     - Indirektes Entfernen, wirksam für „Soft-Paywalls“ mittels Popup/Overlay: **[readermode](https://readermode.io/)** ([Chrome](https://chrome.google.com/webstore/detail/reader-mode/llimhhconnjiflfimocjggfjdlmlhblm/))
     - Für wissenschaftliche Fachartikel: **[unpaywall.org](https://unpaywall.org/)** ([Chrome](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha/), [Firefox](https://addons.mozilla.org/firefox/addon/unpaywall/))⚠️ sowie [Open Access Button](https://openaccessbutton.org/), [ScienceOpen](https://www.scienceopen.com/) und [CORE](https://scolary.com/tools/core) (= COnnecting REpositories)
-    - Für journalistische Webartikel: **[12ft.io](https://12ft.io/)** sowie gleiches Prinzip als Chrome-Browser Extension: **[Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)**
+    - Für journalistische Webartikel: **[12ft.io](https://12ft.io/)**
   - Rechtlich kritische Umgehung: Themenkomplex [Guerillia Open Access](https://archive.org/stream/GuerillaOpenAccessManifesto/Goamjuly2008_djvu.txt) und [Schattenbibliothek](https://www.google.com/search?q=schattenbibliothek) (Sci-Hub, Library Genesis, b-ok / Z-Library, Anna’s Archive und abgeschaltete Formen wie Bookfi)
     - [Rechtliche Einordnung](https://de.wikipedia.org/wiki/Schattenbibliothek#Rechtliche_Einordnung)
     - Webartikel [Schattenbibliotheken: Ein Krisensymptom der Wissenschaft](https://irights.info/artikel/schattenbibliotheken-ein-krisensymptom-der-wissenschaft/28663)
@@ -349,7 +349,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
   - Microsoft Office 365 Pro ist [kostenlos über studisoft.de](https://www.studisoft.de/shibboleth/shibdwayf?vi=23) für Studierende der OTH-AW
 - Microsoft **Visio**: Ein Klassiker. Kommerziell. Eine Desktop-Anwendung. Mittlerweile durch draw.io ersetzbar.
   - Es gibt eine [Visio Stencils Datei für E/R-Modellierung und erweiterte E/R-Modellierung](https://www.cyberlytics.eu/theses/templates/ERD-Chen76_EERD-ElmasriNavathe94.vss) aus meiner eigenen Feder
-  - Derzeit ist Visio mutmaßlich nicht in der Microsoft Office 365 Pro Variante enthalten, die Sie kostenlos über studisoft.de beziehen können; aber Visio ist Teil der [Microsoft Azure Dev Tools for Teaching](https://www.oth-aw.de/informieren-und-entdecken/einrichtungen/rechenzentrum/downloads/), welche für Studierende ebenfalls kostenlos zur Verfügung stehen
+  - Derzeit ist Visio mutmaßlich nicht in der Microsoft Office 365 Pro Variante enthalten, die Sie kostenlos über studisoft.de beziehen können; aber Visio ist Teil der [Microsoft Azure Dev Tools for Teaching](https://www.oth-aw.de/hochschule/services/online-services/downloads-software/), welche für Studierende ebenfalls kostenlos zur Verfügung stehen
 - Adobe **Illustrator**: Für ambitionierte Vektorgrafiken.
   - Illustrator erlaubt das Öffnen von PDFs und eignet sich dadurch gut zur Extraktion von Grafiken, ggf. in hochauflösendem Vektorformat.
   - Über die Zugehörigkeit zur OTH-AW müssten Sie auch einen Zugang zur Adobe Creative Cloud bekommen können
@@ -375,7 +375,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
     - Derzeit praktisch nicht mehr machbar. Es gibt nur noch [ClassPoint](https://www.classpoint.io/features/embedded-browser) als Work-Around.
     - ([PollEveryWhere](https://www.polleverywhere.com/) hatte die LiveSlides-Funktion integriert aber hat sie derzeit wieder verloren.)
     - ([LiveSlide](https://liveslides.software.informer.com/download/) war der Vorgänger von PollEverywhere und wurde in PollEv integriert und ist jetzt installierbar aber unbrauchbar.)
-    - (Die Powerpoint-Extension von Microsoft selbst namens [Web-Viewer](https://appsource.microsoft.com/en-us/product/office/WA104295828) war leider schon immer fast unbrauchbar.)
+    - (Die Powerpoint-Extension von Microsoft selbst namens Web-Viewer war leider schon immer fast unbrauchbar.)
   - Man kann auch mittels PowerPoint selbst eine Bild-in-Bild [Video-Aufzeichnung](https://insider.office.com/de-de/blog/tell-your-story-with-video-recording-in-powerpoint) („Teleprompter“) seiner Präsentation machen
   - Dateigröße von PPT-Päsentation
     - Eingebaute [**compress pictures** Funktion](https://support.microsoft.com/de-de/office/verringern-der-dateigr%C3%B6%C3%9Fe-ihrer-powerpoint-pr%C3%A4sentationen-9548ffd4-d853-41e7-8e40-b606bca036b4) ⚠️
@@ -398,7 +398,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
   - Auch in [Overleaf](https://www.overleaf.com/learn/latex/Beamer) integriert
   - (Eine [OTH-Vorlage für beamer](https://www.oth-aw.de/latex/) findet sich in unserem GitLab)
   - Nennenswert: [Adobe PDF to PPT](https://www.adobe.com/acrobat/online/pdf-to-ppt.html) (use in private tab for reset)
-- **[DirectPoll](https://www.directpoll.com/)**: Abstimmungssystem („Clicker“), also Umfragen und Votings bei Großgruppen
+- **[DirectPoll](https://directpoll.com)**: Abstimmungssystem („Clicker“), also Umfragen und Votings bei Großgruppen
   - Alternativen bei Großgruppen:
     - Cloud: **[OnlineTED](https://onlineted.de/)** Basic (max. 100 Teilnehmer) | **[Tweedback](https://tweedback.de/)** Free (nur 24h Session-Dauer) | **[Mentimeter](https://www.mentimeter.com)** (max. 2 Fragen pro Präsentation) | [**vevox**.com](https://www.vevox.com/pricing/education-pricing) (Multiple-Choice-Fragen kostenlos; früher meetoo.io)
     - Self-Hosted: **[Arsnova](https://gitlab.com/particify/dev/foss/arsnova)** bzw. Particify \[via [Docker](https://gitlab.com/particify/dev/foss/docker-orchestration)\]
@@ -435,14 +435,14 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
     - Weitere: [clker](http://www.clker.com), [pixabay](https://pixabay.com/vectors/) (mit Filter auf „Vectors“)
   - **Icons:** **[iconmonstr](https://iconmonstr.com)**, [**Feather** (OSS)](https://feathericons.com), [**FontAwesome** (Freebies)](https://fontawesome.com/v6/search?o=r&m=free), **[Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)**, **[CryptoKit](https://cryptokit.ch/specimen)**
     - Cloud Computing: [**Kubernetes** Icons Set](https://github.com/kubernetes/community/tree/master/icons)
-    - Weitere: [Line Awesome](https://icons8.com/line-awesome), [Academicons](https://jpswalsh.GitHub.io/academicons/), [Twemoji](https://ellekasai.GitHub.io/twemoji-awesome/), [Font Mfizz](http://fizzed.com/oss/font-mfizz), [Google Font Icons](https://fonts.google.com/icons), [Material Design Icons](https://pictogrammers.com/library/mdi/), [Bootstrap Icons](https://icons.getbootstrap.com), [css.gg](https://css.gg/app), [Boxicons](https://boxicons.com), [Font Awesome Extension](https://andrelzgava.GitHub.io/font-awesome-extension/), ([Pictonic Freebies](https://pictonic.co/free), [Streamline Freebies](https://www.streamlinehq.com/freebies))([Iconify Free Icons](https://freebiesbug.com/illustrator-freebies/iconify-650-free-icons/))
+    - Weitere: [Line Awesome](https://icons8.com/line-awesome), [Academicons](https://jpswalsh.GitHub.io/academicons/), [Twemoji](https://ellekasai.GitHub.io/twemoji-awesome/), [Font Mfizz](http://fizzed.com/oss/font-mfizz), [Google Font Icons](https://fonts.google.com/icons), [Material Design Icons](https://pictogrammers.com/library/mdi/), [Bootstrap Icons](https://icons.getbootstrap.com), [css.gg](https://css.gg/app), [Boxicons](https://boxicons.com), [Font Awesome Extension](https://andrelzgava.GitHub.io/font-awesome-extension/), [Streamline Freebies](https://www.streamlinehq.com/freebies))([Iconify Free Icons](https://freebiesbug.com/illustrator-freebies/iconify-650-free-icons/))
   - **[Free Fonts](https://speckyboy.com/best-free-fonts/)**: Kostenlose Schriftarten
   - Kunst, Kultur, Geschichte: **[Prometheus-Bildarchiv](https://www.prometheus-bildarchiv.de/)**
 - AI-rendered Illustrations/Art:
   - Prompt Galleries (Prompts und deren AI-generierten Bilder): **[PromptHero](https://prompthero.com/)**, **[Playground AI](https://playgroundai.com/)**
   - Unterstützung bei der Prompt Generation: **[NightCafe](https://nightcafe.studio/)**, **[promptoMANIA](https://promptomania.com/prompt-builder/)**
   - Von Unternehmen mit Marktführerschaften: [**Adobe** Firefly](https://firefly.adobe.com/), [**Microsoft** Designer](https://designer.microsoft.com/), ([**Google** Imagen](https://imagen.research.google/) in Vorbereitung)
-  - (vgl. auch die Lernmaterialien zu [Prompt Engineering](https://www.oth-aw.de/i/#c40155))
+  - (vgl. auch die Lernmaterialien zu [Prompt Engineering](https://github.com/cyberlytics/awesome-basics#ai))
   - Open Source: **[OpenArt](https://openart.ai/create)** ⭐ ([github](https://github.com/OpenArt-AI)), **[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)** als free cloud UI via Huggingface Space (eigentliches [KI-Modell](https://github.com/CompVis/stable-diffusion) auf GitHub) by [stability.ai](https://stability.ai/) + [runway](https://runwayml.com/) sowie darauf basierend **[Lexica](https://lexica.art/)**
     - Kommandozeilenwerkzeug: **[imaginAIry](https://github.com/brycedrennan/imaginAIry)**
   - Closed Source: **[craiyon](https://www.craiyon.com/)** (früher: „DALL·E mini“), per Warteliste: [OpenAI DALL·E 2](https://labs.openai.com/waitlist)
