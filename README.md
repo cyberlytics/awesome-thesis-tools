@@ -143,11 +143,11 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 
 ## LaTeX & PDF
 
-- - DISCLAIMER: **[typst](https://typst.app/) vs. LaTeX**? Mit typst gibt es eine moderne, überlegene Typesetting-Variante zu latex, die aber technisch völlig eigenständig ist.
-	- Überlegen Sie ggf. Publikationen oder Abschlussarbeiten in typst zu schreiben; nur fehlt dann ggf. die einfache Vorlage (aber mind. [IEEE](https://typst.app/universe/package/charged-ieee/) gibt es sowie erste Drafts zu [ACM](https://typst.app/universe/package/clean-acmart))
-	- Mit [touying](https://touying-typ.github.io/) gibt es eine gute Altternative zu latex-beamer in typst
-	- Weiterführende Quellen: [Awesome Typst](https://github.com/qjcg/awesome-typst)
-	- "This being said ..." jetzt zurück zum wohlbekannten LaTeX:
+- DISCLAIMER: **[typst](https://typst.app/) vs. LaTeX**? Mit typst gibt es eine moderne, überlegene Typesetting-Variante zu latex, die aber technisch völlig eigenständig ist.
+  - Überlegen Sie ggf. Publikationen oder Abschlussarbeiten in typst zu schreiben; nur fehlt dann ggf. die einfache Vorlage (aber mind. [IEEE](https://typst.app/universe/package/charged-ieee/) gibt es sowie erste Drafts zu [ACM](https://typst.app/universe/package/clean-acmart))
+  - Mit [touying](https://touying-typ.github.io/) gibt es eine gute Altternative zu latex-beamer in typst
+  - Weiterführende Quellen: [Awesome Typst](https://github.com/qjcg/awesome-typst)
+  - "This being said ..." jetzt zurück zum wohlbekannten LaTeX:
 - Einstieg:
   - LaTeX: Overleaf **[Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)** sowie **[How to Write a Thesis in LaTeX](https://www.overleaf.com/learn/latex/How_to_Write_a_Thesis_in_LaTeX_(Part_1)%3A_Basic_Structure)**
     - Weiteres Einstiegsmaterial:  **[A simple guide to LaTeX – Step by Step](https://latex-tutorial.com/tutorials/)** | **[Wikibooks: LaTeX](https://en.wikibooks.org/wiki/LaTeX)**
