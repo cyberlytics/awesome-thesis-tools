@@ -632,6 +632,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 		- **[3DS Max](https://www.autodesk.de/education/edu-software/overview)** \[**choco install 3dsmax**\] (One-Year Educational Access)
 		- **[Cinema 4D](https://www.maxon.net/en/educational-licenses)** (Educational, Six-month, renewable)
 		- **[Houdini](https://www.sidefx.com/education/education-programs/students/#free_software)** (Free Apprentice Edition)
+	- Cloud: [Spline](https://spline.design/)
 - Blackmagic Design: **DaVinci Resolve Studio** (Post-Production)
 	- Kostenlose Variante: **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)**
 - Foundry **[Nuke VFX](https://www.foundry.com/products/nuke-family/nuke)** (Post-Producton: Node-based Compositing/VFX)
