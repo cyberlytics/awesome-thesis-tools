@@ -23,6 +23,7 @@ Hinweise:
 <!-- toc -->
 
 - [Literaturrecherche & Wissensaufbau](#literaturrecherche--wissensaufbau)
+- [Nützliche Werkzeuge](#nutzliche-werkzeuge)
 - [Generative KI](#generative-ki)
 - [LaTeX & PDF](#latex--pdf)
 - [Schreiben](#schreiben)
@@ -85,6 +86,17 @@ Hinweise:
 	- (Gegenüberstellung von [Obsidian vs. Notion](https://mattgiaro.com/zettelkasten-obsidian-notion/), aus der Perspektive Zettelkasten)
 	- Vgl. ggf. zusätzlich die OneNote-Alternativen im Abschnitt [Kostenlose Alternativen](#kostenlose-alternativen)
 - Weiterführende Quellen: [Tools for Academic Research](https://tools.kausalflow.com/tools/) ([lineare Variante](https://github.com/emptymalei/awesome-research))
+
+## Nützliche Werkzeuge
+
+- Portable Apps
+	- Disclaimer: Einsatz kann in Unternehmen verboten sein, selbst wenn diese technisch ausführbar sind
+	- [PortApps.io](https://portapps.io/apps/)
+	- [Portable Freeware](https://www.portablefreeware.com/)
+- Desktop Search Engines / Lokale Volltextsuche
+	- [DocFetcher](https://docfetcher.sourceforge.io/de/index.html), auch als Portable App
+		- Basierend auf Apache Lucene (Volltextindexierung) und Apache Tika (Extraktion von Textinhalten und Metadaten aus verschiedenen Dokumentformaten)
+	- [Anytxt Searcher](https://anytxt.net/)
 
 ## Generative KI
 
