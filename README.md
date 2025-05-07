@@ -23,7 +23,7 @@ Hinweise:
 <!-- toc -->
 
 - [Literaturrecherche & Wissensaufbau](#literaturrecherche--wissensaufbau)
-- [Nützliche Werkzeuge](#nutzliche-werkzeuge)
+- [Desktop Tools](#desktop-tools)
 - [Generative KI](#generative-ki)
 - [LaTeX & PDF](#latex--pdf)
 - [Schreiben](#schreiben)
@@ -87,7 +87,7 @@ Hinweise:
 	- Vgl. ggf. zusätzlich die OneNote-Alternativen im Abschnitt [Kostenlose Alternativen](#kostenlose-alternativen)
 - Weiterführende Quellen: [Tools for Academic Research](https://tools.kausalflow.com/tools/) ([lineare Variante](https://github.com/emptymalei/awesome-research))
 
-## Nützliche Werkzeuge
+## Desktop Tools
 
 - Portable Apps
 	- Disclaimer: Einsatz kann in Unternehmen verboten sein, selbst wenn diese technisch ausführbar sind
