@@ -23,7 +23,7 @@ Hinweise:
 <!-- toc -->
 
 - [Literaturrecherche & Wissensaufbau](#literaturrecherche--wissensaufbau)
-- [Desktop Tools](#desktop-tools)
+- [Portable Apps](#portable-apps)
 - [Generative KI](#generative-ki)
 - [LaTeX & PDF](#latex--pdf)
 - [Schreiben](#schreiben)
@@ -58,7 +58,9 @@ Hinweise:
 	- Weitere Referenzen: [Georgetown Univ.-Bib. Liste](https://guides.library.georgetown.edu/ai/tools)
 - Drei Informatik-Primärquellen: **[SpringerLink](https://link.springer.com/)**, **[ACM](https://dl.acm.org/)**, **[IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)**
 - **[Publish or Perish](https://harzing.com/resources/publish-or-perish)**: Desktop Applikation mit intergrierten Autoren-Metriken
-- Suche in mehreren PDFs? **[ripgrep-all](https://github.com/phiresky/ripgrep-all)** \[**choco install ripgrep-all**\] | **[SeekFast](https://seekfast.org/download-seekfast)**
+- Suche in mehreren PDFs (ohne Indexierung)
+	- CLI: **[ripgrep-all](https://github.com/phiresky/ripgrep-all)** \[**choco install ripgrep-all**\], **[SeekFast](https://seekfast.org/download-seekfast)**
+	- Alternative: unten im Abschnitt [Kostenlose Alternativen](#kostenlose-alternativen) die Abschnitte "Desktop Search Engine" und "Document Management Systeme"
 - Fancy Cloud-/AI-Stuff (€): **[scite\_](https://scite.ai/)** und **[Iris.ai](https://the.iris.ai/)**
 - Anti-Paywall
 	- Ausgangsbasis: Google Scholar, etc. pp., dort kein PDF sondern nur Link des Publishers, dort teuer
@@ -87,16 +89,13 @@ Hinweise:
 	- Vgl. ggf. zusätzlich die OneNote-Alternativen im Abschnitt [Kostenlose Alternativen](#kostenlose-alternativen)
 - Weiterführende Quellen: [Tools for Academic Research](https://tools.kausalflow.com/tools/) ([lineare Variante](https://github.com/emptymalei/awesome-research))
 
-## Desktop Tools
+## Portable Apps
 
-- Portable Apps
-	- Disclaimer: Einsatz kann in Unternehmen verboten sein, selbst wenn diese technisch ausführbar sind
+Disclaimer: Einsatz kann in Unternehmen verboten sein, selbst wenn diese rein technisch sogar ausführbar sind!
+
+- Portable Apps Repositories:
 	- [PortApps.io](https://portapps.io/apps/)
 	- [Portable Freeware](https://www.portablefreeware.com/)
-- Desktop Search Engines / Lokale Volltextsuche
-	- [DocFetcher](https://docfetcher.sourceforge.io/de/index.html), auch als Portable App
-		- Basierend auf Apache Lucene (Volltextindexierung) und Apache Tika (Extraktion von Textinhalten und Metadaten aus verschiedenen Dokumentformaten)
-	- [Anytxt Searcher](https://anytxt.net/)
 
 ## Generative KI
 
@@ -622,11 +621,20 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 - **[Virbela](https://www.virbela.com/)**, **[ivCAMPUS](https://www.ivicos.eu/)** bzw. **[CampFire](https://www.campfire.to/)** (Metaverse)
 	- Self-Hosted: **[WorkAdventure](https://github.com/thecodingmachine/workadventure)**
 	- Cloud: [**gather**.town](https://www.gather.town/) | **[HyHyve](https://www.hyhyve.com/pricing/)**
-- Microsoft **SharePoint** (Enterprise DMS/CMS)
-	- Web/Self-Hosted: [**Alfresco** Community Edition](https://www.alfresco.com/products/community/download)
+- Microsoft **SharePoint** (ECM/CMS)
+	- Web/Self-Hosted: [**Alfresco** Community Edition](https://www.hyland.com/en/resources/alfresco-community-download) (Java; [github](https://github.com/Alfresco/alfresco-community-repo))
 	- (Groupware-Aspekte: vgl. MS Outlook Alternativen)
 	- (Projektmanagement-Aspekte: vgl. MS Project Alternativen)
 	- (Wiki-Aspekte: vgl. Atlassian Confluence Alternativen auf der [Schwesterseite](https://github.com/cyberlytics/awesome-software-engineering-tools#kostenlose-alternativen))
+- Document Management Systeme (DMS) {reduzierter als ECM/CMS}
+	- (Ebenfalls [**Alfresco** Community Edition](https://www.hyland.com/en/resources/alfresco-community-download), siehe bei ECM/CMS)
+	- Web/Self-Hosted: [DocSpell](https://docspell.org/#feature-selection) (Java), [Paperless](https://github.com/paperless-ngx/paperless-ngx) (Python)
+- Microsoft Windows Search (Desktop Search Engine / Lokale Volltextsuche)
+	- [DocFetcher](https://docfetcher.sourceforge.io/de/index.html) (Java), auch als Portable App
+		- Basierend auf Apache Lucene (Volltextindexierung) und Apache Tika (Extraktion von Textinhalten und Metadaten aus verschiedenen Dokumentformaten)
+	- [Anytxt Searcher](https://anytxt.net/)
+	- Nennenswert: CLI-Suche in mehreren PDFs (ohne Indexierung)
+		- CLI: **[ripgrep-all](https://github.com/phiresky/ripgrep-all)** \[**choco install ripgrep-all**\], **[SeekFast](https://seekfast.org/download-seekfast)**
 - **cPanel** / **Plesk** / … (Small Business Linux Server)
 	- **[KeyHelp](https://www.keyhelp.de)** (Linux-only), Deutsche Herkunft (kostenlos aber closed source)
 		- Primär: Websites/Domains, Mail-Accounts, FTP und Fileserver
