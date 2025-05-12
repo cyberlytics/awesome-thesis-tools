@@ -1,3 +1,4 @@
+[//]: # (Author: Christoph P. Neumann)
 [//]: # (Title: Awesome Abschlussarbeit Informatik/KI)
 [//]: # (Language: de-DE)
 [//]: # (Licence: CC BY 4.0)
