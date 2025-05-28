@@ -494,7 +494,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 
 \[ Parallel zur Abschlussarbeit werden Sie mit der Jobsuche und Ihren Bewerbungen beginnen. \]
 
-- Weitere Tipps: vgl. [Schwesterseite](https://github.com/cyberlytics/awesome-basics#bsc-bonusliste)
+- Weitere Tipps: vgl. [Digitaler-Ressourcenpool-Schwesterseite](https://github.com/cyberlytics/awesome-basics#bsc-bonusliste)
 - Lebenslauf-Werkzeuge für Informatiker:
 	- LaTeX: **[CV-Templates](https://de.overleaf.com/latex/templates/tagged/cv)** (mein eigenes Paket: [ECV](https://ctan.org/pkg/ecv))
 	- Web: [Free **Responsive HTML5 Website Template**](https://www.google.de/search?q=Free+Responsive+HTML5+Website+Template)
@@ -628,7 +628,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- Web/Self-Hosted: [**Alfresco** Community Edition](https://www.hyland.com/en/resources/alfresco-community-download) (Java; [github](https://github.com/Alfresco/alfresco-community-repo))
 	- (Groupware-Aspekte: vgl. MS Outlook Alternativen)
 	- (Projektmanagement-Aspekte: vgl. MS Project Alternativen)
-	- (Wiki-Aspekte: vgl. Atlassian Confluence Alternativen auf der [Schwesterseite](https://github.com/cyberlytics/awesome-software-engineering-tools#kostenlose-alternativen))
+	- (Wiki-Aspekte: vgl. Atlassian Confluence Alternativen auf der [SWE-Schwesterseite](https://github.com/cyberlytics/awesome-software-engineering-tools#kostenlose-alternativen))
 - Document Management Systeme (DMS) {reduzierter als ECM/CMS}
 	- (Ebenfalls [**Alfresco** Community Edition](https://www.hyland.com/en/resources/alfresco-community-download), siehe bei ECM/CMS)
 	- Web/Self-Hosted: [DocSpell](https://docspell.org/#feature-selection) (Java), [Paperless](https://github.com/paperless-ngx/paperless-ngx) (Python)
