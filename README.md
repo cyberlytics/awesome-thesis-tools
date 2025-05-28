@@ -62,7 +62,7 @@ Hinweise:
 - Suche in mehreren PDFs (ohne Indexierung)
 	- CLI: **[ripgrep-all](https://github.com/phiresky/ripgrep-all)** \[**choco install ripgrep-all**\], **[SeekFast](https://seekfast.org/download-seekfast)**
 	- Alternative: unten im Abschnitt [Kostenlose Alternativen](#kostenlose-alternativen) die Abschnitte "Desktop Search Engine" und "Document Management Systeme"
-- Fancy Cloud-/AI-Stuff (€): **[scite\_](https://scite.ai/)** und **[Iris.ai](https://the.iris.ai/)**
+- Fancy Cloud-/AI-Stuff (€): **[scite\_](https://scite.ai/)**, **[Iris.ai](https://the.iris.ai/)**, [DistillerSR](https://www.distillersr.com/)
 - Anti-Paywall
 	- Ausgangsbasis: Google Scholar, etc. pp., dort kein PDF sondern nur Link des Publishers, dort teuer
 	- Rechtlicher Hintergrund: Webartikel [Was dürfen Sie nach Urheberrecht wirklich kopieren?](https://www.kopierermiete.de/news/18/04/was-duerfen-sie-nach-urheberrecht-wirklich-kopieren)
@@ -116,10 +116,12 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 		- LLM Modelle mit DE-Unterstützung: [Webartikel](https://medium.com/@oledawidzinski/deutschsprachige-open-source-llms-als-alternative-zu-chatgpt-und-co-8ecbcf6ab96d) (u.a. Mistral-Nemo-Instruct-2407, DiscoLM_German_7b_v1, SauerkrautLM, …, Qwen2-7B-Instruct, Llama3-DiscoLeo-Instruct-8B, …)
 		- Long-Term Context LLM / Personalized AI: [MemGPT](https://memgpt.ai/)
 		- Agent AI: **[Letta](https://github.com/letta-ai/letta)**
-	- Local/Desktop/Offline: **[Msty](https://msty.app/)** ⭐, **[LM Studio](https://lmstudio.ai/)** ⭐, Nomic [gpt4all](https://github.com/nomic-ai/gpt4all), [Jan AI](https://jan.ai) und andere
+	- Desktop/Local/Offline: **[Msty](https://msty.app/)** ⭐, **[LM Studio](https://lmstudio.ai/)** ⭐ \[**choco install lm-studio**\], **[Witsy](https://witsyai.com/)** ⭐ \[**choco install witsy**\], Nomic [gpt4all](https://github.com/nomic-ai/gpt4all), [Jan AI](https://jan.ai) und andere
 		- Local [OpenAI-compatible API](https://platform.openai.com/docs/api-reference/chat) Server: [LM Studio OpenAI-compatible API server](https://lmstudio.ai/docs/api/openai-api), [vLLM OpenAI-compatible API Server](https://docs.vllm.ai/en/latest/serving/openai_compatible_server.html), [Msty Local AI Service](https://docs.msty.app/how-to-guides/make-local-ai-service-available-on-the-network), [gpt4all API Server](https://docs.gpt4all.io/gpt4all_api_server/home.html), [Jan.ai Cortex Local API Server](https://cortex.so/docs/quickstart/) ([API](https://cortex.so/api-reference/))
 		- Let LLMs run code locally: [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)
-	- Local/Embedded/Offline: [vLLM](https://github.com/vllm-project/vllm)
+	- Embedded/Local/Offline: [vLLM](https://github.com/vllm-project/vllm)
+	- Desktop/Cloud-only/Online: **[Noi](https://github.com/lencx/Noi)**
+	  - Single Vendor: Unofficial **[ChatGPT Desktop](https://github.com/lencx/ChatGPT)** \[**choco install chatgpt**\], Official **[Claude](https://claude.ai/download)** \[**choco install claude**\], Official **[Perplexity Windows App](https://apps.microsoft.com/detail/xp8jnqfbqh6pvf)** (sowie Unofficial Inulute [Perplexity AI Desktop](https://pplx.inulute.com/download/))
 	- more: [basran](https://github.com/hyperonym/basaran), [LocalAI](https://github.com/mudler/LocalAI), [Xorbits Inference](https://github.com/xorbitsai/inference) 
 	- Search-Chatbots: [**perplexity**.ai](https://www.perplexity.ai/) ⭐ (mit „Focus: Academic“)
 		- Weitere Nennenswerte: Anthropic **[Claude](https://www.anthropic.com)**, Google [Gemini](https://gemini.google.com/), OpenAI [ChatGPT](https://openai.com/blog/chatgpt/), Meta [Llama](https://llama.meta.com/), [HuggingChat](https://huggingface.co/chat/), Opera [Aria](https://www.opera.com/features/aria), [character.ai](https://beta.character.ai/), …
