@@ -40,6 +40,7 @@ Hinweise:
 - [Mathe](#mathe)
 - [Job-Bewerbungen](#job-bewerbungen)
 - [Kostenlose Alternativen](#kostenlose-alternativen)
+- [Bonus: 3D-Printing](#bonus-3d-printing)
 - [Appendix: More Free Student Stuff](#appendix-more-free-student-stuff)
 - [Footer](#footer)
   - [Future Work](#future-work)
@@ -53,6 +54,11 @@ Hinweise:
 
 - [Google **Scholar**](https://scholar.google.com) | **[ResearchGate](https://www.researchgate.net/)** | **[Semantic Scholar](https://www.semanticscholar.org)**
 	- DE: [**DBLP** Computer Science Bibliography](https://dblp.org/) | [**BASE**: Bielefeld Academic Search Engine](https://www.base-search.net/)
+	- Weitere Scholar-Alternativen: [Scopus](https://www.scopus.com/), [Lens.org](https://www.lens.org/), [JSTOR](https://www.jstor.org/)
+[OpenAlex](https://openalex.org/)
+		- Indirekte Alternativen: [Scispace](https://scispace.com/), [Semantic Scholar](https://www.semanticscholar.org/), [ResearchGate](https://www.researchgate.net/)
+	- Scholar-Alternativen mit API: [DBLP API](https://dblp.org/faq/How+to+use+the+dblp+search+API.html) ([DBLP SPARQL](https://sparql.dblp.org/)), [BASE API](https://api.base-search.net/), [Scopus API](https://dev.elsevier.com/api_docs.html), [Lens API](https://docs.api.lens.org/), [JSTOR programmatic access](https://labs.jstor.org/developers/), [OpenAlex API](https://docs.openalex.org/how-to-use-the-api/api-overview)
+		- Indirekte Alternativen mit API: [Semantic Scholar](https://www.semanticscholar.org/product/api) (NOT: Scispace, ResearchGate)
 - Fortgeschrittene Websuchen: Google [Advanced Search](https://www.google.com/advanced_search) (Liste of [Search Operators](https://ahrefs.com/blog/google-advanced-search-operators/)) | Google [Advanced Image Search](https://www.google.com/advanced_image_search)
 	- Clean Google Search result URLs: [URL clean](https://urlclean.com/)
 - KI-gestützte Literaturrecherche: [ResearchRabbit](https://www.researchrabbit.ai/), [Open Knowledge Maps](https://openknowledgemaps.org/), [Connected Papers](https://www.connectedpapers.com), [Consensus](https://consensus.app/search/), uvm.
@@ -83,6 +89,11 @@ Hinweise:
 		- Journalartikel [Who's downloading pirated papers? Everyone](https://www.science.org/doi/10.1126/science.352.6285.508)
 	- **Zusammenfassung** Ihres Informatik-Standard-Methodenkoffers zur **Literaturbeschaffung**:
 		- ⚠️: **Google Scholar, VPN: SpringerLink/Hanser, höfliche E-Mail-Nachfragen, ResearchGate, Bib besuchen (fei echt), unpaywall.org**
+- Read-it-Later
+	- (Remark: Pocket-like! But Pocket shut down in 2025.)
+	- Cloud: [Raindrop](https://raindrop.io/), [Notion](https://www.notion.com)
+	- Web/Self-Hosted: [karakeep](https://karakeep.app/), [shiori](https://github.com/go-shiori/shiori)
+	- (Außerdem die OneNote-Alternativen unter [Kostenlose Alternativen](#kostenlose-alternativen), wie Evernote)
 - Persönliches Wissensmanagement / Zettelkasten / Notizen
 	- **[Obsidian](https://obsidian.md/)** \[**choco install obsidian**\]: Zettelkasten und Notizen ([Obsidian **Video**-Tutorial: **Zettelkasten** für Beginner](https://www.youtube.com/watch?v=svqJ8BUh8mU))
 	- **[Notion](https://www.notion.so/)** \[**choco install notion**\]: Notizen und Kollaboration
@@ -162,9 +173,14 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- Weiterführende Referenzen: [There is an AI for that](https://theresanaiforthat.com/most-saved/) | [There's an AI](https://theresanai.com/)
 - IT-Security:
 	- [WormGPT](https://thehackernews.com/2023/07/wormgpt-new-ai-tool-allows.html)
+- Prompt Builder:
+	- Cloud: gptforwork [OpenAI GPT prompt generator](https://gptforwork.com/tools/prompt-generator)
+- Prompting Desktop Integration:
+	- [Razer AI Launcher](https://mysupport.razer.com/app/answers/detail/a_id/15016) (Benötigt Razer Maus; Prompt Launcher ist dann Teil von **Synapse**)
+	- [Logi AI Prompt Builder](https://www.logitech.com/software/logi-ai-prompt-builder.html) (Benötigt Logitech Maus; Prompt Builder ist dann Teil von **Logi Options+**)
+	- Weiterführende Quellen: [Awesome **ChatGPT Prompts**](https://github.com/f/awesome-chatgpt-prompts)
 - Weiterführende Quellen
 	- Werkzeugsammlungen: **[FutureTools](https://www.futuretools.io)** | [Awesome AI Tools](https://tools.awesomechatgpt.com) #1 | [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) #2 | Altern [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) #3 | [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) #1 | [Awesome Generative AI](https://github.com/filipecalegario/awesome-generative-ai) #2 | [Awesome AGI](https://github.com/EmbraceAGI/Awesome-AGI) | [Awesome GPT](https://github.com/formulahendry/awesome-gpt) | [Awesome GPT-4](https://gpt4.tools) | [Awesome Bots](https://github.com/DopplerHQ/awesome-bots)
-	- Prompting: [Awesome **ChatGPT Prompts**](https://github.com/f/awesome-chatgpt-prompts)
 
 ## LaTeX & PDF
 
@@ -541,16 +557,31 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- Cloud:
 		- In general: No free alternative.
 		- PDF/X-1a: **[pdfrest](https://pdfrest.com/apitools/convert-to-pdfx/)** (Starter account with free contingent)
+- Apple **Photos** / Google **Picasa**:
+	- (Category: Photo Cataloging, Image Organizer, Metadata Manager)
+	- Desktop: **[Mylio Photos](https://mylio.com/download/)** (free personal Ed.), [Tonfotos](https://tonfotos.com/)
+		- Viewer-centric: **[FastStone Image Viewer](https://www.faststone.org/)** ⭐ \[**choco install fsviewer**\] | [ACDsee Free](https://www.acdsee.com/en/products/acdsee-free/)
+	- Web/Self-Hosted: [Piwigo](https://piwigo.org/), [PhotoPrism](https://www.photoprism.app/)
+	- Cloud: iPhoto, Google Photos, …
 - Adobe **LightRoom**
-	- Desktop: **[DarkTable](https://www.darktable.org/)** \[**choco install darktable**\] | **[RawTherapee](https://www.rawtherapee.com/)** \[**choco install rawtherapee**\]
+	- (Category: Non-Destructive RAW Photo Editor and Photography Workflows aka Lightweight DAM)
+	- Desktop: **[DarkTable](https://www.darktable.org/)** \[**choco install darktable**\] 
+		- zzgl. die DAM-Alternative unten!
+		- Editor-only: **[RawTherapee](https://www.rawtherapee.com/)** \[**choco install rawtherapee**\]
 	- Cloud: **[polarr](https://photoeditor.polarr.co/)**
+- Adobe **Experience Manager** bzw. **MediaValet**
+	- (Category: Media Asset Management bzw. Digital Asset Management = DAM)
+	- Desktop: **[digiKam](https://www.digikam.org/)**
+	- Web/Self-Hosted: **[AtroDAM](https://www.atrodam.com/)**, **[Phraseanet](https://www.phraseanet.com/)**
+	- Cloud: **[ResourceSpace](https://www.resourcespace.com/free)** (free 10GB), [Razuna](https://razuna.com/pricing/)
+		- (Cloud-Kommerziell/€: **[pixx.io](https://www.pixx.io/)** (DE, dt. Server, DSGVO), [**brandfolder**.com](https://brandfolder.com/), **[OpenText Media Management](https://www.opentext.com/products/media-management)**, uvm.)
 - Adobe **Dreamweaver**
 	- Desktop: **[BlueGriffon](http://www.bluegriffon.org/)** \[**choco install bluegriffon**\] | **[Google Web Designer](https://webdesigner.withgoogle.com/)** \[**choco install google-web-designer**\]
 	- Cloud: **[webflow](https://webflow.com/)**
 - Adobe **XD**
 	- Desktop: **[JustInMind](https://www.justinmind.com)**
 	- Cloud: **[Figma](https://www.figma.com/)**, [mydraft](https://mydraft.cc/), [Moqups](https://moqups.com/), [Framer](https://www.framer.com/), [NinjaMock](https://ninjamock.com/), uvm.
-- Adobe **Premiere**
+- Adobe **Premiere** / Apple **Final Cut**
 	- Desktop: **[OpenShot](https://www.openshot.org/)** \[**choco install openshot**\] | **[Kdenlive](https://kdenlive.org/de/)** \[**choco install kdenlive**\] | **[Shotcut](https://www.shotcut.org/)** \[**choco install shotcut.install**\] | **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** | **[HitFilm Express](https://fxhome.com/product/hitfilm-express)**
 - Adobe **Audition**
 	- Desktop: **[Audacity](https://www.audacityteam.org/)** \[**choco install audacity**\]
@@ -563,9 +594,6 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 - Adobe **Captivate** (E-Learning)
 	- Desktop: **[Adapt](https://www.adaptlearning.org/)** | **[Xerte](https://xerte.org.uk/)**
 	- Cloud: **[Moodle](https://download.moodle.org/)**
-- Adobe **Experience Manager** bzw. **MediaValet** (Media Asset Management bzw. Digital Asset Management = DAM)
-	- Web/Self-Hosted: **[AtroDAM](https://www.atrodam.com/)** (und [weitere](https://www.softwaresuggest.com/digital-asset-management-software/open-source))
-	- Cloud: (€:) **[pixx.io](https://www.pixx.io/)** (DE, dt. Server, DSGVO), (€:) [**brandfolder**.com](https://brandfolder.com/), (€:) **[OpenText Media Management](https://www.opentext.com/products/media-management)**, uvm.
 - Apple AirDrop
 	- Ad Hoc: **[Local Send](https://localsend.org)** (selbes WLAN benötigt)
 	- Continuos: **[Syncthing](https://syncthing.net/)** (bilateral Peer-to-Peer)
@@ -667,6 +695,36 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 		- Weitere kostenlose Varianten: Cockos **[Reaper](https://www.reaper.fm/)** (60d kostenlos, dann Nag-Screen), [Garageband](https://www.apple.com/mac/garageband/) (nur macOS)
 	- Nennenswerte Plugins:
 		- (€) Antares [Auto-Tune](https://www.antarestech.com/products/auto-tune/), z.B. kostengünstige Einsteigerversion [Access](https://www.antarestech.com/products/auto-tune/access) ([Video](https://www.youtube.com/watch?v=3kfsVaeSvHw))
+
+## Bonus: 3D-Printing
+
+- Begegnungen / Creative Retreat
+	- FabLab (u.a. in [Nürnberg](https://fablab-nuernberg.de/) und [Erlangen](https://fablab.fau.de/))
+	- [OTH-AW MakerLab](https://www.oth-aw.de/hochschule/kooperationen/makerspace/) in Amberg
+- Einstieg:
+	- instructables [3D Printing Basics](https://www.instructables.com/3D-Printing-Basics/)
+	- Drucker-Bestenliste: [cnet](https://www.cnet.com/tech/computing/best-3d-printer/) uvm.
+- Repos für 3D-Print-Modelle:
+	- Universell: [Thingiverse](https://www.thingiverse.com/)
+	- Bambu-Lab-Printer-zentrisch: [MakerWorld](https://makerworld.com/3d-models)
+	- Prusa-Printer-zentrisch: [printables](https://printables.com)
+	- Search Engine for 3D: [yeggi](https://www.yeggi.com/)
+- Kuratierte 3D-Print-Modelle:
+	- phrozen [Cool 3D Prints](https://phrozen3d.com/blogs/guides/cool-3d-prints)
+	- Cults3D [Useful, functional and practical 3D prints](https://cults3d.com/en/collections/best-useful-functional-practical-3d-prints)
+	- Eigene Empfehlungen:
+		- [Pringles-Schiebeschale](https://makerworld.com/models/1461894-pringles-chips-slider-tray-with-a-functional-lid)
+	- Für Kinder:
+		- [Flexi Rex](https://github.com/DrLex0/print3D-FlexiRex)
+		- [Flussotter](https://makerworld.com/models/1457412-cute-river-otter-articulated)
+		- [Flexi Cat](https://makerworld.com/models/1452423-flexi-cat-new-design)
+		- [Schlüsselanhänger mit Namen](https://makerworld.com/models/1467612-parametric-name-keychain)
+		- [Stempel](https://makerworld.com/models/1037541-stamp-maker-customizable-stamps)
+		- [Baby Dragon](https://www.printables.com/model/349385-baby-dragon)
+		- [Dragon](https://www.printables.com/model/1196735-dragon-on-pedestal-figure)
+- On-Demand Online-Fertigung
+	- DE: [Xometry](https://get.xometry.eu/), [Zelta3D](https://zelta3d.de/), [3DDesign24](https://www.3ddesign24.de/), etc.
+- Weiterführende Referenzen: [Awesome 3D Printig](https://github.com/ad-si/awesome-3d-printing)
 
 ## Appendix: More Free Student Stuff
 
