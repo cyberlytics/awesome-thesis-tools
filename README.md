@@ -155,7 +155,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 		- Weiterführende Referenzen: [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) | [Awesome Code-AI](https://github.com/sourcegraph/awesome-code-ai)
 	- Text-to-SQL:
 		- Foundational Models: [DuckDB NSQL](https://github.com/NumbersStationAI/DuckDB-NSQL)
-		- Tutorials: AWS Machine Learning [Build a robust text-to-SQL solution ](https://aws.amazon.com/de/blogs/machine-learning/build-a-robust-text-to-sql-solution-generating-complex-queries-self-correcting-and-querying-diverse-data-sources/), LlamaIndex [Text-to-SQL Guide with Jupyter](https://docs.llamaindex.ai/en/stable/examples/index_structs/struct_indices/SQLIndexDemo/), IBM Watson [Generating SQL from text with LLMs](https://developer.ibm.com/tutorials/awb-text-to-sql-using-llms/), 
+		- Tutorials: AWS Machine Learning [Build a robust text-to-SQL solution ](https://aws.amazon.com/de/blogs/machine-learning/build-a-robust-text-to-sql-solution-generating-complex-queries-self-correcting-and-querying-diverse-data-sources/), LlamaIndex [Text-to-SQL Guide with Jupyter](https://docs.llamaindex.ai/en/stable/examples/index_structs/struct_indices/SQLIndexDemo/), IBM Watson [Generating SQL from text with LLMs](https://developer.ibm.com/tutorials/awb-text-to-sql-using-llms/)
 	- Text-to-Image:
 		- AI-Image-Generator Model-Benchmark: Artificial Analysis [Image AI Model & Provider Leaderboard](https://artificialanalysis.ai/text-to-image) | [Benchmarking-Awesome-Diffusion-Models](https://github.com/Schuture/Benchmarking-Awesome-Diffusion-Models)
 		- Dev/FOSS Models: **[Stable Diffusion](https://github.com/CompVis/stable-diffusion)**, **[FLUX.1](https://github.com/black-forest-labs/flux)**
@@ -346,6 +346,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 - Kanban-Board: **[Wekan](https://wekan.GitHub.io/)** «Self-hosted»
 - Timer: **[Boxing Interval Timer](https://boxingtimer.org/)** oder [Online-Stopwatch](https://www.online-stopwatch.com/timer/5minutes/) (5min) etc. pp.
 - Time Tracking? **[TopTracker](https://www.toptal.com/tracker)**
+- Work Management? **[monday.com](https://monday.com/)** (free: 2 Persons, 3 Boards)
 - Projektmanagement? **[OpenProject](https://www.openproject.org/)** \[via [Docker](https://www.openproject.org/docs/installation-and-operations/installation/docker/)\] | **[GitLab](https://about.gitlab.com/install/)**[Issue Tracking](https://about.gitlab.com/stages-devops-lifecycle/issueboard/) \[bspw. via [Docker](https://docs.gitlab.com/ee/install/docker.html) oder per [Cloud](https://about.gitlab.com/pricing/)\] | Cloud: **[Taiga.io](https://www.taiga.io/)**
 - Mind Mapping? Desktop: **[XMind](https://www.xmind.net/)** \[**choco install xmind**\] | **[PlantUML MindMaps](https://plantuml.com/mindmap-diagram)** | **[Mermaid](https://mermaid.js.org/syntax/mindmap.html)**
 - Whiteboard? **[OpenBoard](https://openboard.ch)** \[**choco install openboard**\]
@@ -500,11 +501,12 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 
 ## Mathe
 
-- **[MathCha.io](https://www.mathcha.io)**: Eine Cloud-WebApp zum zeichnen von mathematischen Grafiken.
-	- Erlaubt den Export nach SVG und sogar nach Tikz (Latex) Format.
+- **[MathCha.io](https://www.mathcha.io)**: Eine Cloud-WebApp zum zeichnen von mathematischen Grafiken
+	- Erlaubt den Export nach SVG und sogar nach Tikz zwecks Latex
 - **[Geogebra](https://moodle.oth-aw.de/mod/url/view.php?id=86125)**: Graphikrechner, 2D Geometrie, 3D Geometrie, Algebra-Rechner, …
 	- (Auch als Desktop-App unter Windows verfügbar, bspw. mittels chocolatey: **choco install geogebra6** bzw. **choco install geogebra-geometry**)
 	- Alternative: **Desmos** ([Desmos Calculator](https://moodle.oth-aw.de/mod/url/view.php?id=86074), [Desmos Geometry](https://moodle.oth-aw.de/mod/url/view.php?id=86075))
+- **[JSXGraph](https://jsxgraph.uni-bayreuth.de)**: JavaScript library for cross-browser interactive geometry, function plotting, charting, and data visualization
 
 ## Job-Bewerbungen
 
