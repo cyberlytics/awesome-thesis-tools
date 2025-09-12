@@ -103,6 +103,9 @@ Hinweise:
 	- **[Notion](https://www.notion.so/)** \[**choco install notion**\]: Notizen und Kollaboration
 	- (Gegenüberstellung von [Obsidian vs. Notion](https://mattgiaro.com/zettelkasten-obsidian-notion/), aus der Perspektive Zettelkasten)
 	- Vgl. ggf. zusätzlich die OneNote-Alternativen im Abschnitt [Kostenlose Alternativen](#kostenlose-alternativen)
+- [Speed Reading](https://www.amazon.de/dp/3868828710/) / Schnelllesen / [RSVP](https://elvers.us/perception/rsvp/) / [Spritz](https://www.technology.org/2014/03/19/spritz-speed-reading-apps-prose-cons/):
+	- Browser bookmarklet: **[jetzt](https://ds300.github.io/jetzt/#install)** ⭐
+	- CLI/Console: [speedread](https://github.com/pasky/speedread)
 - Weiterführende Quellen: [Tools for Academic Research](https://tools.kausalflow.com/tools/) ([lineare Variante](https://github.com/emptymalei/awesome-research))
 
 ## Portable Apps
@@ -351,6 +354,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 
 ## Management & Agile Methoden
 
+- Terminumfragen: **[nuudel](https://nuudel.digitalcourage.de/)** ⭐, [fragab](https://fragab.com/)
 - Kalenderwoche: [aktuelle-**kalenderwoche**.org](https://www.aktuelle-kalenderwoche.org/)
 - Zeitzonen: **[worldtimebuddy](https://www.worldtimebuddy.com/)**, [Time Zone Map](https://www.timeanddate.com/time/map/)
 - Ganttcharts:
@@ -413,11 +417,14 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 - Adobe **Illustrator**: Für ambitionierte Vektorgrafiken.
 	- Illustrator erlaubt das Öffnen von PDFs und eignet sich dadurch gut zur Extraktion von Grafiken, ggf. in hochauflösendem Vektorformat.
 	- Über die Zugehörigkeit zur OTH-AW müssten Sie auch einen Zugang zur Adobe Creative Cloud bekommen können
-- [**draw.io**/diagrams.net](https://app.diagrams.net): Universelles Zeichenwerkzeug, u.a. auf Augenhöhe mit Microsoft Visio.
+- [**draw.io**/diagrams.net](https://app.diagrams.net) ⭐: Universelles Zeichenwerkzeug, u.a. auf Augenhöhe mit Microsoft Visio
 	- Unterstützt ebenfalls Notationen wie UML und E/R-Diagramme
 	- Entweder als Cloud-WebApp oder als Desktop-Anwendung
 	- (Unter Windows bspw. mittels chocolatey: **choco install drawio**)
-- **[Krita](https://krita.org/)**: Open Source Alternative für Photoshop, also für Rastergrafiken
+- Datenvisualisierung
+	- **[Flourish](https://flourish.studio/)** ⭐: Univerelle Datenvisualisierung, besser als Microsoft Excel ([Templates](https://app.flourish.studio/templates))
+	- **[RAWGraphs](https://www.rawgraphs.io/)** ⭐: Open Source Datenvisualisierung, u.a. auf Augenhöhe mit Microsoft Excel ([Templates](https://www.rawgraphs.io/learning#charts-and-templates)
+- **[Krita](https://krita.org/)** ⭐: Open Source Alternative für Photoshop, also für Rastergrafiken
 	- (Unter Windos bspw. mittels chocolatey: **choco install krita**)
 	- \[ Es gibt andere Open Source Rastergrafikwerkzeuge, aber um Himmels willen **nicht** Gimp… \]
 - Themenkomplex: Isometrische 3D Vector Graphics/Icons
