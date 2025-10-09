@@ -231,9 +231,12 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- Für LaTeX-Zwecke besser geeignet als Adobe Reader, weil er aus einem TeX-Editor heraus an die korrekte Stelle springt… sehr bequem!
 	- Außerdem blockiert Sumatra die angezeigte Datei nicht auf Betriebssystemebene, damit ist die Datei trotz Lesezugriff durch latex neu generierbar/schreibbar
 	- Nennenswerte Alternative: **[pympress](https://github.com/Cimbali/pympress/releases)** als PDF-Viewer (auch für Windows)
-- **[TeXstudio](https://www.texstudio.org/)** \[**choco install texstudio.install**\] ⭐: Ein Fork von Texmaker, früher auch TexMakerX genannt
-	- Sowohl MikTeX als auch Sumatra PDF vor den Editoren installieren, da diese sich tlw. beim ersten Start gleich für beides konfigurieren
+- **[TeXstudio](https://www.texstudio.org/)** \[**choco install texstudio.install**\] ⭐: Ein Fork von Texmaker, früher auch TexMakerX genannt (m.E. weit besser als TeXworks)
+	- Warnhinweis: Sowohl MikTeX als auch Sumatra PDF vor den Editoren installieren, da diese sich tlw. beim ersten Start gleich für beides konfigurieren
 	- Alternativen: [TeXnicCenter 2.0](https://www.texniccenter.org) \[**choco install texniccenter**\], [Kile](https://kile.sourceforge.io/) \[**choco install kile**\], [Texmaker](https://www.xm1math.net/texmaker/) \[**choco install texmaker**\] sowie der in MikTeX und TeX Live enthaltene [TeXworks](https://tug.org/texworks) | speziell unter Mac/iOS: [Texifier](https://www.texifier.com/) oder [TeXShop](https://pages.uoregon.edu/koch/texshop/) | Gesamtübersicht: [LaTeX Editors/IDEs](https://tex.stackexchange.com/questions/339/latex-editors-ides)
+- **[TeXiFy](https://plugins.jetbrains.com/plugin/9473-texify-idea)** ⭐ als Plug-In für InteliJ IDEA von Jetbrains (Studis haben die Lizenz für IDEA kostenlos)
+	- Works with? MiKTeX or TeX Live! Inkl. Integration mit dem PDF Viewer plugin für IDEA.
+	- Alternativen: Es gibt auch für VS Code die Extension [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop), welche aber nur mit TeX Live harmoniert
 - **[Zotero](https://www.zotero.org/)** \[**choco install zotero**\] ⭐: Verwaltung der Literatur, u.a. PDFs sowie BibTeX
 	- Anleitungen: [Quick Start Guide](https://www.zotero.org/support/quick_start_guide), [Integrating Zotero with Word](https://researchguides.gonzaga.edu/zotero/word)
 	- Alternativen: [JabRef](https://www.jabref.org) \[**choco install jabref.install --ignore-dependencies**\] | [Mendeley Reference Manager](https://www.mendeley.com/reference-management/reference-manager) \[**choco install mendeley-reference-manager**\]
@@ -527,6 +530,8 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- (Auch als Desktop-App unter Windows verfügbar, bspw. mittels chocolatey: **choco install geogebra6** bzw. **choco install geogebra-geometry**)
 	- Alternative: **Desmos** ([Desmos Calculator](https://moodle.oth-aw.de/mod/url/view.php?id=86074), [Desmos Geometry](https://moodle.oth-aw.de/mod/url/view.php?id=86075))
 - **[JSXGraph](https://jsxgraph.uni-bayreuth.de)**: JavaScript library for cross-browser interactive geometry, function plotting, charting, and data visualization
+- siehe auch Abschnitt **[Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)** auf der Schwester-Seite zu BDCC/AI
+- siehe unten bei [Kostenlose Alternativen](#kostenlose-alternativen) zu SAS, MathWorks Matlab und Wolfram Mathematica
 
 ## Job-Bewerbungen
 
@@ -696,9 +701,37 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- **[WikiSuite](https://wikisuite.org)** (Linux-only), Internationales FOSS-Herkunft
 		- Großes Bündel an Unternehmensfunktionalitäten: Mail-Accounts, Websites/Domains, FTP, Fileserver, Groupware, Chat, VidConf, CRM, Payment, …
 		- Weit jenseits von Einzelaspekten wie KeyHelp (klassischer SMB Linux Server) oder auch NextCloud (Groupware)
-- MathWorks **Matlab** / Wolfram **Mathematica**
-	- Desktop: **[SageMath](https://www.sagemath.org/)**, **[Octave](https://octave.org/)**
+- **SAS** Enterprise Miner / IBM **SPSS** (Data Mining / Statistical Spreadsheets)
+	- Desktop:
+		- **[KNIME](https://www.knime.com/)** \[**choco install knime**\]
+		- **[RapidMiner](https://rapidminer.com/platform/)** for Academics mit [Educational License Program](https://rapidminer.com/platform/educational/) \[**choco install rapidminer**\]
+			- (im Kern ist [RapidMiner Studio auch Open Source](https://github.com/rapidminer/rapidminer-studio))
+		- **[PSPP](https://www.gnu.org/software/pspp/)** \[**choco install pspp**\]: free replacement for SPSS
+		- **[JASP](https://jasp-stats.org/)** \[**choco install jasp**\]
+		- **[Jamovi Desktop](https://www.jamovi.org/features.html)** \[**choco install jamovi**\]
+		- (ggf. Interactive Notebooks: bspw. [Juyter](https://jupyter-docker-stacks.readthedocs.io/en/latest/index.html) via Docker \[**docker run -p 8888:8888 jupyter/scipy-notebook**\])
+	- Cloud:
+		- **[Jamovi Cloud](https://cloud.jamovi.org/)**
+		- **[Posit Cloud](https://posit.cloud/)**
+		- **[CoCalc](https://cocalc.com/)**: Collaborative Computation and Data Science
+		- (ggf. Interactive Notebooks: bspw. [Google **Collab**](https://colab.research.google.com/))
+	- Weiterführende Referenzen:
+		- siehe auch Abschnitt **[Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)** auf der Schwester-Seite zu BDCC/AI
+		- Diskussion: [chatbot](https://www.perplexity.ai/search/new?q=Which+open-source+alternatives+exist+for+SAS%3F)
+		- SAS/GRAPH: Python (matplotlib, seaborn, Plotly), R (ggplot2, lattice)
+		- SAS/STAT or SAS/ETS: R + Python + Gretl + SciPy/statsmodels
+- Wolfram **Mathematica** / MapleSoft **Maple** (Symbolic Math / Computer Algebra System = CAS)
+	- Desktop: **[Mathics](https://mathics.org/)**
+	- Web/Self-Hosted: **[SageMath](https://www.sagemath.org/)** (Integration von NumPy, SciPy, matplotlib, Sympy, Maxima, GAP, FLINT, R, uvm.)
+	- Kommandozeile: [FriCAS](https://fricas.github.io/) (Interpreter, Compiler und riesige Bibliothek sowie auch Jupyter-Integration)
 	- Cloud: **[CoCalc](https://cocalc.com/)**, **[Wolfram Cloud](https://www.wolframcloud.com/)** (introductory plan)
+	- (Zur Einordnung: [CAS-Funktionalität](https://en.wikipedia.org/wiki/List_of_computer_algebra_systems))
+- MathWorks **MATLAB** (Numerical Computation)
+	- vgl. Mathematica/Maple/Magma, hinzu kommen noch weitere nennenswerte Alternativen:
+	- Desktop: **[Scilab](https://www.scilab.org/)**, GNU **[Octave](https://octave.org/)**
+	- Cloud: **[Octave Online](https://octave-online.net/)**
+		- (für die Cloud ggf. ebenfalls Scilab per Cloud-basierter Zugang via Plattformen wie **[CoCalc](https://cocalc.com/)**)
+	- (Der Vollständigkeit halber: MATLAB beinhaltet neben numerical computing auch [CAS-Funktionalität](https://en.wikipedia.org/wiki/List_of_computer_algebra_systems) wie Mathematica/Maple, das ist aber nicht MATLABs Sweet-Spot)
 - Autodesk **Maya** / Autodesk **3DS Max** / Maxon **Cinema 4D** / SideFx **Houdini**
 	- Desktop: **[Blender](https://www.blender.org/)** \[**choco install blender**\]
 	- Nur als Studierender:
