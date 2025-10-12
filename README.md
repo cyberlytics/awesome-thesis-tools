@@ -262,36 +262,56 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- Nennenswerte CTAN-Pakete:
 		- Alle packages, welche ich in cs-techrep (sowie iaria) verwende
 		- [backnaur](https://ctan.org/pkg/backnaur) `\usepackage[altpo]{backnaur}`
-		- [tcolorbox](https://ctan.org/pkg/tcolorbox): hübsche Boxen, bspw. für Research Questions sowie Findings:
-		```latex
-		\tcbset{
-			resques/.style={
-				colback=white, 
-				colframe=black, 
-				boxrule=0.5pt, 
-				sharp corners, 
-				enhanced,  
-				width=\linewidth,
-				top=2pt, bottom=2pt, left=3pt, right=3pt,
-				breakable, drop lifted shadow
+		- [tcolorbox](https://ctan.org/pkg/tcolorbox): für [Poster](https://mirrors.ctan.org/macros/latex/contrib/tcolorbox/tcolorbox-tutorial-poster.pdf)!
+			- Aber ebenfalls einfach nur hübsche Boxen, bspw. für Research Questions sowie Findings:
+			```latex
+			\usepackage[most]{tcolorbox}
+			\tcbset{
+				resques/.style={
+					colback=white, 
+					colframe=black, 
+					boxrule=0.5pt, 
+					sharp corners, 
+					enhanced,  
+					width=\linewidth,
+					top=2pt, bottom=2pt, left=3pt, right=3pt,
+					breakable, drop lifted shadow
+				}
 			}
-		}
-		\newenvironment{resques}[1]{
-			\begin{tcolorbox}[resques]
-			\textbf{#1:}
-		}{
-			\end{tcolorbox}
-		}
-		```
-		und verwendet als
-		```latex
-		\begin{resques}{RQ\,1}
-		How does ...?
-		\end{resques}
-		\begin{resques}{Finding\,1}
-		It occurs ...?
-		\end{resques}
-		```
+			\newenvironment{resques}[1]{
+				\begin{tcolorbox}[resques]
+				\textbf{#1:}
+			}{
+				\end{tcolorbox}
+			}
+			```
+			Und verwendet als:
+			```latex
+			\begin{resques}{RQ\,1}
+			How does ...?
+			\end{resques}
+			\begin{resques}{Finding\,1}
+			It occurs ...?
+			\end{resques}
+			```
+			- Oder Boxen für einen LLM-Dialog:
+			```latex
+			\usepackage[most]{tcolorbox}
+			\usepackage{xcolor}
+			\newtcolorbox{humanbox}{colback=blue!10!white,
+			  title=Human, colframe=blue, left=1mm, right=1mm, top=1mm, bottom=1mm}
+			\newtcolorbox{chatbotbox}{colback=green!10!white,
+			  title=Chatbot, colframe=green, left=1mm, right=1mm, top=1mm, bottom=1mm}
+			```
+			Und verwendet als:
+			```latex
+			\begin{humanbox}
+			How can I format dialog between human and chatbot in LaTeX?
+			\end{humanbox}
+			\begin{chatbotbox}
+			You can use tcolorbox to distinguish between speakers and visually separate their lines, as shown here.
+			\end{chatbotbox}
+			```
 	- Open Science
 		- Software referenzieren? **[Zenodo](https://zenodo.org/)** | [GitHub-Doku](https://docs.github.com/de/repositories/archiving-a-GitHub-repository/referencing-and-citing-content) (benötigt: GitHub! Derzeit GitLab nicht unterstützt.)
 	- **[Tables Generator](https://tablesgenerator.com/)**: LaTeX tables generator using table data from a spreadsheet app
