@@ -262,33 +262,35 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- Nennenswerte CTAN-Pakete:
 		- Alle packages, welche ich in cs-techrep (sowie iaria) verwende
 		- [backnaur](https://ctan.org/pkg/backnaur) `\usepackage[altpo]{backnaur}`
-		- [tcolorbox](https://ctan.org/pkg/tcolorbox): hübsche Boxen, bspw. für Research Questions sowie Findings: ```latex
-\tcbset{
-    resques/.style={
-        colback=white, 
-        colframe=black, 
-        boxrule=0.5pt, 
-        sharp corners, 
-        enhanced,  
-        width=\linewidth,
-        top=2pt, bottom=2pt, left=3pt, right=3pt,
-        breakable, drop lifted shadow
-    }
-}
-\newenvironment{resques}[1]{
-    \begin{tcolorbox}[resques]
-    \textbf{#1:}
-}{
-    \end{tcolorbox}
-}
-``` und verwendet als ```latex
-\begin{resques}{RQ\,1}
-How does ...?
-\end{resques}
-\begin{resques}{Finding\,1}
-It occurs ...?
-\end{resques}
-```
+		- [tcolorbox](https://ctan.org/pkg/tcolorbox): hübsche Boxen, bspw. für Research Questions sowie Findings:
+		```latex
+		\tcbset{
+			resques/.style={
+				colback=white, 
+				colframe=black, 
+				boxrule=0.5pt, 
+				sharp corners, 
+				enhanced,  
+				width=\linewidth,
+				top=2pt, bottom=2pt, left=3pt, right=3pt,
+				breakable, drop lifted shadow
+			}
+		}
+		\newenvironment{resques}[1]{
+			\begin{tcolorbox}[resques]
+			\textbf{#1:}
+		}{
+			\end{tcolorbox}
+		}
+		``` und verwendet als
+		```latex
+		\begin{resques}{RQ\,1}
+		How does ...?
+		\end{resques}
+		\begin{resques}{Finding\,1}
+		It occurs ...?
+		\end{resques}
+		```
 	- Open Science
 		- Software referenzieren? **[Zenodo](https://zenodo.org/)** | [GitHub-Doku](https://docs.github.com/de/repositories/archiving-a-GitHub-repository/referencing-and-citing-content) (benötigt: GitHub! Derzeit GitLab nicht unterstützt.)
 	- **[Tables Generator](https://tablesgenerator.com/)**: LaTeX tables generator using table data from a spreadsheet app
