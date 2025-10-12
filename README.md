@@ -282,7 +282,8 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 		}{
 			\end{tcolorbox}
 		}
-		``` und verwendet als
+		```
+		und verwendet als
 		```latex
 		\begin{resques}{RQ\,1}
 		How does ...?
