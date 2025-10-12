@@ -259,6 +259,36 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 			- BibTeX generator from URL: **[url-to-bibtex](https://url-to-bibtex.vercel.app/)** aber eigentlich nicht mehr MISC mit howpublished, sondern durch nunmehr ONLINE mit url und urldate!
 	- Quality Check:
 		- **[blackTeX](https://github.com/texworld/blacktex)** \[**pip install -U blacktex**\]: corrects some common [TeX anti-patterns](https://ctan.mirror.norbert-ruehl.de/info/l2tabu/english/l2tabuen.pdf)
+	- Nennenswerte CTAN-Pakete:
+		- Alle packages, welche ich in cs-techrep (sowie iaria) verwende
+		- [backnaur](https://ctan.org/pkg/backnaur) `\usepackage[altpo]{backnaur}`
+		- [tcolorbox](https://ctan.org/pkg/tcolorbox): hübsche Boxen, bspw. für Research Questions sowie Findings: ```latex
+\tcbset{
+    resques/.style={
+        colback=white, 
+        colframe=black, 
+        boxrule=0.5pt, 
+        sharp corners, 
+        enhanced,  
+        width=\linewidth,
+        top=2pt, bottom=2pt, left=3pt, right=3pt,
+        breakable, drop lifted shadow
+    }
+}
+\newenvironment{resques}[1]{
+    \begin{tcolorbox}[resques]
+    \textbf{#1:}
+}{
+    \end{tcolorbox}
+}
+``` und verwendet als ```latex
+\begin{resques}{RQ\,1}
+How does ...?
+\end{resques}
+\begin{resques}{Finding\,1}
+It occurs ...?
+\end{resques}
+```
 	- Open Science
 		- Software referenzieren? **[Zenodo](https://zenodo.org/)** | [GitHub-Doku](https://docs.github.com/de/repositories/archiving-a-GitHub-repository/referencing-and-citing-content) (benötigt: GitHub! Derzeit GitLab nicht unterstützt.)
 	- **[Tables Generator](https://tablesgenerator.com/)**: LaTeX tables generator using table data from a spreadsheet app
