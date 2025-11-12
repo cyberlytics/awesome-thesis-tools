@@ -158,7 +158,8 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 		- YouTube Summarizer (mittels GPT): **[Glasp](https://glasp.co/youtube-summary)**
 - Text-to-...: ([Auswahlhilfe](https://llmselector.vercel.app/))
 	- Text-to-Code:
-		- AI-Coder Model-Benchmark: [Eval Plus](https://evalplus.github.io/leaderboard.html)
+		- Dev/FOSS-Models: Facebook [Llama](https://www.llama.com/llama-downloads/), OpenAI [gpt-oss](https://openai.com/index/introducing-gpt-oss/), Google [gemma](https://huggingface.co/google), [DeepSeek](https://huggingface.co/deepseek-ai), xAI [grok](https://huggingface.co/xai-org), [Qwen](https://huggingface.co/Qwen), [Mistral](https://huggingface.co/mistralai) (Mistral [Commercial vs. OSS](https://docs.mistral.ai/getting-started/models)), TII [Falcon](https://huggingface.co/tiiuae), BigScience [BLOOM](https://huggingface.co/bigscience/bloom)
+			- AI-Coder Model-Benchmark: [Eval Plus](https://evalplus.github.io/leaderboard.html)
 		- Desktop/Local/Offline: **[Msty](https://msty.app/)** ⭐, **[LM Studio](https://lmstudio.ai/)** ⭐
 		- WebUI/Local/Offline: [bolt.diy](https://pinokio.co/item.html?uri=https%3A%2F%2Fgithub.com%2Fpinokiofactory%2Fbolt), [autogpt](https://pinokio.co/item.html?uri=https%3A%2F%2Fgithub.com%2Fpinokiofactory%2Fautogpt) (via [pinokio](https://pinokio.co/))
 		- Cloud/freemium: [DeepSeek Chat](https://chat.deepseek.com/) ,Online [Eden AI](https://www.edenai.co/), [uvm.](https://codesubmit.io/blog/ai-code-tools/)
@@ -260,10 +261,10 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- Quality Check:
 		- **[blackTeX](https://github.com/texworld/blacktex)** \[**pip install -U blacktex**\]: corrects some common [TeX anti-patterns](https://ctan.mirror.norbert-ruehl.de/info/l2tabu/english/l2tabuen.pdf)
 	- Nennenswerte CTAN-Pakete:
-		- Alle packages, welche ich in cs-techrep (sowie iaria) verwende
+		- Alle packages, welche ich in cs-techrep sowie iaria verwende!
 		- [backnaur](https://ctan.org/pkg/backnaur) `\usepackage[altpo]{backnaur}`
 		- [tcolorbox](https://ctan.org/pkg/tcolorbox): für [Poster](https://mirrors.ctan.org/macros/latex/contrib/tcolorbox/tcolorbox-tutorial-poster.pdf)!
-			- Aber ebenfalls einfach nur hübsche Boxen, bspw. für Research Questions sowie Findings:
+			- Oder tcolorbox für hübsche Boxen zu Research Questions sowie Findings:
 			```latex
 			\usepackage[most]{tcolorbox}
 			\tcbset{
@@ -285,7 +286,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 				\end{tcolorbox}
 			}
 			```
-			Und verwendet als:
+			Und damit Research Questions oder Findings als:
 			```latex
 			\begin{resques}{RQ\,1}
 			How does ...?
@@ -294,7 +295,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 			It occurs ...?
 			\end{resques}
 			```
-			- Oder Boxen für einen LLM-Dialog:
+			- Oder tcolorbox für hübschen Boxen zu LLM-Dialogen:
 			```latex
 			\usepackage[most]{tcolorbox}
 			\usepackage{xcolor}
@@ -303,7 +304,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 			\newtcolorbox{chatbotbox}{colback=green!10!white,
 			  title=Chatbot, colframe=green, left=1mm, right=1mm, top=1mm, bottom=1mm}
 			```
-			Und verwendet als:
+			Und damit LLM-Dialoge als:
 			```latex
 			\begin{humanbox}
 			How can I format dialog between human and chatbot in LaTeX?
@@ -678,6 +679,10 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 - Apple AirDrop
 	- Ad Hoc: **[Local Send](https://localsend.org)** (selbes WLAN benötigt)
 	- Continuos: **[Syncthing](https://syncthing.net/)** (bilateral Peer-to-Peer)
+- Microsoft **Windows**
+	- Desktop: [Linux](https://distrosea.com/)! [BSD](https://de.wikipedia.org/wiki/Berkeley_Software_Distribution)! [ChromeOS](https://chromeos.google/products/chromeos-flex/)!
+		- Exotischer: [Solus](https://getsol.us/)! [ReactOS](https://reactos.org/)! BeOS/[Haiku](https://www.haiku-os.org/)!
+	- Tipp: Ausprobieren von Linux-Distributionen online per **[DistroSea](https://distrosea.com/)** für Distro-Hoppers
 - Microsoft **Office** (Word, Excel, PowerPoint)
 	- Spezialhinweis: [Microsoft Office 365](https://www.oth-aw.de/hochschule/services/online-services/microsoft-produkte/) für Studierende kostenlos per Studisoft / OTH-Rahmenvertrag
 	- Desktop: **[LibreOffice](https://www.libreoffice.org/)** \[**choco install libreoffice-fresh --ignore-dependencies**\]\
