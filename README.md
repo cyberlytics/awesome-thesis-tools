@@ -134,15 +134,16 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 		- LLM Modelle mit DE-Unterstützung: [Webartikel](https://medium.com/@oledawidzinski/deutschsprachige-open-source-llms-als-alternative-zu-chatgpt-und-co-8ecbcf6ab96d) (u.a. Mistral-Nemo-Instruct-2407, DiscoLM_German_7b_v1, SauerkrautLM, …, Qwen2-7B-Instruct, Llama3-DiscoLeo-Instruct-8B, …)
 		- Long-Term Context LLM / Personalized AI: [MemGPT](https://memgpt.ai/)
 		- Agent AI: **[Letta](https://github.com/letta-ai/letta)**
-	- Desktop/Local/Offline: **[Msty](https://msty.app/)** ⭐, **[LM Studio](https://lmstudio.ai/)** ⭐ \[**choco install lm-studio**\], **[Witsy](https://witsyai.com/)** ⭐ \[**choco install witsy**\], Nomic [gpt4all](https://github.com/nomic-ai/gpt4all) \[**choco install gpt4all**\], [Jan AI](https://jan.ai) \[**choco install jan**\] und andere
+	- Desktop/Local/Offline: **[Msty](https://msty.app/)** ⭐, **[LM Studio](https://lmstudio.ai/)** ⭐ \[**choco install lm-studio**\], **[Witsy](https://witsyai.com/)** ⭐ \[**choco install witsy**\], [AnythingLLM](https://anythingllm.com/), Nomic [gpt4all](https://github.com/nomic-ai/gpt4all) \[**choco install gpt4all**\], [Jan AI](https://jan.ai) \[**choco install jan**\] und andere
 		- Local [OpenAI-compatible API](https://platform.openai.com/docs/api-reference/chat) Server: [LM Studio OpenAI-compatible API server](https://lmstudio.ai/docs/api/openai-api), [vLLM OpenAI-compatible API Server](https://docs.vllm.ai/en/latest/serving/openai_compatible_server.html), [Msty Local AI Service](https://docs.msty.app/how-to-guides/make-local-ai-service-available-on-the-network), [gpt4all API Server](https://docs.gpt4all.io/gpt4all_api_server/home.html), [Jan.ai Cortex Local API Server](https://cortex.so/docs/quickstart/) ([API](https://cortex.so/api-reference/))
+			- Docker: [LocalAI](https://localai.io/): Local family AI, full-stack = All-in-One: LLMs, Text to Speech, Speech to Text, Function calling, Image generation, Embedding server
 		- Let LLMs run code locally: [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)
 	- WebUI/Local/Offline: [pinokio](https://pinokio.co/)
 		- **[Open WebUI](https://openwebui.com/)** ⭐
 		- [Text Generation WebUI](https://pinokio.co/item.html?uri=https%3A%2F%2Fgithub.com%2Fcocktailpeanut%2Foobabooga.pinokio) (both best installed via )
 	- Embedded/Local/Offline: [vLLM](https://github.com/vllm-project/vllm)
 	- Desktop/Cloud-only/Online: **[Noi](https://github.com/lencx/Noi)**
-	  - Single Vendor: Unofficial **[ChatGPT Desktop](https://github.com/lencx/ChatGPT)** \[**choco install chatgpt**\], Official **[Claude](https://claude.ai/download)** \[**choco install claude**\], Official **[Perplexity Windows App](https://apps.microsoft.com/detail/xp8jnqfbqh6pvf)** (sowie Unofficial Inulute [Perplexity AI Desktop](https://pplx.inulute.com/download/))
+	  - Single Vendor: Unofficial **[ChatGPT Desktop](https://github.com/lencx/ChatGPT)** \[**choco install chatgpt**\], Official **[Claude Desktop](https://claude.ai/download)** \[**choco install claude**\], Official **[Perplexity Windows App](https://apps.microsoft.com/detail/xp8jnqfbqh6pvf)** (sowie Unofficial Inulute [Perplexity AI Desktop](https://pplx.inulute.com/download/))
 	- more: [basran](https://github.com/hyperonym/basaran), [LocalAI](https://github.com/mudler/LocalAI), [Xorbits Inference](https://github.com/xorbitsai/inference) 
 	- Search-Chatbots: [**perplexity**.ai](https://www.perplexity.ai/) ⭐ (mit „Focus: Academic“)
 		- Weitere Nennenswerte: Anthropic **[Claude](https://www.anthropic.com)**, Google [Gemini](https://gemini.google.com/), OpenAI [ChatGPT](https://openai.com/blog/chatgpt/), Meta [Llama](https://llama.meta.com/), [HuggingChat](https://huggingface.co/chat/), Opera [Aria](https://www.opera.com/features/aria), [character.ai](https://beta.character.ai/), …
@@ -591,6 +592,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 
 \[ Parallel zur Abschlussarbeit werden Sie mit der Jobsuche und Ihren Bewerbungen beginnen. \]
 
+- Biometrisches Passbild Generator: [photoaid.com](https://photoaid.com/de-de/biometrisches-passbild)
 - Weitere Tipps: vgl. [Digitaler-Ressourcenpool-Schwesterseite](https://github.com/cyberlytics/awesome-basics#bsc-bonusliste)
 - Lebenslauf-Werkzeuge für Informatiker:
 	- LaTeX: **[CV-Templates](https://de.overleaf.com/latex/templates/tagged/cv)** (mein eigenes Paket: [ECV](https://ctan.org/pkg/ecv))
@@ -790,14 +792,19 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- Cloud: **[Octave Online](https://octave-online.net/)**
 		- (für die Cloud ggf. ebenfalls Scilab per Cloud-basierter Zugang via Plattformen wie **[CoCalc](https://cocalc.com/)**)
 	- (Der Vollständigkeit halber: MATLAB beinhaltet neben numerical computing auch [CAS-Funktionalität](https://en.wikipedia.org/wiki/List_of_computer_algebra_systems) wie Mathematica/Maple, das ist aber nicht MATLABs Sweet-Spot)
-- Autodesk **Maya** / Autodesk **3DS Max** / Maxon **Cinema 4D** / SideFx **Houdini**
+- Autodesk **Maya** / Autodesk **3DS Max** / Maxon **Cinema 4D** / SideFx **Houdini** / Maxon **ZBrush** (3D Digital Content Creation; All-In-One)
 	- Desktop: **[Blender](https://www.blender.org/)** \[**choco install blender**\]
-	- Nur als Studierender:
+	- Nur als Studierende:
 		- **[Maya](https://www.autodesk.de/education/edu-software/overview)** \[**choco install maya**\] (One-Year Educational Access)
 		- **[3DS Max](https://www.autodesk.de/education/edu-software/overview)** \[**choco install 3dsmax**\] (One-Year Educational Access)
 		- **[Cinema 4D](https://www.maxon.net/en/educational-licenses)** (Educational, Six-month, renewable)
 		- **[Houdini](https://www.sidefx.com/education/education-programs/students/#free_software)** (Free Apprentice Edition)
 	- Cloud: [Spline](https://spline.design/)
+- Autodesk **MotionBuilder** / Reallusion **iClone** (3D Animationen; ohne umfangreich zu modellieren oder riggen)
+	- Destkop: Valve [Source FilmMaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) (SFM)
+- Bondware **Poser** / Reallusion **Character Creator** (3D Character Modeler)
+	- Destkop: [Daz 3D](https://www.daz3d.com)
+	- FOSS: [MakeHuman](http://www.makehumancommunity.org/) (sowie dessen Variante [MPFB2](https://static.makehumancommunity.org/mpfb/downloads.html) als Add-On für Blender)
 - Blackmagic Design: **DaVinci Resolve Studio** (Post-Production)
 	- Kostenlose Variante: **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)**
 - Foundry **[Nuke VFX](https://www.foundry.com/products/nuke-family/nuke)** (Post-Producton: Node-based Compositing/VFX)
