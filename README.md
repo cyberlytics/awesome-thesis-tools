@@ -120,12 +120,14 @@ Disclaimer: Einsatz kann in Unternehmen verboten sein, selbst wenn diese rein te
 
 Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist Ihnen durch meine eigenen Policies untersagt. Dennoch können Sie sich die diversen Werkzeuge zu Nutzen machen, bspw. als persönlicher KI Tutor.
 
-- Extensions
-	- Browser
+- AI-enabled Browser: Perplexity [Comet](https://comet.perplexity.ai/), [Sigma](https://www.sigmabrowser.com/), [Fellou](https://fellou.ai/), Arc [Max](https://arc.net/max), Opera [Aria](https://www.opera.com/de/features/aria), Microsoft Edge+Copilot
+	- Mac-only: [Dia](https://www.diabrowser.com/)
+- Als Extension:
+	- in Browsern:
 		- Grammatik: [LanguageTool](https://languagetool.org/de/chrome)
 		- LLM u.a. für GMail: [Halist AI](https://chromewebstore.google.com/detail/halist-ai/fbpfkdadaghhgfcnaljbkjmfaaclohdb)
 		- Weitere Referenzen: [Tooltivity-Liste](https://tooltivity.com/categories/ai)
-	- Thunderbird
+	- in Thunderbird:
 		- [ThunderAI](https://addons.thunderbird.net/en-US/thunderbird/addon/thunderai/)
 - Desktop-Apps / AI Tool Installer:
 	- Universell: **[pinokio](https://pinokio.computer/)**, [SEAIT](https://github.com/diStyApps/seait/)
@@ -687,12 +689,18 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- Tipp: Ausprobieren von Linux-Distributionen online per **[DistroSea](https://distrosea.com/)** für Distro-Hoppers
 - Microsoft **Office** (Word, Excel, PowerPoint)
 	- Spezialhinweis: [Microsoft Office 365](https://www.oth-aw.de/hochschule/services/online-services/microsoft-produkte/) für Studierende kostenlos per Studisoft / OTH-Rahmenvertrag
-	- Desktop: **[LibreOffice](https://www.libreoffice.org/)** \[**choco install libreoffice-fresh --ignore-dependencies**\]\
-		| **[SoftMaker FreeOffice](https://www.freeoffice.com/)** \[**choco install freeoffice**\]\
-		| [**OnlyOffice** Docs](https://www.onlyoffice.com/desktop.aspx) for Desktop\
-		| (€:) [**WordPerfect** Office Education](https://www.wordperfect.com/en/product/education-edition/)
+	- Desktop: **[LibreOffice](https://www.libreoffice.org/)** ⭐ \[**choco install libreoffice-fresh --ignore-dependencies**\] (hoher Funktionsumfang)\
+		| [**Collabora Office**](https://www.collaboraonline.com/collabora-office/) for Desktop (technisch basierend auf LibreOffice; mit Ribbons)\
+		| **[SoftMaker FreeOffice](https://www.freeoffice.com/)** \[**choco install freeoffice**\] (hohe MS Office UI/UX-Kompatibilität)\
+		| [**OnlyOffice** Docs](https://www.onlyoffice.com/desktop.aspx) for Desktop (hohe MS Office Format-Kompatibilität)\
+		| [**WPS Office**](https://de.wps.com/download/) (hohe Benutzerfreundlichkeit)\
+		| (€:) [**WordPerfect** Office Education](https://www.wordperfect.com/en/product/education-edition/) (hohe/präzise Formatkontrolle)
 	- Cloud: **[ZoHo](https://www.zoho.com/)** inkl. [Zoho Docs for Desktop](https://www.zoho.com/docs/help/zoho-docs-for-desktop.html#installing-zohodrive) | [**OnlyOffice** Personal](https://personal.onlyoffice.com/) | **[Google Workspace](https://workspace.google.com/)** ([Google Docs](https://docs.google.com/document/u/0/), [Google Sheets](https://docs.google.com/spreadsheets/u/0/), [Google Slides](https://docs.google.com/presentation/u/0/))
 	- Web/Self-Hosted: [APITable](https://github.com/apitable/apitable)
+	- Android: **[Collabora Office](https://www.collaboraonline.com/collabora-office-android-ios/)** for Android\
+		| SoftMaker **[Office NX](https://play.google.com/store/apps/developer?id=SoftMaker+Software+GmbH)**\
+		| [**OnlyOffice**](https://www.onlyoffice.com/office-for-android) for Android\
+		| [**WPS Office**](https://de.wps.com/office/android/) for Android
 - Microsoft **Word**
 	- vgl. Office, hinzu kommen noch weitere nennenswerte Alternativen:
 	- Desktop: **[Jarte](https://www.jarte.com/)**
