@@ -47,10 +47,6 @@ Hinweise:
 - [Bonus: 3D-Printing](#bonus-3d-printing)
 - [Appendix: More Free Student Stuff](#appendix-more-free-student-stuff)
 - [Footer](#footer)
-  - [Future Work](#future-work)
-  - [Contribute](#contribute)
-  - [Backers](#backers)
-  - [License](#license)
 
 <!-- tocstop -->
 
