@@ -249,9 +249,10 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- Overleaf ist Open Source und man könnte sich den Overleaf-Server auch lokal selbst hosten: [github.com/overleaf/overleaf](https://github.com/overleaf/overleaf) ([Quick Start Guide](https://github.com/overleaf/toolkit/blob/master/doc/quick-start-guide.md))
 	- (Vorlagen: bspw. [IEEE Conference](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn) (aber [IEEEtran HowTo](http://mirrors.ctan.org/macros/latex/contrib/IEEEtran/IEEEtran_HOWTO.pdf) ⚠️ lesen, u.a. sollte man shared affiliations nicht mehrfach aufführen), [PocketMod](https://www.overleaf.com/latex/examples/creating-pocketmods-with-latex/nqbhpnrkskrx) oder [Résumé/CV](https://de.overleaf.com/gallery/tagged/cv))
 - TeX in git:
-- **[gitattributes](https://richienb.github.io/gitattributes-generator/)**-Generator (Obacht: LF-formatiert) von Richie Bendall: Das **COMMON**-Profil deckt LaTeX-Projekte ab
-- **[gitignore](https://www.toptal.com/developers/gitignore/)**-Generator (Obacht: LF-formatiert) von Toptal
+	- **[gitattributes](https://richienb.github.io/gitattributes-generator/)**-Generator (Obacht: LF-formatiert) von Richie Bendall: Das **COMMON**-Profil deckt LaTeX-Projekte ab
+	- **[gitignore](https://www.toptal.com/developers/gitignore/)**-Generator (Obacht: LF-formatiert) von Toptal
 - Sonstige Werkzeuge
+	- **[pdfsizeopt](https://github.com/pts/pdfsizeopt)**: optimize the size of PDF files (with focus on PDFs created from TeX and LaTeX documents)
 	- Die TeX-Pakete [cs-techrep](https://ctan.org/pkg/cs-techrep) ([Bsp.](https://mirrors.ctan.org/macros/latex/contrib/cs-techrep/template/cs-techrep-example-neumann.pdf)) und [iaria](https://ctan.org/pkg/iaria) ([Bsp.](https://mirrors.ctan.org/macros/latex/contrib/iaria/template/iaria-example-neumann.pdf)) sowie [iaria-lite](https://ctan.org/pkg/iaria-lite) ([Bsp.](https://mirrors.ctan.org/macros/latex/contrib/iaria-lite/template/iaria-lite-example-neumann.pdf)) sind Vorlagen von mir
 	- Literaturverzeichnis:
 		- [BibTeX Tidy](https://flamingtempura.github.io/bibtex-tidy/index.html): can fix inconsistent whitespace, remove duplicates, remove unwanted fields, and sort entries
@@ -524,6 +525,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- Auch in [Overleaf](https://www.overleaf.com/learn/latex/Beamer) integriert
 	- (Eine [OTH-Vorlage für beamer](https://www.oth-aw.de/latex/) findet sich in unserem GitLab)
 	- Nennenswert: [Adobe PDF to PPT](https://www.adobe.com/acrobat/online/pdf-to-ppt.html) (use in private tab for reset)
+- **[pdfsizeopt](https://github.com/pts/pdfsizeopt)**: optimize the size of PDF files (with focus on PDFs created from TeX and LaTeX documents)
 - **[DirectPoll](https://directpoll.com)**: Abstimmungssystem („Clicker“), also Umfragen und Votings bei Großgruppen
 	- Alternativen bei Großgruppen:
 		- Cloud: **[OnlineTED](https://onlineted.de/)** Basic (max. 100 Teilnehmer) | **[Tweedback](https://tweedback.de/)** Free (nur 24h Session-Dauer) | **[Mentimeter](https://www.mentimeter.com)** (max. 2 Fragen pro Präsentation) | [**vevox**.com](https://www.vevox.com/pricing/education-pricing) (Multiple-Choice-Fragen kostenlos; früher meetoo.io)
