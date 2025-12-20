@@ -173,9 +173,9 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 		- Desktop/Local/Offline: Lykos **[Stability Matrix](https://lykos.ai/downloads)** ⭐ (Tutorial: [Using FLUX.1 locally](https://www.kdnuggets.com/using-flux-1-locally))
 			- Stability Matrix ist ein 1-Stop-Shop für alle anderen Werkzeuge wie bspw.: Stable Diffusion WebUI [Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) bzw. [reForge](https://github.com/Panchovix/stable-diffusion-webui-reForge), [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 			- Disclaimer: Manche Text-to-Image Werkzeuge benötigen (Stand 2025) eine NVidia RTX als Hardware-Voraussetzung
-			- Bonus-Hinweis: Für Stable Diffusion WebUI (und dessen Derivate) kann mann die REST-API mit dem Kommandozeilenparameter `--api` aktivieren
-				- Diesen kann/muss man auch in Stability Matrix in der Startkonfiguration für Stable Diffusion WebUI einmalig hinzufügen
-				- Die REST-API von Stable Diffusion WebUI läuft dann bspw. unter http://127.0.0.1:7860 per **[/sdapi/v1/txt2img](http://127.0.0.1:7860/sdapi/v1/txt2img)**
+			- Bonus-Hinweis: Für Stable Diffusion WebUI, und dessen Derivate, kann man dessen REST-API (aka **sdapi**) mit dessen Kommandozeilenparameter `--api` aktivieren
+				- Diesen `--api` Parameter kann man auch in Stability Matrix (unter dessen `Launch Options` für Stable Diffusion WebUI) leicht ergänzen (per `Extra Launch Arguments`)
+				- Die aktivierte **sdapi** läuft dann bspw. unter http://127.0.0.1:7860/sdapi/v1/txt2img
 		- WebUI/Local/Offline: [MFLUX-WWebUI](https://pinokio.co/item.html?uri=https%3A%2F%2Fgithub.com%2Fpinokiofactory%2FMFLUX-WEBUI) (via [pinokio](https://pinokio.co/))
 		- Cloud/freemium-with-API: [Playground](https://playground.com/design/pricing), [PicoGen](https://picogen.io/), [Pollinations AI](https://pollinations.ai/)
 		- Cloud/freemium: [Deep Dream Generator](https://deepdreamgenerator.com/) ([old version](https://deepdreamgenerator.com/generator?old-tools=1)), [Dezgo](https://dezgo.com/text2image/sdxl), [Stable Diffusion Online](https://stablediffusionweb.com/) (10img/d; mit Wasserzeichen), [NightCafe](https://creator.nightcafe.studio/), [WPimages](https://www.wpimagines.com/), [AI Image Generator](https://www.aiimagegenerator.org/), [uvm.](https://easywithai.com/best-free-ai-image-generators/)
