@@ -44,6 +44,7 @@ Hinweise:
 - [Mathe](#mathe)
 - [Job-Bewerbungen](#job-bewerbungen)
 - [Kostenlose Alternativen](#kostenlose-alternativen)
+- [Android App Empfehlungen](#android-app-empfehlungen)
 - [Bonus: 3D-Printing](#bonus-3d-printing)
 - [Appendix: More Free Student Stuff](#appendix-more-free-student-stuff)
 - [Footer](#footer)
@@ -830,6 +831,22 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 		- Weitere kostenlose Varianten: Cockos **[Reaper](https://www.reaper.fm/)** (60d kostenlos, dann Nag-Screen), [Garageband](https://www.apple.com/mac/garageband/) (nur macOS)
 	- Nennenswerte Plugins:
 		- (€) Antares [Auto-Tune](https://www.antarestech.com/products/auto-tune/), z.B. kostengünstige Einsteigerversion [Access](https://www.antarestech.com/products/auto-tune/access) ([Video](https://www.youtube.com/watch?v=3kfsVaeSvHw))
+
+## Android App Empfehlungen
+- Mail Client
+	- [FairEmail](https://github.com/M66B/FairEmail) ([direct download](https://github.com/M66B/FairEmail/releases) / [Play Store](https://play.google.com/store/apps/details?id=eu.faircode.email))
+- Privacy: Anti-Ads/Trackers
+	- [Adguard](https://adguard.com/adguard-android/overview.html) (Direct download, only! Non-Play-Store.)
+- Authenticator
+	- Twilio [Authy](https://www.authy.com/) ([Play Store](https://play.google.com/store/apps/details?id=com.authy.authy))
+- AirDrop Alternative
+	- [LocalSend](https://github.com/localsend/localsend) ([direct download](https://github.com/localsend/localsend/releases) / [Play Store](https://play.google.com/store/apps/details?id=org.localsend.localsend_app))
+- PDF Viewer
+	- [MJ PDF](https://github.com/mudlej/mj_pdf) (Direct download, only! Non-Play-Store.)
+- Instant Messaging / Chat Systeme / WhatsApp- bzw. iMessage-Alternative
+	- [Signal](https://github.com/signalapp/Signal-Android) ([direct download](https://github.com/signalapp/Signal-Android/releases) / [Play Store](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)) «Centralized» \[Telegram, Threema, etc. pp.\]
+	- [Matrix](https://matrix.org/ecosystem/clients/) via [FluffyChat](https://github.com/krille-chan/fluffychat) ([direct download](https://github.com/krille-chan/fluffychat/releases) / [Play Store](https://play.google.com/store/apps/details?id=chat.fluffy.fluffychat)) «Decentralized» \[Jabber/XMPP, Chat/IRC, E-Mail, etc. pp.\]
+	- [Wir haben keine Herausforderung mit den Angeboten. Sondern mit der Unifacation!](https://xkcd.com/1810/)
 
 ## Bonus: 3D-Printing
 
