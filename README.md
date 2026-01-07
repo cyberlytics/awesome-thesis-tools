@@ -31,6 +31,7 @@ Hinweise:
 - [Portable Apps](#portable-apps)
 - [Generative KI](#generative-ki)
 - [LaTeX & PDF](#latex--pdf)
+- [Markdown Publishing](#markdown-publishing)
 - [Schreiben](#schreiben)
 - [Anti-Prokrastination](#anti-prokrastination)
 - [Translations](#translations)
@@ -39,6 +40,7 @@ Hinweise:
 - [Kollaborative Werkzeuge](#kollaborative-werkzeuge)
 - [Zeichnen](#zeichnen)
 - [Presentations](#presentations)
+- [Poster](#poster)
 - [Plug-Ins / Add-Ins / Extensions](#plug-ins--add-ins--extensions)
 - [Bildmaterialien](#bildmaterialien)
 - [Mathe](#mathe)
@@ -183,9 +185,10 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 		- Cloud/€€€/Subscriptions: **[OpenArt](https://openart.ai/create)** ⭐, [fal](https://fal.ai/), [dreamina](https://dreamina.capcut.com/ai-tool/home/?type=image), OpenAI [**DALL·E** 2](https://labs.openai.com/waitlist), **[Midjourney](https://www.midjourney.com/)**, [craiyon](https://www.craiyon.com/) (früher: „DALL·E mini“), Google [Imagen](https://imagen.research.google/), Adobe [Firefly](https://www.adobe.com/products/firefly.html) …
 	- Text-to-Video: [synthesia](https://www.synthesia.io), [dreamina](https://dreamina.capcut.com/ai-tool/home/?type=video), [kaiber.ai](https://kaiber.ai), … , China: [Kling](https://kling.kuaishou.com/en)
 		- WebUI/Local/Offline: [CogStudio](https://pinokio.co/item.html?uri=https%3A%2F%2Fgithub.com%2Fpinokiofactory%2Fcogstudio), [FramePack](https://pinokio.co/item.html?uri=https%3A%2F%2Fgithub.com%2Fpinokiofactory%2FFrame-Pack), [fp-studio](https://pinokio.co/item.html?uri=https%3A%2F%2Fgithub.com%2FFP-Studio%2Ffp-studio), [Wan](https://pinokio.co/item.html?uri=https%3A%2F%2Fgithub.com%2Fpinokiofactory%2Fwan) (via [pinokio](https://pinokio.co/))
-	- Text-to-Slides: **[gamma](https://gamma.app/)** ⭐, [Felo Slides](https://felo.ai/agents/felo-slides-qP4dLw7kMv9ZuG5FnX8cH1), [SlidesPilot](https://www.slidespilot.com/), [SlideSpeak](https://slidespeak.co/), [ChatBA](https://www.chatba.com/), …
+	- Text-to-Slides: **[Gamma](https://gamma.app/)** ⭐, [Felo Slides](https://felo.ai/agents/felo-slides-qP4dLw7kMv9ZuG5FnX8cH1), [SlidesPilot](https://www.slidespilot.com/), [SlideSpeak](https://slidespeak.co/), [ChatBA](https://www.chatba.com/), [Presentation Intelligence](https://www.pi.inc/), [Slidesgo](https://slidesgo.com/), …
 		- Academic: [ChatSlide](https://chatslide.ai/) (formerly: DrLambda)
 		- Local: «tbd» ([AutoPresent](https://github.com/para-lost/AutoPresent))
+	- Text-to-Visuals (for presentations): [Napkin AI](https://app.napkin.ai/)
 	- Text-to-Quiz: [Quizalize](https://app.quizalize.com/pricing), …
 	- Text-to-Speach (TTS): [NaturalReader](https://www.naturalreaders.com/online/), [TTSMaker](https://ttsmaker.com/), [Murf.AI](https://murf.ai/text-to-speech), …
 	- Text-to-Sound: [boomy](https://boomy.com/), [Suno AI](https://app.suno.ai/), [Vocaloid](https://www.vocaloid.com/en/vocaloid6/), Google [Instrument Playground](https://artsandculture.google.com/experiment/instrument-playground/8QFo2oQr2uT3pg?hl=en), …
@@ -339,6 +342,17 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 			- LibreOffice-Installation: **choco install libreoffice-still**
 		- via PDF: Desktop: [pdf2docx](https://dothinking.GitHub.io/pdf2docx/quickstart.html) \[**pip install pdf2docx**\] | Cloud: [**pdf2docx**.com](https://pdf2docx.com)
 - Weiterführende Quellen: **[Awesome LaTeX](https://github.com/egeerardyn/awesome-LaTeX)** | [Awesome fonts](https://github.com/brabadu/awesome-fonts)
+
+## Markdown Publishing
+
+- **[typst](https://typst.app/)** ⭐
+	- Mit typst gibt es eine moderne, überlegene Typesetting-Variante zu latex, die aber technisch völlig eigenständig ist.
+	- Scientific Layouts: [IEEE](https://typst.app/universe/package/charged-ieee/) | [ACM](https://typst.app/universe/package/clean-acmart))
+	- Weiterführende Quellen: [Awesome Typst](https://github.com/qjcg/awesome-typst)
+- [Quarto](https://quarto.org/docs/output-formats/all-formats.html) unterstützt [Presentations](https://quarto.org/docs/presentations/)
+	- Quarto ist ein Open-Source-System für wissenschaftliche und technische Veröffentlichungen, das auf Pandoc basiert.
+	- Scientific Layouts: [IEEE](https://github.com/dfolio/quarto-ieee) | [ACM](https://github.com/quarto-journals/acm)
+	- Weiterführende Quellen: [Awesome Quarto](https://github.com/mcanouil/awesome-quarto)
 
 ## Schreiben
 
@@ -531,6 +545,27 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- Auch in [Overleaf](https://www.overleaf.com/learn/latex/Beamer) integriert
 	- (Eine [OTH-Vorlage für beamer](https://www.oth-aw.de/latex/) findet sich in unserem GitLab)
 	- Nennenswert: [Adobe PDF to PPT](https://www.adobe.com/acrobat/online/pdf-to-ppt.html) (use in private tab for reset)
+- HTML Presentation Frameworks
+	- **[reveal.js](https://revealjs.com/)** | [impress.js](https://github.com/impress/impress.js) | [Shower](https://github.com/shower/shower) | [Inspire.js](https://github.com/LeaVerou/inspire.js) | [deck.js](https://github.com/imakewebthings/deck.js) | [DZSlides](https://github.com/paulrouget/dzslides) | uvm.
+- Markdown Presentation Frameworks
+	- Markdown to HTML
+		- **[Marp](https://marp.app/)** | [SliDev](https://sli.dev/) | [Decker](https://elearning.uni-wuerzburg.de/decker/)
+		- In der Regel Unterstützung zur Konvertierung nach HTML, PDF sowie Images (bspw. [mapr-cli](https://github.com/marp-team/marp-cli) oder [slidev-cli](https://sli.dev/builtin/cli#export))
+		- WARNHINWEIS: generierte PPTX bestehen in der Regel nur aus vorgerenderten Hintergrundbildern 😔
+		- Nennenswert: [reveal.js](https://revealjs.com/) unterstützt ebenfalls Markdown
+	- Markdown to PDF:
+		- [typst](https://typst.app/) mit **[touying](https://touying-typ.github.io/)** ⭐
+			- Das `typst compile` für einen Foliensatz ist im Bereich Millisekunden und daher im Round-Trip einem latex-beamer deutlich überlegen!
+			- Optisch ist touying mit latex-beamer vergleichbar und als direkter Ersatz ausgelegt.
+		- [Quarto](https://quarto.org/docs/output-formats/all-formats.html) unterstützt [Presentations](https://quarto.org/docs/presentations/)
+	- Markdown to PPTX:
+		- CLI:
+			- Experimentelle Option per [Marp](https://github.com/marp-team/marp-cli): `marp --pptx --pptx-editable slide-deck.md`
+			- Option per [Quarto](https://quarto.org/docs/presentations/powerpoint.html): `quarto render slide-deck.qmd --to pptx --reference-doc template.pptx`
+		- Cloud: [Gamma](https://gamma.app/)
+
+**Nennenswerte Hilfswerkzeuge**:
+
 - **[pdfsizeopt](https://github.com/pts/pdfsizeopt)**: optimize the size of PDF files (with focus on PDFs created from TeX and LaTeX documents)
 - **[DirectPoll](https://directpoll.com)**: Abstimmungssystem („Clicker“), also Umfragen und Votings bei Großgruppen
 	- Alternativen bei Großgruppen:
@@ -540,6 +575,24 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- Alternativen für kleinere Gruppen: **[PollEveryWhere](https://www.polleverywhere.com/)** Intro (max. 25 Teilnehmer, aber PPT-Integration) \[**choco install polleverywhere**\] | **[Kahoot!](https://kahoot.com/register/kahoot-study-pricing/)** (max. 10 Teilnehmer) | **[AhaSlides](https://ahaslides.com/pricing/)** (max. 7 Teilnehmer; mit [PowerPoint-Extension](https://ahaslides.com/blog/extension-for-powerpoint/))
 	- Beispielfragen: [90 Mentimenter-Beispiele](https://www.mentimeter.com/de-DE/blog/awesome-presentations/85-poll-questions-for-every-occasion)
 - Videos für eine Präsentation beschleunigen oder verlangsamen: [Online Video Cutter » Change Video Speed](https://online-video-cutter.com/change-video-speed)
+
+## Poster
+
+\[Hier: Scientific Research Posters\]
+
+- Formate:
+	- DIN A1: 59,4 cm x 84,1 cm
+		- Poster-Print 3:4-Format: 60 cm x 80 cm
+		- Poster-Print 2:3-Format: 60 cm x 90 cm
+	- DIN A0: 84,1 cm x 118,9 cm
+		- Poster-Print 2:3-Format: 80 cm x 120 cm
+		- Poster-Print 3:4-Format: 90 cm x 120 cm
+- **PowerPoint**: SmartTab "Entwurf" » Foliengröße » Benutzerdefiniert
+	- PowerPoint sollte als Werkzeug zur Poster-Gestaltung durch Laien nicht unterschätzt werden!
+- [typst](https://typst.app/universe/search/?category=poster) mit **[Peace of Posters (PoP)](https://jonaspleyer.github.io/peace-of-posters/showcase/)**
+- [latex](https://www.overleaf.com/learn/latex/Posters) mit **[beamerposter](https://www.ctan.org/pkg/beamerposter)**  sowie ggf. [tikzposter](https://ctan.org/pkg/tikzposter) oder [baposter](https://github.com/mloesch/baposter)
+	- Nennenswerte weitere Alternative: Poster auch mit **[tcolorbox](https://ctan.org/pkg/tcolorbox)** ⭐ welches ebenfalls [für Poster geeignet](https://mirrors.ctan.org/macros/latex/contrib/tcolorbox/tcolorbox-tutorial-poster.pdf) ist!
+- [Canva](https://www.canva.com/create/posters/), auch für [Scientific Posters](https://www.canva.com/posters/templates/research/)
 
 ## Plug-Ins / Add-Ins / Extensions
 
@@ -562,12 +615,12 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 
 - Kostenlos/lizenzfreundlich:
 	- Emojis: **[Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)**, **[Emoji Finder](https://emoji.muan.co/)**
-	- **Concepts**/Nouns: **[Noun Project](https://thenounproject.com/)** [⭐⭐](https://www.htmlsymbols.xyz/unicode/U+2B50) (Absolutely awesome! Free of charge with attributions, but account required.)
+	- **Concepts**/Nouns: **[Noun Project](https://thenounproject.com/)** ⭐ (Absolutely awesome! Free of charge with attributions, but account required.)
 	- **Fotos/Bilder:** **[Unsplash](https://unsplash.com/de)**, **[pixabay](https://pixabay.com/)** ⭐
 		- Weitere: [Pexels](https://www.pexels.com/)
 	- **Illustrationen:** **[unDraw](https://undraw.co/)** ⭐
 		- Weitere: [clker](http://www.clker.com), [pixabay](https://pixabay.com/vectors/) (mit Filter auf „Vectors“)
-	- **Icons:** **[iconmonstr](https://iconmonstr.com)**, [**Feather** (OSS)](https://feathericons.com), [**FontAwesome** (Freebies)](https://fontawesome.com/v6/search?o=r&m=free), **[Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)**, **[CryptoKit](https://cryptokit.ch/specimen)**
+	- **Icons:** **[Noun Project](https://thenounproject.com/)** ⭐, **[iconmonstr](https://iconmonstr.com)**, [**Feather** (OSS)](https://feathericons.com), [**FontAwesome** (Freebies)](https://fontawesome.com/v6/search?o=r&m=free), **[Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)**, **[CryptoKit](https://cryptokit.ch/specimen)**
 		- Cloud Computing: [**Kubernetes** Icons Set](https://github.com/kubernetes/community/tree/master/icons)
 		- Weitere: [Line Awesome](https://icons8.com/line-awesome), [Academicons](https://jpswalsh.GitHub.io/academicons/), [Twemoji](https://ellekasai.GitHub.io/twemoji-awesome/), [Font Mfizz](http://fizzed.com/oss/font-mfizz), [Google Font Icons](https://fonts.google.com/icons), [Material Design Icons](https://pictogrammers.com/library/mdi/), [Bootstrap Icons](https://icons.getbootstrap.com), [css.gg](https://css.gg/app), [Boxicons](https://boxicons.com), [Font Awesome Extension](https://andrelzgava.GitHub.io/font-awesome-extension/), [Streamline Freebies](https://www.streamlinehq.com/freebies))([Iconify Free Icons](https://freebiesbug.com/illustrator-freebies/iconify-650-free-icons/))
 	- **[Free Fonts](https://speckyboy.com/best-free-fonts/)**: Kostenlose Schriftarten
@@ -718,7 +771,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- Kollaborative Spreadsheet-Bearbeitung? **[EtherCalc](https://ethercalc.net)**
 - Microsoft **PowerPoint**
 	- vgl. Office, hinzu kommen noch weitere nennenswerte Alternativen:
-	- Desktop: [latex-**beamer**](https://ctan.org/pkg/beamer)
+	- Desktop: [latex-**beamer**](https://ctan.org/pkg/beamer) bzw. [typst with **touying**](https://typst.app/universe/package/touying/)
 	- Web/Self-Hosted: **[reveal.js](https://revealjs.com/)**| [Decker](https://elearning.uni-wuerzburg.de/decker/) | [impress.js](https://github.com/impress/impress.js) | [Shower](https://github.com/shower/shower) | [Inspire.js](https://github.com/LeaVerou/inspire.js) | [deck.js](https://github.com/imakewebthings/deck.js) | [DZSlides](https://github.com/paulrouget/dzslides) | uvm.
 	- Cloud: **[slides.com](https://slides.com/)** | [genially](https://app.genial.ly/) (für Studierende kostenlos) | **[Prezi](https://prezi.com/)** (nur 5 Dokumente kostenlos)\
 		| (€:) **[Haiku Deck](https://www.haikudeck.com/)**: KI-gestützte Veredelung von Präsentationen durch automatische Fotos und Designs\
@@ -835,9 +888,12 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 ## Android Apps
 
 - Mail Client
-	- [FairEmail](https://github.com/M66B/FairEmail) ([direct download](https://github.com/M66B/FairEmail/releases) / [Play Store](https://play.google.com/store/apps/details?id=eu.faircode.email))
+	- Einstiegsfreundlich: [Thunderbird Mobile](https://www.thunderbird.net/mobile/) ([direct download](https://github.com/thunderbird/thunderbird-android/releases) / [Play Store](https://play.google.com/store/apps/details?id=net.thunderbird.android)) (auf Basis von [K-9 Mail](https://k9mail.app/) mit weiterhin eigenständigem Release per selbigem [direct download](https://github.com/thunderbird/thunderbird-android/releases) und via [Play Store](https://play.google.com/store/apps/details?id=com.fsck.k9))
+	- Power-User: [FairEmail](https://email.faircode.eu/) ([direct download](https://github.com/M66B/FairEmail/releases) / [Play Store](https://play.google.com/store/apps/details?id=eu.faircode.email)) (Marcel aka M66B ist auch der Autor von NetGuard)
 - Privacy: Anti-Ads/-Trackers
 	- [AdGuard](https://adguard.com/adguard-android/overview.html) (Direct download, only! Non-Play-Store.)
+- Firewall:
+	- [NetGuard](https://netguard.me/) ([direct download](https://github.com/M66B/NetGuard/releases) / [Play Store](https://play.google.com/store/apps/details?id=eu.faircode.netguard)) (Marcel aka M66B ist auch der Autor von FairEmail)
 - Authenticator
 	- Twilio [Authy](https://www.authy.com/) ([Play Store](https://play.google.com/store/apps/details?id=com.authy.authy))
 - Dateiaustausch / AirDrop-Alternative
