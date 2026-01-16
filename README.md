@@ -356,6 +356,8 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 
 ## Schreiben
 
+- Einführungen:
+	- [memdesign](http://mirrors.ctan.org/info/memdesign/memdesign.pdf) ⭐: introduction to the business of book design
 - ⚠️ Lernen Sie 10-Finger-schreiben ⚠️
 	- Am besten jetzt nicht mehr mit QWERTZ-/QUERTY-basiertem 10-Finger-System anfangen, sondern gleich [Dvorak](https://de.wikipedia.org/wiki/Dvorak-Tastaturbelegung) \[EN\] lernen oder eines aus der [Neo-Familie](<https://de.wikipedia.org/wiki/Neo_(Tastaturbelegung)>) \[DE\] ([Neo2, Bone, Mine](https://neo-layout.org/Layouts/) oder [AdNW](http://adnw.de/))
 	- für Dvorak: [RapidTyping](https://rapidtyping.com/) als Windows-Desktop-Werkzeug, bzw. Online das [Dvorak keyboard training](https://learn.dvorak.nl/), das [Programmer Dvorak typing tutorial](http://programmer-dvorak.appspot.com/), uvm.
@@ -428,7 +430,10 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- [ProjectCodeMeter](https://www.projectcodemeter.com/cost_estimation/kop1.html)
 - **[Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)**: Auch für die rudimentäre Evaluation von PWAs geeignet (Obacht: wissenschaftlich müssen Sie in der Evaluation von PWAs in Ihrer Abschlussarbeit tiefer bohren, aber den Lighthouse-Test sollten Sie auf jeden Fall auch bestehen)
 - Website Accessibility Checker:
-	- Cloud: [experte.de **Barrierefreiheit Test**](https://www.experte.de/barrierefreiheit), [web accessibility evaluation tool (**WAVE**)](https://wave.webaim.org/), [Accessible Colors](https://accessible-colors.com/), [TPG ARC Scan](https://www.tpgi.com/free-website-accessibility-scan/) (formerly: Cynthia Says) sowie ebenfalls [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+	- Cloud: (EN:) [web accessibility evaluation tool (**WAVE**)](https://wave.webaim.org/) ⭐ | (DE:) [buchstaben.com **Barrierefreiheit Test**](https://www.buchstaben.com/barrierefreiheit-test) ⭐, [experte.de Barrierefreiheit Test](https://www.experte.de/barrierefreiheit)
+		- Spezialthema Barrierefreie **Farben**: [Accessible Colors](https://accessible-colors.com/) (man muss seine Vorder- und Hintergrundfarbe manuell eintragen)
+		- Mittlerweile Kommerziell (€): [TPG ARC Scan](https://www.tpgi.com/free-website-accessibility-scan/) (formerly: Cynthia Says)
+		- Barrierefreiheit ist mittlerweile auch Teilaspekt von [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 	- Browser Add-In: **[Axe](https://www.deque.com/axe/)**, **[WAVE](https://wave.webaim.org/extension)**, [Siteimprove](https://addons.mozilla.org/firefox/addon/si-accessibility-checker/)
 - User tracking and analysis: **[Amplitude](https://amplitude.com/)**
 
@@ -546,23 +551,22 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- (Eine [OTH-Vorlage für beamer](https://www.oth-aw.de/latex/) findet sich in unserem GitLab)
 	- Nennenswert: [Adobe PDF to PPT](https://www.adobe.com/acrobat/online/pdf-to-ppt.html) (use in private tab for reset)
 - HTML Presentation Frameworks
-	- **[reveal.js](https://revealjs.com/)** | [impress.js](https://github.com/impress/impress.js) | [Shower](https://github.com/shower/shower) | [Inspire.js](https://github.com/LeaVerou/inspire.js) | [deck.js](https://github.com/imakewebthings/deck.js) | [DZSlides](https://github.com/paulrouget/dzslides) | uvm.
+	- **[reveal.js](https://revealjs.com/)** ⭐ | [shower](https://github.com/shower/shower) with [CLI](https://github.com/shower/cli/)
+	- (Inaktiv: [impress.js](https://github.com/impress/impress.js) | [Inspire.js](https://github.com/LeaVerou/inspire.js) | [deck.js](https://github.com/imakewebthings/deck.js) | [DZSlides](https://github.com/paulrouget/dzslides) | uvm.)
 - Markdown Presentation Frameworks
-	- Markdown to HTML
-		- **[Marp](https://marp.app/)** | [SliDev](https://sli.dev/) | [Decker](https://elearning.uni-wuerzburg.de/decker/)
-		- In der Regel Unterstützung zur Konvertierung nach HTML, PDF sowie Images (bspw. [mapr-cli](https://github.com/marp-team/marp-cli) oder [slidev-cli](https://sli.dev/builtin/cli#export))
-		- WARNHINWEIS: generierte PPTX bestehen in der Regel nur aus vorgerenderten Hintergrundbildern 😔
+	- Markdown to HTML Slide Decks
+		- **[Slidev](https://github.com/slidevjs/slidev)** ⭐ (local [slidev-cli](https://sli.dev/builtin/cli#export) bzw. [Cloud-App](https://sli.dev/)) | [Decker](https://elearning.uni-wuerzburg.de/decker/) | [Marp](https://marp.app/) ([mapr-cli](https://github.com/marp-team/marp-cli))
 		- Nennenswert: [reveal.js](https://revealjs.com/) unterstützt ebenfalls Markdown
-	- Markdown to PDF:
+	- Markdown to PDF Slide Decks
 		- [typst](https://typst.app/) mit **[touying](https://touying-typ.github.io/)** ⭐
 			- Das `typst compile` für einen Foliensatz ist im Bereich Millisekunden und daher im Round-Trip einem latex-beamer deutlich überlegen!
 			- Optisch ist touying mit latex-beamer vergleichbar und als direkter Ersatz ausgelegt.
 		- [Quarto](https://quarto.org/docs/output-formats/all-formats.html) unterstützt [Presentations](https://quarto.org/docs/presentations/)
-	- Markdown to PPTX:
-		- CLI:
+	- Markdown to PPTX Slide Decks
+		- Local/CLI:
 			- Experimentelle Option per [Marp](https://github.com/marp-team/marp-cli): `marp --pptx --pptx-editable slide-deck.md`
 			- Option per [Quarto](https://quarto.org/docs/presentations/powerpoint.html): `quarto render slide-deck.qmd --to pptx --reference-doc template.pptx`
-		- Cloud: [Gamma](https://gamma.app/)
+		- Cloud: [Gamma](https://gamma.app/) (Skizze: Import von Markdown möglich und Export von PPTX möglich)
 
 **Nennenswerte Hilfswerkzeuge**:
 
@@ -773,10 +777,10 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- vgl. Office, hinzu kommen noch weitere nennenswerte Alternativen:
 	- Desktop: [latex-**beamer**](https://ctan.org/pkg/beamer) bzw. [typst with **touying**](https://typst.app/universe/package/touying/)
 	- Web/Self-Hosted: **[reveal.js](https://revealjs.com/)**| [Decker](https://elearning.uni-wuerzburg.de/decker/) | [impress.js](https://github.com/impress/impress.js) | [Shower](https://github.com/shower/shower) | [Inspire.js](https://github.com/LeaVerou/inspire.js) | [deck.js](https://github.com/imakewebthings/deck.js) | [DZSlides](https://github.com/paulrouget/dzslides) | uvm.
-	- Cloud: **[slides.com](https://slides.com/)** | [genially](https://app.genial.ly/) (für Studierende kostenlos) | **[Prezi](https://prezi.com/)** (nur 5 Dokumente kostenlos)\
-		| (€:) **[Haiku Deck](https://www.haikudeck.com/)**: KI-gestützte Veredelung von Präsentationen durch automatische Fotos und Designs\
-		| (€:) [Microsoft **Sway**](https://sway.office.com/)
-	- Kollaborative Präsentationen: **[Pitch](https://pitch.com/)**
+	- Cloud: **[slides.com](https://slides.com/)** (basiert auf [reveal.js](https://revealjs.com/))| [genially](https://genially.com/plans/education/) (für Studierende kostenlos) | **[Prezi](https://prezi.com/)** (nur 5 Dokumente kostenlos)\
+		| (€:) **[Haiku Deck](https://www.haikudeck.com/pricing/edu)**: KI-gestützte Veredelung von Präsentationen durch automatische Fotos und Designs\
+		| (€:) [Microsoft **Sway**](https://sway.cloud.com/)
+	- Kollaborative Präsentationen: **[Pitch](https://pitch.com/)**, **[Ludus](https://ludus.one/)**
 	- Kollaboratives Zeichnen (Whiteboarding): **[invision](https://www.invisionapp.com/)** | **[miro](https://miro.com/de/)** | **[mural](https://start.mural.co/)**
 - Microsoft **Access**
 	- Desktop: **[Navicat](https://www.navicat.com/en/products/navicat-premium)**, für Studierende kostenlos über das [Navicat Academic Partner Program for Students](https://www.navicat.com/en/sponsorship/education/student)
