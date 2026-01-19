@@ -348,7 +348,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 
 - **[typst](https://typst.app/)** ⭐
 	- Mit typst gibt es eine moderne Typesetting-Variante zu latex, die aber technisch völlig eigenständig ist.
-	- HINWEIS: die typst Syntax ist eine Mischung aus AsciiDoc und Markdown (bspw. MarkDown: Code-Blöcke und Listen | AsciiDoc: Überschriften sowie bold und italics)
+	- HINWEIS: die eigenständige [typst Markup Syntax](https://typst.app/docs/reference/syntax/) (inkl. [Math mode](https://typst.app/docs/reference/math/)) ist eine Mischung aus [AsciiDoc](https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/) und [Markdown]() (bspw. MarkDown: Code-Blöcke und Listen | AsciiDoc: Überschriften sowie bold und italics | zzgl. [AsciiMath](https://asciimath.org/))
 	- Einführung: [Typst Examples Book](https://sitandr.github.io/typst-examples-book/book/)
 	- Cheat Sheet: [Typst Cheat Sheet](https://github.com/mewmew/typst-cheat-sheet)
 	- Scientific Layouts: [IEEE](https://typst.app/universe/package/charged-ieee/) | [ACM](https://typst.app/universe/package/clean-acmart))
@@ -357,6 +357,17 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- Quarto ist ein Open-Source-System für wissenschaftliche und technische Veröffentlichungen, das auf Pandoc basiert.
 	- Scientific Layouts: [IEEE](https://github.com/dfolio/quarto-ieee) | [ACM](https://github.com/quarto-journals/acm)
 	- Weiterführende Quellen: [Awesome Quarto](https://github.com/mcanouil/awesome-quarto)
+- Markdown Syntax:
+	- Nennenswerte Markdown-Lücken? u.a. Tabellen und Fußnoten! Auch keine Auto-Links!
+		- AsciiDoc, etwas älter als Markdown, sowie Typst schließen und unterstützen alle Markdown-Lücken! Markdown wurde explizit als simple Syntax geschaffen!
+		- AsciiDoc als vollwertiges Dokumentationsformat für Technical Writing und für Multi-Channel Publishing (manpages, EPUB/HTML, DocBook, PDF), als [DocBook](https://tdg.docbook.org/)-Alternative; allerdings OHNE Layouting, Typographie oder Scripting
+		- Typst als professionalles Textsatz-System / typsetting engine (PDF und nur [experimenteller HTML](https://typst.app/docs/reference/html/)-Support), d.h. inkl. Layout und Typographie, als
+ [LaTeX](https://www.latex-project.org/)-Alternative; allerdings OHNE Multi-Channel-Intention, bpsw. kein EPUB und keine manpages
+		- Vereinfacht: MarkDown/AsciiDoc/DocBook (Online) sowie typst/latex (Print), wobei DocBook/AsciiDoc offensichtlich auch eine Print-Ausdehnung haben
+		- Weiterführende Infos: [lmptfy](https://www.perplexity.ai/search/new?q=Bitte+einen+ausführlichen+Vergleich+zu+AsciiDoc%2C+Markdown%2C+GFM%2C+Typst+sowie+LaTeX+und+DocBook.+Mit+historischer+und+konzeptioneller+Gegenüberstellung.+Und+Vergleichstabelle+von+gängigen+Elementen+zu+Markdown%2C+GFM%2C+AsciiDoc+und+Typst%2C+achte+dabei+auf+das+preformatting+der+Syntax+in+der+Tabelle.+Gehe+auch+auf+den+Math+Mode+ein%2C+sowie+AsciiMath.)
+	- Standardisierung: [CommonMark](https://commonmark.org/) ([Spec](https://spec.commonmark.org/current/)) (Auch keine Tabellen und Fußnoten!)
+	- Webartikel [The Ultimate Markdown Cheat Sheet for Technical Writers and Documentation Engineers](https://medium.com/@kevinteaches/the-ultimate-markdown-cheat-sheet-for-technical-writers-541dbb9fd53c)
+	- [GitHub Flavored Markdown](https://github.github.com/gfm/) (GFM), inkl. Tabellen (Weiterhin fehlend? u.a. Fußnoten!)
 
 ## Schreiben
 
