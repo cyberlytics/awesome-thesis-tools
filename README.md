@@ -121,6 +121,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 
 - AI-enabled Browser: Perplexity [Comet](https://comet.perplexity.ai/), [Sigma](https://www.sigmabrowser.com/), [Fellou](https://fellou.ai/), Arc [Max](https://arc.net/max), Opera [Aria](https://www.opera.com/de/features/aria), Microsoft Edge+Copilot
 	- Mac-only: [Dia](https://www.diabrowser.com/)
+	- Disbling AI features in Browsers: [Just the Browser](https://justthebrowser.com/)
 - Als Extension:
 	- in Browsern:
 		- Grammatik: [LanguageTool](https://languagetool.org/de/chrome)
@@ -209,10 +210,10 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 
 ## LaTeX & PDF
 
-- DISCLAIMER: **[typst](https://typst.app/) vs. LaTeX**? Mit typst gibt es eine moderne, überlegene Typesetting-Variante zu latex, die aber technisch völlig eigenständig ist.
+- DISCLAIMER: **[typst](https://typst.app/) vs. LaTeX**? Mit typst gibt es eine moderne Typesetting-Variante zu latex, die aber technisch völlig eigenständig ist.
 	- Überlegen Sie ggf. Publikationen oder Abschlussarbeiten in typst zu schreiben; nur fehlt dann ggf. die einfache Vorlage (aber mind. [IEEE](https://typst.app/universe/package/charged-ieee/) gibt es sowie erste Drafts zu [ACM](https://typst.app/universe/package/clean-acmart))
 	- Mit [touying](https://touying-typ.github.io/) gibt es eine gute Altternative zu latex-beamer in typst
-	- Weiterführende Quellen: [Awesome Typst](https://github.com/qjcg/awesome-typst)
+	- Weiterführende Quellen: [Typst Examples Book](https://sitandr.github.io/typst-examples-book/book/), [Awesome Typst](https://github.com/qjcg/awesome-typst)
 	- "This being said ..." jetzt zurück zum wohlbekannten LaTeX:
 - Einstieg:
 	- LaTeX: Overleaf **[Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)** sowie **[How to Write a Thesis in LaTeX](https://www.overleaf.com/learn/latex/How_to_Write_a_Thesis_in_LaTeX_(Part_1)%3A_Basic_Structure)**
@@ -346,7 +347,10 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 ## Markdown Publishing
 
 - **[typst](https://typst.app/)** ⭐
-	- Mit typst gibt es eine moderne, überlegene Typesetting-Variante zu latex, die aber technisch völlig eigenständig ist.
+	- Mit typst gibt es eine moderne Typesetting-Variante zu latex, die aber technisch völlig eigenständig ist.
+	- HINWEIS: die typst Syntax ist eine Mischung aus AsciiDoc und Markdown (bspw. MarkDown: Code-Blöcke und Listen | AsciiDoc: Überschriften sowie bold und italics)
+	- Einführung: [Typst Examples Book](https://sitandr.github.io/typst-examples-book/book/)
+	- Cheat Sheet: [Typst Cheat Sheet](https://github.com/mewmew/typst-cheat-sheet)
 	- Scientific Layouts: [IEEE](https://typst.app/universe/package/charged-ieee/) | [ACM](https://typst.app/universe/package/clean-acmart))
 	- Weiterführende Quellen: [Awesome Typst](https://github.com/qjcg/awesome-typst)
 - [Quarto](https://quarto.org/docs/output-formats/all-formats.html) unterstützt [Presentations](https://quarto.org/docs/presentations/)
@@ -561,6 +565,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 		- [typst](https://typst.app/) mit **[touying](https://touying-typ.github.io/)** ⭐
 			- Das `typst compile` für einen Foliensatz ist im Bereich Millisekunden und daher im Round-Trip einem latex-beamer deutlich überlegen!
 			- Optisch ist touying mit latex-beamer vergleichbar und als direkter Ersatz ausgelegt.
+			- OBACHT: genau genommen ist die typst Syntax eine Mischung aus AsciiDoc und Markdown (bspw. MarkDown: Code-Blöcke und Listen | AsciiDoc: Überschriften sowie bold und italics)
 		- [Quarto](https://quarto.org/docs/output-formats/all-formats.html) unterstützt [Presentations](https://quarto.org/docs/presentations/)
 	- Markdown to PPTX Slide Decks
 		- Local/CLI:
