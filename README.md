@@ -346,15 +346,16 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 
 ## Markdown Publishing
 
-- **[typst](https://typst.app/)** ⭐
+- **[typst](https://typst.app/)** ⭐ \[**choco install typst**\]
 	- Mit typst gibt es eine moderne Typesetting-Variante zu latex, die aber technisch völlig eigenständig ist.
 	- HINWEIS: die eigenständige [typst Markup Syntax](https://typst.app/docs/reference/syntax/) (inkl. [Math mode](https://typst.app/docs/reference/math/)) ist eine Mischung aus [AsciiDoc](https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/) und [Markdown]() (bspw. MarkDown: Code-Blöcke und Listen | AsciiDoc: Überschriften sowie bold und italics | zzgl. [AsciiMath](https://asciimath.org/))
 	- Einführung: [Typst Examples Book](https://sitandr.github.io/typst-examples-book/book/)
 	- Cheat Sheet: [Typst Cheat Sheet](https://github.com/mewmew/typst-cheat-sheet)
 	- Scientific Layouts: [IEEE](https://typst.app/universe/package/charged-ieee/) | [ACM](https://typst.app/universe/package/clean-acmart))
 	- Weiterführende Quellen: [Awesome Typst](https://github.com/qjcg/awesome-typst)
-- [Quarto](https://quarto.org/docs/output-formats/all-formats.html) unterstützt [Presentations](https://quarto.org/docs/presentations/)
-	- Quarto ist ein Open-Source-System für wissenschaftliche und technische Veröffentlichungen, das auf Pandoc basiert.
+- [Quarto](https://quarto.org/docs/output-formats/all-formats.html)  \[**choco install quarto**\]
+	- Quarto ist ein Open-Source-System für wissenschaftliche und technische Veröffentlichungen, das auf Pandoc basiert
+	- Unterstützt auch [Presentations](https://quarto.org/docs/presentations/)
 	- Scientific Layouts: [IEEE](https://github.com/dfolio/quarto-ieee) | [ACM](https://github.com/quarto-journals/acm)
 	- Weiterführende Quellen: [Awesome Quarto](https://github.com/mcanouil/awesome-quarto)
 - Markdown Syntax:
