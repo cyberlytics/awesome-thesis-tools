@@ -159,7 +159,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 			- Prompt Splitter: [chatgpt-**prompt-splitter**](https://chatgpt-prompt-splitter.jjdiaz.dev) für großen Text-Input (derzeit sind nur Chunks von jeweils ein paar Tausend Zeichen erlaubt)
 			- Text-Extraktion aus PDF: **pdftotext** aus den [xpdf-utils](http://www.xpdfreader.com) \[**choco install xpdf-utils**\]
 		- YouTube Summarizer (mittels GPT): **[Glasp](https://glasp.co/youtube-summary)**
-- Text-to-...: ([Auswahlhilfe](https://llmselector.vercel.app/))
+- Text-to-…: ([Auswahlhilfe](https://llmselector.vercel.app/))
 	- Text-to-Code:
 		- Dev/FOSS-Models: Facebook [Llama](https://www.llama.com/llama-downloads/), OpenAI [gpt-oss](https://openai.com/index/introducing-gpt-oss/), Google [gemma](https://huggingface.co/google), [DeepSeek](https://huggingface.co/deepseek-ai), xAI [grok](https://huggingface.co/xai-org), [Qwen](https://huggingface.co/Qwen), [Mistral](https://huggingface.co/mistralai) (Mistral [Commercial vs. OSS](https://docs.mistral.ai/getting-started/models)), TII [Falcon](https://huggingface.co/tiiuae), BigScience [BLOOM](https://huggingface.co/bigscience/bloom)
 			- AI-Coder Model-Benchmark: [Eval Plus](https://evalplus.github.io/leaderboard.html)
@@ -214,7 +214,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- Überlegen Sie ggf. Publikationen oder Abschlussarbeiten in typst zu schreiben; nur fehlt dann ggf. die einfache Vorlage (aber mind. [IEEE](https://typst.app/universe/package/charged-ieee/) gibt es sowie erste Drafts zu [ACM](https://typst.app/universe/package/clean-acmart))
 	- Mit [touying](https://touying-typ.github.io/) gibt es eine gute Altternative zu latex-beamer in typst
 	- Weiterführende Quellen: [Typst Examples Book](https://sitandr.github.io/typst-examples-book/book/), [Awesome Typst](https://github.com/qjcg/awesome-typst)
-	- "This being said ..." jetzt zurück zum wohlbekannten LaTeX:
+	- "This being said …" jetzt zurück zum wohlbekannten LaTeX:
 - Einstieg:
 	- LaTeX: Overleaf **[Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)** sowie **[How to Write a Thesis in LaTeX](https://www.overleaf.com/learn/latex/How_to_Write_a_Thesis_in_LaTeX_(Part_1)%3A_Basic_Structure)**
 		- Weiteres Einstiegsmaterial:	**[A simple guide to LaTeX – Step by Step](https://latex-tutorial.com/tutorials/)** | **[Wikibooks: LaTeX](https://en.wikibooks.org/wiki/LaTeX)**
@@ -302,10 +302,10 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 			Und damit Research Questions oder Findings als:
 			```latex
 			\begin{resques}{RQ\,1}
-			How does ...?
+			How does …?
 			\end{resques}
 			\begin{resques}{Finding\,1}
-			It occurs ...?
+			It occurs …?
 			\end{resques}
 			```
 			- Oder tcolorbox für hübschen Boxen zu LLM-Dialogen:
@@ -715,10 +715,10 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 		- In general: No free alternative, but a mix of [GhostScript](https://www.ghostscript.com/releases/gsdnld.html) (Win: use gswin64c.exe; i.a., ps2pdf, pdf2ps), [pdftk free](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) (concat files, add security, compress), [Xpdf](https://www.xpdfreader.com/download.html) (pdftops, pdftotext, pdftohtml, pdftoppm, pdftopng, pdfimages, pdfinfo, pdfdetach,pdftops), [poppler](https://community.chocolatey.org/packages/poppler) (i.a., pdffonts), and Apache [PDFBox](https://pdfbox.apache.org/) as well as optionally [PsUtils](https://gnuwin32.sourceforge.net/packages/psutils.htm) (i.a., psnup, psbook)
 		- PDF/X-1a: **[scribus](https://www.scribus.net/)** \[**choco install scribus**\]
 			- Open arbitrary PDF file in Scribus (use default option **text as vectors**)
-			- Use **File** » **Document Setup...** » **Color Management**:
+			- Use **File** » **Document Setup…** » **Color Management**:
 				- Select **Activate Color Management**
 				- Optional: Download, e.g., CoatedFOGRA39.icc and save it alongside the PDF! Then you can change, in the Color Management dialog, the color profiles to the alongside icc file profile, e.g., using CoatedFOGRA39 for all CMYK options (and just keep sRGB for the RGB options)
-			- Use **File** » **Export** » **Save as PDF...**:
+			- Use **File** » **Export** » **Save as PDF…**:
 				- In General tab: select **PDF/X-1a** as output compatibility standard
 				- In Fonts tab: select **Outline All Fonts**
 	- Cloud:
