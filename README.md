@@ -664,9 +664,9 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 
 - **[MathCha.io](https://www.mathcha.io)**: Eine Cloud-WebApp zum zeichnen von mathematischen Grafiken
 	- Erlaubt den Export nach SVG und sogar nach Tikz zwecks Latex
-- **[Geogebra](https://moodle.oth-aw.de/mod/url/view.php?id=86125)**: Graphikrechner, 2D Geometrie, 3D Geometrie, Algebra-Rechner, …
+- **[Geogebra](https://www.geogebra.org/calculator)**: Graphikrechner, 2D Geometrie, 3D Geometrie, Algebra-Rechner, …
 	- (Auch als Desktop-App unter Windows verfügbar, bspw. mittels chocolatey: **choco install geogebra6** bzw. **choco install geogebra-geometry**)
-	- Alternative: **Desmos** ([Desmos Calculator](https://moodle.oth-aw.de/mod/url/view.php?id=86074), [Desmos Geometry](https://moodle.oth-aw.de/mod/url/view.php?id=86075))
+	- Alternative: **Desmos** ([Desmos Calculator](https://www.desmos.com/calculator), [Desmos Geometry](https://www.desmos.com/geometry))
 - **[JSXGraph](https://jsxgraph.uni-bayreuth.de)**: JavaScript library for cross-browser interactive geometry, function plotting, charting, and data visualization
 - siehe auch Abschnitt **[Data Science](https://github.com/cyberlytics/awesome-bdccai-tools#data-science)** auf der Schwester-Seite zu BDCC/AI
 - siehe unten bei [Kostenlose Alternativen](#kostenlose-alternativen) zu SAS, MathWorks Matlab und Wolfram Mathematica
@@ -771,17 +771,17 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 - Microsoft **Office** (Word, Excel, PowerPoint)
 	- Spezialhinweis: [Microsoft Office 365](https://www.oth-aw.de/hochschule/services/online-services/microsoft-produkte/) für Studierende kostenlos per Studisoft / OTH-Rahmenvertrag
 	- Desktop: **[LibreOffice](https://www.libreoffice.org/)** ⭐ \[**choco install libreoffice-fresh --ignore-dependencies**\] (hoher Funktionsumfang)\
-		| [**Collabora Office**](https://www.collaboraonline.com/collabora-office/) for Desktop (technisch basierend auf LibreOffice; mit Ribbons)\
-		| **[SoftMaker FreeOffice](https://www.freeoffice.com/)** \[**choco install freeoffice**\] (hohe MS Office UI/UX-Kompatibilität)\
-		| [**OnlyOffice** Docs](https://www.onlyoffice.com/desktop.aspx) for Desktop (hohe MS Office Format-Kompatibilität)\
-		| [**WPS Office**](https://de.wps.com/download/) (hohe Benutzerfreundlichkeit)\
-		| (€:) [**WordPerfect** Office Education](https://www.wordperfect.com/en/product/education-edition/) (hohe/präzise Formatkontrolle)
+		| [**Collabora Office**](https://www.collaboraonline.com/collabora-office/) for Desktop (UK; technisch basierend auf LibreOffice; mit Ribbons)\
+		| **[SoftMaker FreeOffice](https://www.freeoffice.com/)** \[**choco install freeoffice**\] (DE; hohe MS Office UI/UX-Kompatibilität)\
+		| [**OnlyOffice** Docs](https://www.onlyoffice.com/desktop.aspx) for Desktop (RU; hohe MS Office Format-Kompatibilität)\
+		| [**WPS Office**](https://de.wps.com/download/) (CN; hohe Benutzerfreundlichkeit)\
+		| (€:) [**WordPerfect** Office Education](https://www.wordperfect.com/en/product/education-edition/) (CA; hohe/präzise Formatkontrolle)
 	- Cloud: **[ZoHo](https://www.zoho.com/)** inkl. [Zoho Docs for Desktop](https://www.zoho.com/docs/help/zoho-docs-for-desktop.html#installing-zohodrive) | [**OnlyOffice** Personal](https://personal.onlyoffice.com/) | **[Google Workspace](https://workspace.google.com/)** ([Google Docs](https://docs.google.com/document/u/0/), [Google Sheets](https://docs.google.com/spreadsheets/u/0/), [Google Slides](https://docs.google.com/presentation/u/0/))
 	- Web/Self-Hosted: [APITable](https://github.com/apitable/apitable)
-	- Android: **[Collabora Office](https://www.collaboraonline.com/collabora-office-android-ios/)** for Android\
-		| SoftMaker **[Office NX](https://play.google.com/store/apps/developer?id=SoftMaker+Software+GmbH)**\
-		| [**OnlyOffice**](https://www.onlyoffice.com/office-for-android) for Android\
-		| [**WPS Office**](https://de.wps.com/office/android/) for Android
+	- Android: **[Collabora Office](https://www.collaboraonline.com/collabora-office-android-ios/)** for Android (UK)\
+		| SoftMaker **[Office NX](https://play.google.com/store/apps/developer?id=SoftMaker+Software+GmbH)** (DE)\
+		| [**OnlyOffice**](https://www.onlyoffice.com/office-for-android) for Android (RU)\
+		| [**WPS Office**](https://de.wps.com/office/android/) for Android (CN)
 - Microsoft **Word**
 	- vgl. Office, hinzu kommen noch weitere nennenswerte Alternativen:
 	- Desktop: **[Jarte](https://www.jarte.com/)**
