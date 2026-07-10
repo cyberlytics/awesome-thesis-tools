@@ -352,7 +352,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- Einführung: [Typst Examples Book](https://sitandr.github.io/typst-examples-book/book/)
 	- Cheat Sheet: [Typst Cheat Sheet](https://github.com/mewmew/typst-cheat-sheet)
 	- Scientific Layouts: [IEEE](https://typst.app/universe/package/charged-ieee/) | [ACM](https://typst.app/universe/package/clean-acmart))
-	- Weiterführende Quellen: [Awesome Typst](https://github.com/qjcg/awesome-typst)
+	- Weiterführende Quellen: [Awesome Typst](https://github.com/qjcg/awesome-typst), [Best of Typst](https://ydx-2147483647.github.io/best-of-typst/)
 - [Quarto](https://quarto.org/docs/output-formats/all-formats.html)  \[**choco install quarto**\]
 	- Quarto ist ein Open-Source-System für wissenschaftliche und technische Veröffentlichungen, das auf Pandoc basiert
 	- Unterstützt auch [Presentations](https://quarto.org/docs/presentations/)
