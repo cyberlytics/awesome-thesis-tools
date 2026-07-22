@@ -13,7 +13,7 @@
 [![Support on Ko‑fi](https://img.shields.io/badge/Donate-ko--fi-%23FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/cyberlytics)
 [![Buy Me A Coffee!](https://img.shields.io/badge/Donate-buymeacoffee-%23FFDD00?logo=buymeacoffee)](https://www.buymeacoffee.com/cyberpetaneuron)
 
-Dies ist eine Tool-Sammlung. Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Digitaler Ressourcen-Pool](https://github.com/cyberlytics/awesome-basics), [Werkzeuge » Software-Engineering](https://github.com/cyberlytics/awesome-software-engineering-tools) und [Werkzeuge » BDCC/AI](https://github.com/cyberlytics/awesome-bdccai-tools).
+Dies ist eine Tool-Sammlung. Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Digitaler Ressourcen-Pool](https://github.com/cyberlytics/awesome-basics), [Werkzeuge » Software-Engineering](https://github.com/cyberlytics/awesome-software-engineering-tools), [Werkzeuge » BDCC/AI](https://github.com/cyberlytics/awesome-bdccai-tools) und [Agentic Engineering](https://github.com/cyberlytics/awesome-6GL).
 
 Hinweise:
 
@@ -117,96 +117,7 @@ Disclaimer: Einsatz kann in Unternehmen verboten sein, selbst wenn diese rein te
 
 ## Generative KI
 
-Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist Ihnen durch meine eigenen Policies untersagt. Dennoch können Sie sich die diversen Werkzeuge zu Nutzen machen, bspw. als persönlicher KI Tutor.
-
-- AI-enabled Browser: Perplexity [Comet](https://comet.perplexity.ai/), [Sigma](https://www.sigmabrowser.com/), [Fellou](https://fellou.ai/), Arc [Max](https://arc.net/max), Opera [Aria](https://www.opera.com/de/features/aria), Microsoft Edge+Copilot
-	- Mac-only: [Dia](https://www.diabrowser.com/)
-	- Disbling AI features in Browsers: [Just the Browser](https://justthebrowser.com/)
-- Als Extension:
-	- in Browsern:
-		- Grammatik: [LanguageTool](https://languagetool.org/de/chrome)
-		- LLM u.a. für GMail: [Halist AI](https://chromewebstore.google.com/detail/halist-ai/fbpfkdadaghhgfcnaljbkjmfaaclohdb)
-		- Weitere Referenzen: [Tooltivity-Liste](https://tooltivity.com/categories/ai)
-	- in Thunderbird:
-		- [ThunderAI](https://addons.thunderbird.net/en-US/thunderbird/addon/thunderai/)
-- Desktop-Apps / AI Tool Installer:
-	- Universell: **[pinokio](https://pinokio.computer/)**, [SEAIT](https://github.com/diStyApps/seait/)
-- Text-to-Text:
-	- LLM Model-Benchmark: [What LLM Provider](https://whatllm.vercel.app/) | [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard) ([Method](https://huggingface.co/docs/leaderboards/open_llm_leaderboard/about)) sowie [MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
-		- LLM Modelle mit DE-Unterstützung: [Webartikel](https://medium.com/@oledawidzinski/deutschsprachige-open-source-llms-als-alternative-zu-chatgpt-und-co-8ecbcf6ab96d) (u.a. Mistral-Nemo-Instruct-2407, DiscoLM_German_7b_v1, SauerkrautLM, …, Qwen2-7B-Instruct, Llama3-DiscoLeo-Instruct-8B, …)
-		- Long-Term Context LLM / Personalized AI: [MemGPT](https://memgpt.ai/)
-		- Agent AI: **[Letta](https://github.com/letta-ai/letta)**
-	- Desktop/Local/Offline: **[Msty](https://msty.app/)** ⭐, **[LM Studio](https://lmstudio.ai/)** ⭐ \[**choco install lm-studio**\], **[Witsy](https://witsyai.com/)** ⭐ \[**choco install witsy**\], [AnythingLLM](https://anythingllm.com/), Nomic [gpt4all](https://github.com/nomic-ai/gpt4all) \[**choco install gpt4all**\], [Jan AI](https://jan.ai) \[**choco install jan**\] und andere
-		- Local [OpenAI-compatible API](https://platform.openai.com/docs/api-reference/chat) Server: [LM Studio OpenAI-compatible API server](https://lmstudio.ai/docs/api/openai-api), [vLLM OpenAI-compatible API Server](https://docs.vllm.ai/en/latest/serving/openai_compatible_server.html), [Msty Local AI Service](https://docs.msty.app/how-to-guides/make-local-ai-service-available-on-the-network), [gpt4all API Server](https://docs.gpt4all.io/gpt4all_api_server/home.html), [Jan.ai Cortex Local API Server](https://cortex.so/docs/quickstart/) ([API](https://cortex.so/api-reference/))
-			- Docker: [LocalAI](https://localai.io/): Local family AI, full-stack = All-in-One: LLMs, Text to Speech, Speech to Text, Function calling, Image generation, Embedding server
-		- Let LLMs run code locally: [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)
-	- WebUI/Local/Offline: [pinokio](https://pinokio.co/)
-		- **[Open WebUI](https://openwebui.com/)** ⭐
-		- [Text Generation WebUI](https://pinokio.co/item.html?uri=https%3A%2F%2Fgithub.com%2Fcocktailpeanut%2Foobabooga.pinokio) (both best installed via )
-	- Embedded/Local/Offline: [vLLM](https://github.com/vllm-project/vllm)
-	- Desktop/Cloud-only/Online: **[Noi](https://github.com/lencx/Noi)**
-	  - Single Vendor: Unofficial **[ChatGPT Desktop](https://github.com/lencx/ChatGPT)** \[**choco install chatgpt**\], Official **[Claude Desktop](https://claude.ai/download)** \[**choco install claude**\], Official **[Perplexity Windows App](https://apps.microsoft.com/detail/xp8jnqfbqh6pvf)** (sowie Unofficial Inulute [Perplexity AI Desktop](https://pplx.inulute.com/download/))
-	- more: [basran](https://github.com/hyperonym/basaran), [LocalAI](https://github.com/mudler/LocalAI), [Xorbits Inference](https://github.com/xorbitsai/inference) 
-	- Search-Chatbots: [**perplexity**.ai](https://www.perplexity.ai/) ⭐ (mit „Focus: Academic“)
-		- Weitere Nennenswerte: Anthropic **[Claude](https://www.anthropic.com)**, Google [Gemini](https://gemini.google.com/), OpenAI [ChatGPT](https://openai.com/blog/chatgpt/), Meta [Llama](https://llama.meta.com/), [HuggingChat](https://huggingface.co/chat/), Opera [Aria](https://www.opera.com/features/aria), [character.ai](https://beta.character.ai/), …
-	- KI-Suche
-		- [**you**.com](https://you.com/), [Andi](https://andisearch.com), Microsoft [Bing](https://bing.com/new), OpenAI [SearchGPT](https://openai.com/index/searchgpt-prototype/), …
-	- Data Science
-		- [**WolframAlpha** Chat Notebooks in der Wolfram Cloud](https://www.wolframcloud.com/) ⭐ ([Anleitung](https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/))
-	- Summarizer
-		- Ask your Document: [AskYourPDF](https://askyourpdf.com), [ChatPDF](https://www.chatpdf.com/), [PDF.ai](https://pdf.ai/), …
-		- DIY-Helfer
-			- Prompt Splitter: [chatgpt-**prompt-splitter**](https://chatgpt-prompt-splitter.jjdiaz.dev) für großen Text-Input (derzeit sind nur Chunks von jeweils ein paar Tausend Zeichen erlaubt)
-			- Text-Extraktion aus PDF: **pdftotext** aus den [xpdf-utils](http://www.xpdfreader.com) \[**choco install xpdf-utils**\]
-		- YouTube Summarizer (mittels GPT): **[Glasp](https://glasp.co/youtube-summary)**
-- Text-to-…: ([Auswahlhilfe](https://llmselector.vercel.app/))
-	- Text-to-Code:
-		- Dev/FOSS-Models: Facebook [Llama](https://www.llama.com/llama-downloads/), OpenAI [gpt-oss](https://openai.com/index/introducing-gpt-oss/), Google [gemma](https://huggingface.co/google), [DeepSeek](https://huggingface.co/deepseek-ai), xAI [grok](https://huggingface.co/xai-org), [Qwen](https://huggingface.co/Qwen), [Mistral](https://huggingface.co/mistralai) (Mistral [Commercial vs. OSS](https://docs.mistral.ai/getting-started/models)), TII [Falcon](https://huggingface.co/tiiuae), BigScience [BLOOM](https://huggingface.co/bigscience/bloom)
-			- AI-Coder Model-Benchmark: [Eval Plus](https://evalplus.github.io/leaderboard.html)
-		- Desktop/Local/Offline: **[Msty](https://msty.app/)** ⭐, **[LM Studio](https://lmstudio.ai/)** ⭐
-		- WebUI/Local/Offline: [bolt.diy](https://pinokio.co/item.html?uri=https%3A%2F%2Fgithub.com%2Fpinokiofactory%2Fbolt), [autogpt](https://pinokio.co/item.html?uri=https%3A%2F%2Fgithub.com%2Fpinokiofactory%2Fautogpt) (via [pinokio](https://pinokio.co/))
-		- Cloud/freemium: [DeepSeek Chat](https://chat.deepseek.com/) ,Online [Eden AI](https://www.edenai.co/), [uvm.](https://codesubmit.io/blog/ai-code-tools/)
-		- Nennenswerte andere Dev-Tools: [dir-assistant](https://github.com/curvedinf/dir-assistant)
-		- Weiterführende Referenzen: [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) | [Awesome Code-AI](https://github.com/sourcegraph/awesome-code-ai)
-	- Text-to-SQL:
-		- Foundational Models: [DuckDB NSQL](https://github.com/NumbersStationAI/DuckDB-NSQL)
-		- Tutorials: AWS Machine Learning [Build a robust text-to-SQL solution ](https://aws.amazon.com/de/blogs/machine-learning/build-a-robust-text-to-sql-solution-generating-complex-queries-self-correcting-and-querying-diverse-data-sources/), LlamaIndex [Text-to-SQL Guide with Jupyter](https://docs.llamaindex.ai/en/stable/examples/index_structs/struct_indices/SQLIndexDemo/), IBM Watson [Generating SQL from text with LLMs](https://developer.ibm.com/tutorials/awb-text-to-sql-using-llms/)
-	- Text-to-Image:
-		- AI-Image-Generator Model-Benchmark: Artificial Analysis [Image AI Model & Provider Leaderboard](https://artificialanalysis.ai/text-to-image) | [Benchmarking-Awesome-Diffusion-Models](https://github.com/Schuture/Benchmarking-Awesome-Diffusion-Models)
-		- Dev/FOSS Models: **[Stable Diffusion](https://github.com/CompVis/stable-diffusion)**, **[FLUX.1](https://github.com/black-forest-labs/flux)**
-		- Desktop/Local/Offline: Lykos **[Stability Matrix](https://lykos.ai/downloads)** ⭐ (Tutorial: [Using FLUX.1 locally](https://www.kdnuggets.com/using-flux-1-locally))
-			- Stability Matrix ist ein 1-Stop-Shop für alle anderen Werkzeuge wie bspw.: Stable Diffusion WebUI [Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) bzw. [reForge](https://github.com/Panchovix/stable-diffusion-webui-reForge), [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-			- Disclaimer: Manche Text-to-Image Werkzeuge benötigen (Stand 2025) eine NVidia RTX als Hardware-Voraussetzung
-			- Bonus-Hinweis: Für Stable Diffusion WebUI, und dessen Derivate, kann man dessen REST-API (aka **sdapi**) mit dessen Kommandozeilenparameter `--api` aktivieren
-				- Diesen `--api` Parameter kann man auch in Stability Matrix (unter dessen `Launch Options` für Stable Diffusion WebUI) leicht ergänzen (per `Extra Launch Arguments`)
-				- Die aktivierte **sdapi** läuft dann bspw. unter http://127.0.0.1:7860/sdapi/v1/txt2img
-		- WebUI/Local/Offline: [MFLUX-WWebUI](https://pinokio.co/item.html?uri=https%3A%2F%2Fgithub.com%2Fpinokiofactory%2FMFLUX-WEBUI) (via [pinokio](https://pinokio.co/))
-		- Cloud/freemium-with-API: [Playground](https://playground.com/design/pricing), [PicoGen](https://picogen.io/), [Pollinations AI](https://pollinations.ai/)
-		- Cloud/freemium: [Deep Dream Generator](https://deepdreamgenerator.com/) ([old version](https://deepdreamgenerator.com/generator?old-tools=1)), [Dezgo](https://dezgo.com/text2image/sdxl), [Stable Diffusion Online](https://stablediffusionweb.com/) (10img/d; mit Wasserzeichen), [NightCafe](https://creator.nightcafe.studio/), [WPimages](https://www.wpimagines.com/), [AI Image Generator](https://www.aiimagegenerator.org/), [uvm.](https://easywithai.com/best-free-ai-image-generators/)
-		- Cloud/€€€/Subscriptions: **[OpenArt](https://openart.ai/create)** ⭐, [fal](https://fal.ai/), [dreamina](https://dreamina.capcut.com/ai-tool/home/?type=image), OpenAI [**DALL·E** 2](https://labs.openai.com/waitlist), **[Midjourney](https://www.midjourney.com/)**, [craiyon](https://www.craiyon.com/) (früher: „DALL·E mini“), Google [Imagen](https://imagen.research.google/), Adobe [Firefly](https://www.adobe.com/products/firefly.html) …
-	- Text-to-Video: [synthesia](https://www.synthesia.io), [dreamina](https://dreamina.capcut.com/ai-tool/home/?type=video), [kaiber.ai](https://kaiber.ai), … , China: [Kling](https://kling.kuaishou.com/en)
-		- WebUI/Local/Offline: [CogStudio](https://pinokio.co/item.html?uri=https%3A%2F%2Fgithub.com%2Fpinokiofactory%2Fcogstudio), [FramePack](https://pinokio.co/item.html?uri=https%3A%2F%2Fgithub.com%2Fpinokiofactory%2FFrame-Pack), [fp-studio](https://pinokio.co/item.html?uri=https%3A%2F%2Fgithub.com%2FFP-Studio%2Ffp-studio), [Wan](https://pinokio.co/item.html?uri=https%3A%2F%2Fgithub.com%2Fpinokiofactory%2Fwan) (via [pinokio](https://pinokio.co/))
-	- Text-to-Slides: **[Gamma](https://gamma.app/)** ⭐, [Felo Slides](https://felo.ai/agents/felo-slides-qP4dLw7kMv9ZuG5FnX8cH1), [SlidesPilot](https://www.slidespilot.com/), [SlideSpeak](https://slidespeak.co/), [ChatBA](https://www.chatba.com/), [Presentation Intelligence](https://www.pi.inc/), [Slidesgo](https://slidesgo.com/), …
-		- Academic: [ChatSlide](https://chatslide.ai/) (formerly: DrLambda)
-		- Local: «tbd» ([AutoPresent](https://github.com/para-lost/AutoPresent))
-	- Text-to-Visuals (for presentations): [Napkin AI](https://app.napkin.ai/)
-	- Text-to-Quiz: [Quizalize](https://app.quizalize.com/pricing), …
-	- Text-to-Speach (TTS): [NaturalReader](https://www.naturalreaders.com/online/), [TTSMaker](https://ttsmaker.com/), [Murf.AI](https://murf.ai/text-to-speech), …
-	- Text-to-Sound: [boomy](https://boomy.com/), [Suno AI](https://app.suno.ai/), [Vocaloid](https://www.vocaloid.com/en/vocaloid6/), Google [Instrument Playground](https://artsandculture.google.com/experiment/instrument-playground/8QFo2oQr2uT3pg?hl=en), …
-		- WebUI/Local/Offline: [YuE](https://pinokio.co/item.html?uri=https%3A%2F%2Fgithub.com%2Fpinokiofactory%2Fyue) (via [pinokio](https://pinokio.co/))
-	- Text-to-3D / Image-to-3D: [csm.ai](https://www.csm.ai) (zzgl. €: [3D AI Studio](https://www.3daistudio.com))
-	- AI-Suites/API-centric/Pay-as-you-Go: **[Fireworks AI](https://fireworks.ai/)**, [Replicate](https://replicate.com/)
-	- Weiterführende Referenzen: [There is an AI for that](https://theresanaiforthat.com/most-saved/) | [There's an AI](https://theresanai.com/)
-- IT-Security:
-	- [WormGPT](https://thehackernews.com/2023/07/wormgpt-new-ai-tool-allows.html)
-- Prompt Builder:
-	- Cloud: gptforwork [OpenAI GPT prompt generator](https://gptforwork.com/tools/prompt-generator)
-- Prompting Desktop Integration:
-	- [Razer AI Launcher](https://mysupport.razer.com/app/answers/detail/a_id/15016) (Benötigt Razer Maus; Prompt Launcher ist dann Teil von **Synapse**)
-	- [Logi AI Prompt Builder](https://www.logitech.com/software/logi-ai-prompt-builder.html) (Benötigt Logitech Maus; Prompt Builder ist dann Teil von **Logi Options+**)
-	- Weiterführende Quellen: [Awesome **ChatGPT Prompts**](https://github.com/f/awesome-chatgpt-prompts)
-- Weiterführende Quellen
-	- Werkzeugsammlungen: **[FutureTools](https://www.futuretools.io)** | [Awesome AI Tools](https://tools.awesomechatgpt.com) #1 | [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) #2 | Altern [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) #3 | [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) #1 | [Awesome Generative AI](https://github.com/filipecalegario/awesome-generative-ai) #2 | [Awesome AGI](https://github.com/EmbraceAGI/Awesome-AGI) | [Awesome GPT](https://github.com/formulahendry/awesome-gpt) | [Awesome GPT-4](https://gpt4.tools) | [Awesome Bots](https://github.com/DopplerHQ/awesome-bots)
+siehe Schwesterseite [awesome-6GL » Generative KI](https://github.com/cyberlytics/awesome-6GL#generative-ki)
 
 ## LaTeX & PDF
 
@@ -647,18 +558,7 @@ Die Verwendung von generativer KI zur Text-Erstellung Ihrer Abschlussarbeit ist 
 	- **[Free Fonts](https://speckyboy.com/best-free-fonts/)**: Kostenlose Schriftarten
 	- Kunst, Kultur, Geschichte: **[Prometheus-Bildarchiv](https://www.prometheus-bildarchiv.de/)**
 - AI-rendered Illustrations/Art:
-	- Prompt Galleries (Prompts und deren AI-generierten Bilder): **[PromptHero](https://prompthero.com/)**, **[Playground AI](https://playgroundai.com/)**
-	- Unterstützung bei der Prompt Generation: **[NightCafe](https://nightcafe.studio/)**, **[promptoMANIA](https://promptomania.com/prompt-builder/)**
-	- Von Unternehmen mit Marktführerschaften: [**Adobe** Firefly](https://firefly.adobe.com/), [**Microsoft** Designer](https://designer.microsoft.com/), ([**Google** Imagen](https://imagen.research.google/) in Vorbereitung)
-	- (vgl. auch die Lernmaterialien zu [Prompt Engineering](https://github.com/cyberlytics/awesome-basics#ai))
-	- Open Source: **[OpenArt](https://openart.ai/create)** ⭐ ([github](https://github.com/OpenArt-AI)), **[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion)** als free cloud UI via Huggingface Space (eigentliches [KI-Modell](https://github.com/CompVis/stable-diffusion) auf GitHub) by [stability.ai](https://stability.ai/) + [runway](https://runwayml.com/) sowie darauf basierend **[Lexica](https://lexica.art/)**
-		- Kommandozeilenwerkzeug: **[imaginAIry](https://github.com/brycedrennan/imaginAIry)**
-	- Closed Source: **[craiyon](https://www.craiyon.com/)** (früher: „DALL·E mini“), per Warteliste: [OpenAI DALL·E 2](https://labs.openai.com/waitlist)
-		- (€:) **[Midjourney](https://www.midjourney.com/)** ([Anleitung](https://docs.midjourney.com/docs/midjourney-discord); benötigt [Discord](https://discord.com/download); [Pricing](https://docs.midjourney.com/docs/plans))
-	- Other: **[artbreeder](https://www.artbreeder.com/)** (formerly known as GANbreeder), **[Lensa](https://play.google.com/store/apps/details?id=com.lensa.app)** (u.a. für AI-Avatare)
-	- Stark limitierte kostenlose Angebote: [stockimg.ai](https://stockimg.ai/), [runway](https://runwayml.com/)
-	- Disclaimer: [Rule 34](https://en.wikipedia.org/wiki/Rule_34) zzgl. Kürzelkunde [NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work)
-	- Weiterführende Quellen: [TopAi.tools](https://topai.tools/) | [Prompt-Werkzeug-Liste auf reddit](https://www.reddit.com/r/StableDiffusion/comments/xcrm4d/useful_prompt_engineering_tools_and_resources/)
+	- siehe Schwesterseite [awesome-6GL » Bildmaterialien](https://github.com/cyberlytics/awesome-6GL#bildmaterialien)
 
 ## Mathe
 
