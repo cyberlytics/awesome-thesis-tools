@@ -13,7 +13,7 @@
 [![Support on Ko‑fi](https://img.shields.io/badge/Donate-ko--fi-%23FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/cyberlytics)
 [![Buy Me A Coffee!](https://img.shields.io/badge/Donate-buymeacoffee-%23FFDD00?logo=buymeacoffee)](https://www.buymeacoffee.com/cyberpetaneuron)
 
-Dies ist eine Tool-Sammlung. Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Digitaler Ressourcen-Pool](https://github.com/cyberlytics/awesome-basics), [Werkzeuge » Software-Engineering](https://github.com/cyberlytics/awesome-software-engineering-tools), [Werkzeuge » BDCC/AI](https://github.com/cyberlytics/awesome-bdccai-tools) und [Agentic Engineering](https://github.com/cyberlytics/awesome-6GL).
+Dies ist eine Tool-Sammlung. Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Digitaler Ressourcen-Pool](https://github.com/cyberlytics/awesome-basics), [Werkzeuge » Software-Engineering](https://github.com/cyberlytics/awesome-software-engineering-tools), [Werkzeuge » Big Data und Cloud Computing für AI](https://github.com/cyberlytics/awesome-bdccai-tools) und [Agentic Engineering](https://github.com/cyberlytics/awesome-6GL).
 
 Hinweise:
 
