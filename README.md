@@ -581,7 +581,7 @@ siehe Schwesterseite [awesome-6GL » Generative KI](https://github.com/cyberlyti
 	- LaTeX: **[CV-Templates](https://de.overleaf.com/latex/templates/tagged/cv)** (mein eigenes Paket: [ECV](https://ctan.org/pkg/ecv))
 	- Web: [Free **Responsive HTML5 Website Template**](https://www.google.de/search?q=Free+Responsive+HTML5+Website+Template)
 	- Entwickler-CV: **[JSON resume](https://jsonresume.org/)**
-	- Cloud Resume Builder: bspw. [CakeResum](https://www.cakeresume.com/), [zety](https://zety.com/), [Resume Genius](https://resumegenius.com/), uvm.
+	- Cloud Resume Builder: bspw. [CakeResum](https://www.cakeresume.com/), [zety](https://zety.com/), [Resume Genius](https://resumegenius.com/), [ResumeAI](https://withresumeai.com/) (AI + free ATS checker; State of ATS 2026), uvm.
 - KI-gestütztes Bewerbungsbild: [AI Portrait](https://www.aiportrait.me/)
 
 ## Kostenlose Alternativen
