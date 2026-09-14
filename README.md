@@ -13,7 +13,7 @@
 [![Support on Ko‑fi](https://img.shields.io/badge/Donate-ko--fi-%23FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/cyberlytics)
 [![Buy Me A Coffee!](https://img.shields.io/badge/Donate-buymeacoffee-%23FFDD00?logo=buymeacoffee)](https://www.buymeacoffee.com/cyberpetaneuron)
 
-Dies ist eine Tool-Sammlung. Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Digitaler Ressourcen-Pool](https://github.com/cyberlytics/awesome-basics), [Werkzeuge » Software-Engineering](https://github.com/cyberlytics/awesome-software-engineering-tools), [Werkzeuge » Big Data und Cloud Computing für AI](https://github.com/cyberlytics/awesome-bdccai-tools) und [Agentic Engineering](https://github.com/cyberlytics/awesome-6GL).
+Dies ist ein digitaler Ressourcen-Pool für Abschlussarbeiten in der Informatik/KI (kostenlose Lernmaterialien) sowie eine Tool-Sammlung. Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Digitaler Ressourcen-Pool Informatik/KI](https://github.com/cyberlytics/awesome-basics), [Werkzeuge » Software-Engineering](https://github.com/cyberlytics/awesome-software-engineering-tools), [Werkzeuge » Big Data und Cloud Computing für AI](https://github.com/cyberlytics/awesome-bdccai-tools) und [Agentic Engineering](https://github.com/cyberlytics/awesome-6GL).
 
 Hinweise:
 
@@ -27,6 +27,7 @@ Hinweise:
 
 <!-- toc -->
 
+- [Grundwissen Abschlussarbeit (Informatik/KI)](#grundwissen-abschlussarbeit-informatikki)
 - [Literaturrecherche & Wissensaufbau](#literaturrecherche--wissensaufbau)
 - [Portable Apps](#portable-apps)
 - [Generative KI](#generative-ki)
@@ -52,6 +53,141 @@ Hinweise:
 - [Footer](#footer)
 
 <!-- tocstop -->
+
+## Grundwissen Abschlussarbeit (Informatik/KI)
+
+\[ Zum Ausgleich **heterogener Vorkenntnisse aus den Bachelorseminaren** bzw. Forschungsseminaren: \]
+
+### Handwerkszeug: Schreiben
+
+- Bewertungskriterien:
+	- [**Neumannscher Kriterienkatalog** für wissenschaftliche Abschlussarbeiten](http://www.cyberlytics.eu/theses/criteria/)
+	- [**ACM** Kriterienkatalog für wissenschaftliche Arbeiten](https://dl.acm.org/journal/dgov/reviewer-guidelines#:~:text=Decision%20criteria)
+	- [**IEEE** Kriterienkatalog für wissenschaftliche Arbeiten](https://ieeeaccess.ieee.org/about-ieee-access/announcements/reviewerbestpractices_ieeeaccess/#Whatmakesagoodqualityreview)
+- Studentische Vorab-Vorbereitungen:
+	- (s. oben: Lernen Sie **10-Finger-schreiben**)
+	- Meine [**Erste-Hilfe**-Hinweise](https://www.oth-aw.de/neumann/thesis-prep/#erste-hilfe) für Abschlussarbeiten
+- Scribbr-Einführungen zu **[Bachelorarbeiten](https://www.scribbr.de/category/anfang-abschlussarbeit/)**, **[Masterarbeiten](https://www.scribbr.de/category/masterarbeit/)**, **[Dissertationen](https://www.scribbr.de/category/dissertation-doktorarbeit/)**
+- Exposé/Anbahnung:
+	- Einführung: [**Exposé** gliedern](https://www.scribbr.de/aufbau-und-gliederung/expose-bachelorarbeit/)
+	- Archivieren: **[Journal of Brief Ideas](https://beta.briefideas.org/)** (inkl. DOI per Zenodo)
+- Knigge: Die Abschlussarbeit ist meist der erste Kontakt zur korrekten Verwendung von akademischen Graden
+	- Kurzübersicht des Lektorats Unger: [Akademische Grade: Abkürzungen und Verwendung in Anschrift und Anrede](https://www.unker.com/de/akademische-titel)
+	- Umfassender Leitfaden: [Ratgeber für Anschriften und Anreden](https://www.protokoll-inland.de/SharedDocs/downloads/Webs/PI/DE/Allgemeines/Anschriften.html) von dem Bundesministerium des Innern
+	- Hinweis: Diplom, Bachelor und Master sind keine akademischen Titel, nur akademische Grade.
+		- Empfehlung: Diplom, Bachelor und Master gehören eher nicht auf Visitenkarten oder in E-Mail-Signaturen (bzw. Anschrift oder schriftliche Anrede), selbst wenn Sie es de jure schreiben könnten; es gilt in Akademikerkreisen als lächerlich.
+- Bücher als Einstieg in wissenschaftliche Abschlussarbeiten:
+	- Kostenlos: Buch [**Wissenschaftliches Arbeiten** - Methodenwissen für Wirtschafts-, Ingenieur- und Sozialwissenschaftler](https://link.springer.com/book/10.1007/978-3-662-62548-4) (2021) von Bernd Heesen
+	- €: Buch [**Studienarbeiten**: Ein Leitfaden … **am Beispiel Informatik**](https://www.amazon.de/dp/3728138118/) (2017) von Marcus Deiniger et al. ⭐
+- Wissenschaftliches Handwerkszeug:
+	- **[How to read a paper](https://web.stanford.edu/class/cs245/readings/how-to-read-a-paper.pdf)** ⭐
+	- [Berkeley **Understanding Science**](http://www.understandingscience.org/)
+	- Literaturrecherche: [Methoden](https://maelphes.github.io/syslitcom/methods.html)
+		- Systematische Literaturrecherche: [A compendium for systematic literature searching](https://maelphes.github.io/syslitcom/), [Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA)](https://www.prisma-statement.org), [TARCIS statement](https://www.bmj.com/content/385/bmj-2023-078384)
+	- Lesetechniken: **[PQ4R](https://www.google.com/search?q=PQ4R)** (Preview, Questions, Read, Reflect, Recite, Review), bzw. deren Vorgänger **[SQ3R](https://www.teachsam.de/arb/arb_les_strat_2.htm)** (Survey, Question, Read, Recite und Review)
+	- Schnelllesen: (€) Buch **[Speed Reading](https://www.amazon.de/dp/3868828710/)** (2017 | [Orig: 2006](https://books.google.de/books?id=HpvjGZ_Ff60C)) von Tony Buzan
+		- Verwandte Konzepte:
+			- [RSVP](https://elvers.us/perception/rsvp/) (= Rapid Serial Visual Presentation) von [Prof. Marry Potter](https://web.archive.org/web/20201117020411/https://bcs.mit.edu/users/mpottermitedu))
+			- [Spritz](https://www.technology.org/2014/03/19/spritz-speed-reading-apps-prose-cons/) = RSVP + ORP (= Optimal Recognition Point) ([TED-Video](https://www.youtube.com/watch?v=j7q7s-bjIVg))
+		- Training-App: [Reading Trainer](https://readingtrainer.com/)
+	- Wiss. Schreiben: **[IMRaD](https://en.wikipedia.org/wiki/IMRAD)** | [Elsevier **Einführung in wiss. Schreiben**](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously) ⭐
+		- Cheat Sheets: [Structure of a Research Paper: IMRaD Format](https://libguides.umn.edu/StructureResearchPaper), [IMRaD Cheat Sheet](https://www.cmu.edu/student-success/other-resources/handouts/comm-supp-pdfs/imrd-examples.pdf)
+		- Wiss. Publikation: [WASP (Write a Scientific Paper): Structuring a scientific paper](https://www.sciencedirect.com/science/article/pii/S0378378218305929)
+	- Wiss. Methoden: [Awesome **PhD**](https://github.com/macoj/phd) | [A three cycle view of **design science research**](https://community.mis.temple.edu/seminars/files/2009/10/Hevner-SJIS.pdf) (2007) von Alan R. Hevner (Zur DSR auch: [Wikipedia](https://en.wikipedia.org/wiki/Design_science_(methodology)))
+	- Citation Metrics: **[Impact Factor](https://en.wikipedia.org/wiki/Impact_factor)** | [Autorenmetriken (**h-Index, g-Index**, …)](http://www.harzing.com/pophelp/metrics.htm) | Paper [ISI Web of Science versus Google Scholar](http://www.int-res.com/articles/esep2008/8/e008p061.pdf)
+	- Englisch (verwende en_US für Informatik)
+		- (€:) Buch **[English for Writing Research Papers](https://www.amazon.de/dp/B008I37B80/)** (2011) von Adrian Wallwork
+		- Kindergartenfehler: [Saxon Genitive](https://www.wallstreetenglish.com/exercises/english-possessives-the-saxon-genitive)
+		- Englische Titel: per [Chicago Manual of Style (**CMOS**)](https://en.wikipedia.org/wiki/Title_case) die Regeln für Groß-/Kleinschreibung in engl. Titeln ⚠️
+			- Werkzeug: **[Capitalize My Title](https://capitalizemytitle.com/style/Chicago/)** ⭐
+	- Anführungszeichen: [Wikipedia](https://de.wikipedia.org/wiki/Anf%C3%BChrungszeichen) sowie Webartikel von [onlineprinters](https://www.onlineprinters.de/magazin/anfuehrungszeichen/)
+		- {DE: 99/66 + unten/oben} vs. {en-US: 66/99 oben/oben} vs. {en-UK: 6/9 oben/oben}
+	- Zitier-Stiele: bspw. [IEEE **Citation Guidelines**](https://ieee-dataport.org/sites/default/files/analysis/27/IEEE%20Citation%20Guidelines.pdf), [**APA** Basic Principles of Citation](https://apastyle.apa.org/style-grammar-guidelines/citations/basic-principles)
+	- Weiterführende Quellen: **[Awesome PhD](https://github.com/macoj/phd)**
+- Korrekturzeichen: **[DIN 16 511](http://www.cleverprinting.de/images/korrekturzeichen_1.png)**
+- Geschlechtersensible Formulierungen: OTH **[Fair formuliert](https://www.oth-aw.de/files/oth-aw/Services/Schreibwerkstatt/Leitfaden_Fair_Formuliert.pdf)** | **[geschickt gendern](https://geschicktgendern.de/)** ⭐
+	- Weitere nennenswerte Konzepte: [Phettberg-Methode](https://www.bpb.de/shop/zeitschriften/apuz/geschlechtergerechte-sprache-2022/346085/entgendern-nach-phettberg/)
+- Inklusive Formulierungen: ACM [Alternatives List for Charged Terminology in the Computing Profession](https://www.acm.org/diversity-inclusion/words-matter)
+- Kodex: [Leitlinien zur Sicherung **guter wissenschaftlicher Praxis**](https://www.dfg.de/download/pdf/foerderung/rechtliche_rahmenbedingungen/gute_wissenschaftliche_praxis/kodex_gwp.pdf) der DFG
+	- [IEEE Publishing Ethics](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/submission-and-peer-review-policies/)
+- Authorship Criteria: **[KU Leuven](https://research.kuleuven.be/en/integrity-ethics/integrity/practices/publication-and-authorship/authorship#section-1)**, [ACM](https://www.acm.org/publications/policies/new-acm-policy-on-authorship), [IEEE](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/ethical-requirements/#authorship), [Nature](https://www.nature.com/nature-portfolio/editorial-policies/authorship)
+	- Contributor Role Taxonomy: [CRediT](https://credit.niso.org/)
+- Generative KI in wissenschaftlichen Publikationen? vgl. **[ACM Policy on Authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship)**!
+	- Für die Abschlussarbeit dürfen Sie keine generative KI verwenden, weil diese notengebend ist. Ich verbiete Ihnen das. Meine Policy.
+	- Während der Arbeit dürfen Sie für die Erstellung einer ernsthaften Publikation trotzdem generative KI einsetzen, unter Beachtung der notwendigen Sorgfalt und den Policies von ACM, IEEE und Springer zum Einsatz generativer KIs.
+	- Nach Abgabe Ihrer Abschlussarbeit dürfen Sie generative KI einsetzen, um sich die Abschlussarbeit zusammenzufassen zu lassen und so einen Erstentwurf für einen OTH-Forschungsbericht (ca. 2500 Wörter) oder einen Technischen Report (ca. 3000 bis 4500 Wörter) zu generieren, falls diese Beiträge nicht vorher schon erstellt wurden.
+- Lerntheorie: Sechsstufige **[Bloomsche Taxonomie der Lernziele](https://www.bloomstaxonomy.net/)** im kognitiven Bereich
+- DISCLAIMER: **[typst](https://typst.app/) vs. LaTeX**? Mit typst gibt es eine moderne, überlegene Typesetting-Variante zu latex, die aber technisch völlig eigenständig ist. (siehe [Werkzeuge-Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#latex--pdf))
+	- "This being said …" jetzt zurück zum wohlbekannten LaTeX:
+	- LaTeX-Skills: **[A simple guide to LaTeX – Step by Step](https://latex-tutorial.com/tutorials/)** | **[Wikibooks: LaTeX](https://en.wikibooks.org/wiki/LaTeX)** | Overleaf **[Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)** | **[LearnLaTeX](https://www.learnlatex.org/)**
+	- LaTeX-Software: siehe [Werkzeuge-Schwesterseite](https://github.com/cyberlytics/awesome-thesis-tools#latex--pdf) ⭐ (LaTeX-Editor, PDF-Viewer, Literaturverwaltung, …)
+	- Korrekte Anführungszeichen ⚠️: lese **[Quotation Marks](https://latex.silmaril.ie/formattinginformation/quotes.html)** von Peter Flynn oder **[Formatting](https://www.andy-roberts.net/latex/formatting/)** von Andrew Roberts bzw. verwende **[csquotes](https://tex.stackexchange.com/tags/csquotes/info)** mit **\\enquote{..}** ⭐
+	- Wichtige Einordnung: [The **TeX family tree**: LaTeX, **pdfTeX**, **XeTeX**, LuaTeX and ConTeXt](https://de.overleaf.com/learn/latex/Articles/The_TeX_family_tree%3A_LaTeX%2C_pdfTeX%2C_XeTeX%2C_LuaTeX_and_ConTeXt) ⭐
+	- (Video-Kurs:) freeCodeCamp **[LaTeX – Full Tutorial for Beginners](https://www.youtube.com/watch?v=ydOTMQC7np0)** (2023) von Michelle Krummel
+	- OTH-intern: Moodle-Kurs **[LaTeX fürs Studium](https://moodle.oth-aw.de/course/view.php?id=18)** (Selbsteinschreibeschlüssel: "latex")
+	- KOMA-Script: **[scrguide](https://komascript.de/~mkohm/scrguide.pdf)**
+	- Common Anti-Patterns: enthalten in [An **essential guide** to LATEX2e usage](http://mirrors.ctan.org/info/l2tabu/english/l2tabuen.pdf) ⭐
+	- LaTeX-Humor: [Twelve LaTeX packages to get your paper accepted](https://andreas-zeller.info/2017/01/13/twelve-latex-packages-to-get-your-paper.html) von Andreas Zeller et al.
+- BibTeX: **[bibtex vs. biber and biblatex vs. natbib](https://tex.stackexchange.com/questions/25701/bibtex-vs-biber-and-biblatex-vs-natbib)** ⭐ | **[bibtex.org](http://www.bibtex.org/)**
+	- **[Tame the BeaST](http://tug.ctan.org/info/bibtex/tamethebeast/ttb_en.pdf)**
+	- Common Anti-Patterns: **[How to not mess up your bibliographies with Bibtex](https://clauswilke.com/blog/2015/10/02/bibtex/)** (2015) von Claus Wilke ⭐
+- Word:
+	- Word für Abschlussarbeiten: [**Kapitel 6** aus dem Buch **Wissenschaftliches Arbeiten**](https://link.springer.com/chapter/10.1007/978-3-662-62548-4_6) von Bernd Heesen
+	- Word für Fortgeschrittene: [LearnFree.org **Word Tips**](https://edu.gcfglobal.org/en/word-tips/) | [Microsoft **Word for Windows training**](https://support.microsoft.com/en-us/office/word-for-windows-training-7bcd85e6-2c3d-4c3c-a2a5-5ed8847eae73)
+- Open Science
+	- Zitierbare Software? **[Zenodo](https://about.zenodo.org/)** oder [citation.**cff**-Dateien](https://citation-file-format.GitHub.io/)
+- Paper Submission?
+	- Conference (Int'l Peer-rev'd): [International Conference on **Cloud Computing**, GRIDs, and Virtualization](https://www.iaria.org/conferences/CLOUDCOMPUTING.html)
+		- Eine Research Community auch für studentische Publikationen; explizit Beginner-friendly & Industry-friendly
+		- Es gibt ein LaTeX-Vorlage von mir: **[iaria.cls](https://ctan.org/pkg/iaria)** (vollständige IARIA [formating](https://www.overleaf.com/latex/templates/iaria/hxyjztwvpjkf) rules, allerdings nur pdflatex+biber, dafür inkl. IARIA citation style) und **[iaria-lite.cls](https://ctan.org/pkg/iaria-lite)** (mit den meisten der IARIA formatting rules, dafür beliebiges tex-Tooling, aber beim citation formatting nur mit IEEE-style und ohne IARIA-style) sowie ein Overleaf-Template als [Minimal Working Example (MWE)](https://www.overleaf.com/project/6603e95f2a0ded628482ed78)
+	- Journal (Int'l Peer-rev'd): [IEEE Access](https://ieeeaccess.ieee.org/) ([Beispiel](https://ieeexplore.ieee.org/document/10648683/)), [IntechOpen](https://www.intechopen.com/journals) ([Beispiel](https://www.intechopen.com/chapters/1195342))
+	- MINT-Hochschuldidaktik (DE Peer-rev'd): [MINT-Symposium](https://mint-symposium.de/) ([Beispiel](https://doi.org/10.57825/repo_in-6449))
+
+### Handwerkszeug: Getting Sh\*t Done
+
+- (s.oben: Werkzeug-**Basiswissen**: [**MIT**'s The **Missing Semester** of Your CS Education](https://missing.csail.mit.edu/))
+- Betriebssystemadministration und Shell-Scripting
+	- Windows: **[Windows Systemadministration](https://docs.microsoft.com/de-de/learn/paths/windows-server-deployment-configuration-administration/)** | [**PowerShell** Einführung](https://docs.microsoft.com/de-de/learn/modules/introduction-to-powershell/1-introduction) | [Windows Services Manager (**services.msc**)](https://www.thewindowsclub.com/open-windows-services)
+		- Windows Subsystem for Linux (WSL): [Ubuntu](https://ubuntu.com/wsl) | [Distribution Overwiew](https://github.com/sirredbeard/Awesome-WSL#supported-distributions) | [Awesome WSL](https://github.com/sirredbeard/Awesome-WSL)
+		- PowerShell:
+			- Terminologie: Legacy powershell.exe = bis PowerShell 5.1 | Modern **pwsh**.exe = ab PowerShell 6
+			- PowerShell [Quotation Rules](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_quoting_rules), [About Parsing](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_parsing), [Special Characters](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_special_characters), [pwsh-Command is removing quotation marks](https://stackoverflow.com/questions/59036580/pwsh-command-is-removing-quotation-marks)
+	- Linux: **[Linux Systemadministration](https://www.freecodecamp.org/news/linux-server-course-system-configuration-and-operation/)** | [Linux **Command-Line**](https://www.freecodecamp.org/news/command-line-for-beginners/)
+		- [zsh](https://grml.org/zsh/) | [powerlevel10k](https://github.com/romkatv/powerlevel10k)
+		- [Getting Started with PowerShell in Linux](https://www.tecmint.com/install-powershell-in-linux/)
+		- Webartikel [How I setup my terminal for max productivity](https://read.highgrowthengineer.com/p/how-i-setup-my-terminal-for-max-productivity)
+- **SSH**: [Linux](https://zah.uni-heidelberg.de/it-guide/ssh-tutorial-linux) | [Windows](https://www.makeuseof.com/tag/4-easy-ways-to-use-ssh-in-windows/) ⚠️
+	- [How to Set up SSH Tunneling (Port Forwarding)](https://linuxize.com/post/how-to-setup-ssh-tunneling/)
+- Virtualisierung: [IBM **What is virtualization?**](https://www.ibm.com/cloud/learn/virtualization-a-complete-guide) | [IBM **What are hypervisors?**](https://www.ibm.com/cloud/learn/hypervisors)
+	- VirtualBox: [Download](https://www.virtualbox.org/wiki/Downloads) [**First Steps**](https://www.virtualbox.org/manual/ch01.html)
+	- Image-Formate: [OVF](https://en.wikipedia.org/wiki/Open_Virtualization_Format) (bspw. via VirtualBox „Import…“) sowie [VDI, VMDK, VHD, HDD](https://docs.oracle.com/en/virtualization/virtualbox/6.0/user/vdidetails.html)
+	- Ready-to-Use Image Repos:
+		- Windows: [legal **free current Windows** virtual machine images](https://developer.microsoft.com/de-de/windows/downloads/virtual-machines/) | [alte Abandonware-Versionen von Windows](http://virtualdiskimages.weebly.com/) ([FAQ](http://virtualdiskimages.weebly.com/faq.html))
+		- Linux: **[OSBoxes](https://www.osboxes.org/)** ([FAQ](https://www.osboxes.org/faqs/)) | **[Linux VM Images](https://www.linuxvmimages.com/)** ([HowTo](https://www.linuxvmimages.com/how-to-use/), [Passwords](https://www.linuxvmimages.com/how-to-use/vm-image-password/))
+- **Docker**: [**Docker Labs** Tutorials and Free Resources](https://dockerlabs.collabnix.com/) | **[Getting Started with Docker](https://serversforhackers.com/c/getting-started-with-docker)** ⚠️
+	- Windows: [Docker Desktop **WSL 2** backend](https://docs.docker.com/desktop/windows/wsl/)
+	- Schlanker und Sicherer: **[Building Docker Images The Proper Way](https://martinheinz.dev/blog/42)** ⚠️
+	- Minibuch Docker (aus einer Java-Perspektive): [Docker Containerization Cookbook](https://www.javacodegeeks.com/minibook/docker-containerization-cookbook) von Java Code Geeks
+- **git**: [git - **the simple guide**](https://rogerdudler.GitHub.io/git-guide/) ⚠️
+	- Alternative Tutorials: **[About Git](https://docs.github.com/en/get-started/using-git/about-git)** | **[Learn Git](https://www.codecademy.com/learn/learn-git)** | **[Git it](https://github.com/jlord/git-it-electron)** | **[Oh My Git!](https://ohmygit.org/)** | **[Git Immersion](https://gitimmersion.com/)** | **[Learn Git Branching](https://learngitbranching.js.org/?locale=de_DE)** | [**Atlassian** Git Tutorial](https://www.atlassian.com/git/tutorials/what-is-git)
+	- Vortragsvideo **[Version Control (git)](https://missing.csail.mit.edu/2020/version-control/)** am MIT aus der bereits erwähnten Reihe [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+	- Kostenlose Bücher: **[Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)** | **[Pro Git](https://git-scm.com/book/en/v2)**
+	- (Anm.: Default-Branch „master“ wurde mittlerweile zu „main“!)
+	- Cheatsheet: bspw. **[Git Tricks](https://devhints.io/git-tricks)**
+	- Branching-Modell: bspw. **[gitflow](https://nvie.com/posts/a-successful-git-branching-model/)** oder **[Trunk-Based-Development](https://trunkbaseddevelopment.com/)**
+	- Best Practices: Webartikel [**Best practices** for using Git](https://deepsource.com/blog/git-best-practices/)
+	- Nennenswert: [Get up to speed with **partial clone** and shallow clone](https://GitHub.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/) (git clone --filter=blob:none «url»)
+	- Namensgenerator: **[namelix](https://namelix.com/)** (für Bachel-/Master-/PhD-Projekte, OSS-Projekte, etc.)
+- Markdown: [Basic Syntax](https://www.markdownguide.org/basic-syntax/) | CommonMark [Learn Markdown in 60 Seconds](https://commonmark.org/help/)
+	- History: [Wikipedia](https://en.wikipedia.org/wiki/Markdown#History)
+	- Standardisierung: [CommonMark](https://commonmark.org/) ([Spec](https://spec.commonmark.org/current/)) | in CommonMark leider fehlend? u.a. Tabellen und Fußnoten
+	- GitHub-Flavored Markdown (GFM): freeCodeCamp [Learn GFM Syntax and Formatting](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/), u.a. [emoji](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/#heading-using-emoji), [Alerts](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/#heading-alerts) und [Collapsed Section](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/#heading-creating-a-collapsed-section)
+	- Weiterführend: [Awesome Markdown](https://github.com/mundimark/awesome-markdown)
+- **Testing**: siehe unten ⚠️
+- **Debugging**: Vortragsvideo [**Debugging** and Profiling](https://missing.csail.mit.edu/2020/debugging-profiling/) am MIT aus der bereits erwähnten Reihe [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- Backups: Vortragsvideo **[Backups](https://missing.csail.mit.edu/2019/backups/)** am MIT aus der bereits erwähnten Reihe [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- (Und natürlich meine **[Tools](https://github.com/cyberlytics/awesome-thesis-tools#presentations)**-Seite)
+
 
 ## Literaturrecherche & Wissensaufbau
 
@@ -117,7 +253,7 @@ Disclaimer: Einsatz kann in Unternehmen verboten sein, selbst wenn diese rein te
 
 ## Generative KI
 
-siehe Schwesterseite [awesome-6GL » Generative KI](https://github.com/cyberlytics/awesome-6GL#generative-ki)
+siehe Schwesterseite [awesome-6GL » Generative KI-Werkzeuge](https://github.com/cyberlytics/awesome-6GL#generative-ki-werkzeuge)
 
 ## LaTeX & PDF
 
@@ -558,7 +694,7 @@ siehe Schwesterseite [awesome-6GL » Generative KI](https://github.com/cyberlyti
 	- **[Free Fonts](https://speckyboy.com/best-free-fonts/)**: Kostenlose Schriftarten
 	- Kunst, Kultur, Geschichte: **[Prometheus-Bildarchiv](https://www.prometheus-bildarchiv.de/)**
 - AI-rendered Illustrations/Art:
-	- siehe Schwesterseite [awesome-6GL » Bildmaterialien](https://github.com/cyberlytics/awesome-6GL#bildmaterialien)
+	- siehe Schwesterseite [awesome-6GL » Bildmaterialien Werkzeuge](https://github.com/cyberlytics/awesome-6GL#bildmaterialien-werkzeuge)
 
 ## Mathe
 
