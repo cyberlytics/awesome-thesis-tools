@@ -936,9 +936,11 @@ siehe Schwesterseite [awesome-6GL » Generative KI-Werkzeuge](https://github.com
 	- Nennenswerte AI-Erweiterung: **[Copy Cat](https://learn.foundry.com/nuke/content/reference_guide/air_nodes/copycat.html)**
 	- €€€-Konkurrent: Blackmagic Design **[Fusion](https://www.blackmagicdesign.com/products/fusion)**
 	- FOSS/Desktop: **[Blender VFX](https://www.blender.org/features/vfx/)**
-- Steinberg **Cubase** / Emagic|Apple **Logic** /	Ableton **Live** / Presonus **Studio One** / Image-Line **FL Studio** / Digital Audio Workstation (DAW)
-	- FOSS: **[Ardour](https://ardour.org/)**
+- Steinberg **Cubase** / Emagic|Apple **Logic** / Ableton **Live** / AVID **Pro Tools** / Digital Audio Workstation (DAW)
+	- Kostenlose Editionen: AVID **[Pro Tools Intro](https://www.avid.com/pro-tools/intro)**
 		- Weitere kostenlose Varianten: Cockos **[Reaper](https://www.reaper.fm/)** (60d kostenlos, dann Nag-Screen), [Garageband](https://www.apple.com/mac/garageband/) (nur macOS)
+	- FOSS: **[Ardour](https://ardour.org/)** ⭐
+	- Nennenswerte weitere kommerzielle DAWs: Image-Line **FL Studio**, BandLab **Cakewalk Sonar**
 	- Nennenswerte Plugins:
 		- (€) Antares [Auto-Tune](https://www.antarestech.com/products/auto-tune/), z.B. kostengünstige Einsteigerversion [Access](https://www.antarestech.com/products/auto-tune/access) ([Video](https://www.youtube.com/watch?v=3kfsVaeSvHw))
 
