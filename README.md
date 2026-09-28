@@ -743,7 +743,7 @@ siehe Schwesterseite [awesome-6GL » Generative KI-Werkzeuge](https://github.com
 		- PDF-Conversion to PowerPoint: only Acrobat itself, other Desktop/CLI approaches are garbage, but there are free Online alternatives below
 	- Web:
 		- PDF-Editor: [Sejda](https://www.sejda.com/pdf-editor), [iLovePDF Editor](https://www.ilovepdf.com/edit-pdf) or [PDFescape](https://www.pdfescape.com/)
-		- Toolbox: [iLovePDF](https://www.ilovepdf.com/), [PDF24 Tools](https://tools.pdf24.org/), [Smallpdf](https://smallpdf.com/pdf-tools), [gottrix.app](https://gottrix.app) (500+ Tools, läuft komplett im Browser, keine Uploads), or [pdfforge Online](https://www.pdfforge.org/online/)
+		- Toolbox: [iLovePDF](https://www.ilovepdf.com/), [PDF24 Tools](https://tools.pdf24.org/), [Smallpdf](https://smallpdf.com/pdf-tools), or [pdfforge Online](https://www.pdfforge.org/online/)
 		- PDF-Compressor: neuxpower [wecompress](https://www.wecompress.com/) (max. 50MB), [iLovePDF Compress](https://www.ilovepdf.com/compress_pdf)
 		- PDF-Conversion to PowerPoint: Adobe Online Tool **[Acrobat PDF to PPT](https://www.adobe.com/acrobat/online/pdf-to-ppt.html)** ⭐ (use in private tab for reset), (I have not tried, yet: [iLovePDF pdf-to-powerpoint](https://www.ilovepdf.com/pdf_to_powerpoint), [Smallpdf pdf-to-ppt](https://smallpdf.com/pdf-to-ppt) or [PDF24 pdf-to-powerpoint](https://tools.pdf24.org/pdf-to-powerpoint))
 - Prepress Tooling: Adobe **[Preflight](https://helpx.adobe.com/acrobat/using/analyzing-documents-preflight-tool-acrobat.html)**, Callas **[pdfToolbox](https://www.callassoftware.com/en/products/pdftoolbox/pdftoolboxdesktop)**/[pdfaPilot](https://www.callassoftware.com/en/products/pdfapilot/pdfapilotdesktop) and Enfocus **[PitStop](https://www.enfocus.com/pitstop-pro)**
@@ -1020,6 +1020,8 @@ Contributions are most welcome, please adhere to the contribution guidelines and
 - New categories or improvements to the existing categorization are welcome.
 
 Thank you for your suggestions!
+
+BEWARE: Only contribute best-in-class software! Do NOT contribute fresh projects for promotion! (e.g., vibe coded ones) 
 
 ### Backers
 
