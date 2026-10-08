@@ -1000,6 +1000,12 @@ siehe Schwesterseite [awesome-6GL » Generative KI-Werkzeuge](https://github.com
 - [discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev)
 - [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 
+## Schwesterseiten
+
+Es gibt von mir weitere Schwesterseiten im Kontext Informatik/KI: [Digitaler Ressourcen-Pool Informatik/KI](https://github.com/cyberlytics/awesome-basics), [Werkzeuge » Software-Engineering](https://github.com/cyberlytics/awesome-software-engineering-tools), [Werkzeuge » Big Data und Cloud Computing für AI](https://github.com/cyberlytics/awesome-bdccai-tools) und [Agentic Engineering](https://github.com/cyberlytics/awesome-6GL).
+
+Außerdem: [Schulische Vorbildung Informatik/KI](https://github.com/cyberlytics/awesome-cs-kids).
+
 ## Footer
 
 ### Future Work
