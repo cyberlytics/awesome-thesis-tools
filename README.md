@@ -725,7 +725,7 @@ siehe Schwesterseite [awesome-6GL » Generative KI-Werkzeuge](https://github.com
 - Adobe **Photoshop**
 	- Desktop: **[Krita](https://krita.org/)** \[**choco install krita**\] + **[RawTherapee](https://www.rawtherapee.com/)** for RAW files \[**choco install rawtherapee**\]
 	- Cloud: **[Pixlr](https://pixlr.com/de/)**
-	- AI-gestützte Teilaspekte: [clipdrop.co](https://clipdrop.co/), [iLoveIMG](https://www.iloveimg.com/)
+	- AI-gestützte Teilaspekte: [clipdrop.co](https://clipdrop.co/), [iLoveIMG](https://www.iloveimg.com/), **[AirCraft](https://getartcraft.com/)** ([github](https://github.com/storytold/artcraft))
 	- Kollaboratives Malen: **[Aggie.io](https://aggie.io/)**
 - Adobe **Illustrator** (und Adobe Fresco)
 	- Desktop: **[FireAlpaca](https://firealpaca.com/)** \[**choco install firealpaca**\] | **[Inkscape](https://inkscape.org/)** \[**choco install inkscape**\]
@@ -786,6 +786,7 @@ siehe Schwesterseite [awesome-6GL » Generative KI-Werkzeuge](https://github.com
 	- Cloud: **[Figma](https://www.figma.com/)**, [mydraft](https://mydraft.cc/), [Moqups](https://moqups.com/), [Framer](https://www.framer.com/), [NinjaMock](https://ninjamock.com/), uvm.
 - Adobe **Premiere** / Apple **Final Cut**
 	- Desktop: **[OpenShot](https://www.openshot.org/)** \[**choco install openshot**\] | **[Kdenlive](https://kdenlive.org/de/)** \[**choco install kdenlive**\] | **[Shotcut](https://www.shotcut.org/)** \[**choco install shotcut.install**\] | **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** | **[HitFilm Express](https://fxhome.com/product/hitfilm-express)**
+	- AI-gestützte Teilaspekte: **[AirCraft](https://getartcraft.com/)** ([github](https://github.com/storytold/artcraft))
 - Adobe **Audition**
 	- Desktop: **[Audacity](https://www.audacityteam.org/)** \[**choco install audacity**\]
 	- Cloud: **[Audiotool](https://www.audiotool.com/)**
@@ -812,6 +813,7 @@ siehe Schwesterseite [awesome-6GL » Generative KI-Werkzeuge](https://github.com
 		| [**OnlyOffice** Docs](https://www.onlyoffice.com/desktop.aspx) for Desktop (RU; hohe MS Office Format-Kompatibilität)\
 		| [**WPS Office**](https://de.wps.com/download/) (CN; hohe Benutzerfreundlichkeit)\
 		| (€:) [**WordPerfect** Office Education](https://www.wordperfect.com/en/product/education-edition/) (CA; hohe/präzise Formatkontrolle)
+	- AI-gestützte Teilaspekte: **[GenOffice](https://genoffice.ai/)** ([github](https://github.com/genspark-ai/genoffice))
 	- Cloud: **[ZoHo](https://www.zoho.com/)** inkl. [Zoho Docs for Desktop](https://www.zoho.com/docs/help/zoho-docs-for-desktop.html#installing-zohodrive) | [**OnlyOffice** Personal](https://personal.onlyoffice.com/) | **[Google Workspace](https://workspace.google.com/)** ([Google Docs](https://docs.google.com/document/u/0/), [Google Sheets](https://docs.google.com/spreadsheets/u/0/), [Google Slides](https://docs.google.com/presentation/u/0/))
 	- Web/Self-Hosted: [APITable](https://github.com/apitable/apitable)
 	- Android: **[Collabora Office](https://www.collaboraonline.com/collabora-office-android-ios/)** for Android (UK)\
@@ -927,9 +929,11 @@ siehe Schwesterseite [awesome-6GL » Generative KI-Werkzeuge](https://github.com
 	- Cloud: [Spline](https://spline.design/)
 - Autodesk **MotionBuilder** / Reallusion **iClone** (3D Animationen; ohne umfangreich zu modellieren oder riggen)
 	- Destkop: Valve [Source FilmMaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) (SFM)
+	- AI-gestützte Teilaspekte: **[AirCraft](https://getartcraft.com/)** ([github](https://github.com/storytold/artcraft))
 - Bondware **Poser** / Reallusion **Character Creator** (3D Character Modeler)
 	- Destkop: [Daz 3D](https://www.daz3d.com)
 	- FOSS: [MakeHuman](http://www.makehumancommunity.org/) (sowie dessen Variante [MPFB2](https://static.makehumancommunity.org/mpfb/downloads.html) als Add-On für Blender)
+	- AI-gestützte Teilaspekte: **[AirCraft](https://getartcraft.com/)** ([github](https://github.com/storytold/artcraft))
 - Blackmagic Design: **DaVinci Resolve Studio** (Post-Production)
 	- Kostenlose Variante: **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)**
 - Foundry **[Nuke VFX](https://www.foundry.com/products/nuke-family/nuke)** (Post-Producton: Node-based Compositing/VFX)
