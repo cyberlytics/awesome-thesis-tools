@@ -722,21 +722,39 @@ siehe Schwesterseite [awesome-6GL » Generative KI-Werkzeuge](https://github.com
 
 ## Kostenlose Alternativen
 
+- Adobe Creative Cloud
+	- Desktop: **[Affinity Studio](https://www.affinity.studio/)** (Nennenswert: Canva hat den Affinity-Entwickler Serif in 2024 übernommen)
+	- Desktop-Klon der Adobe CC: ArtCraft **[Craft App Suite](https://getartcraft.com/apps)**
+		- **[PhotoCraft](https://getartcraft.com/apps/photocraft)** ([github](https://github.com/storytold/photocraft)) – Bildbearbeitung
+		- **[VectorCraft](https://getartcraft.com/apps/vectorcraft)** ([github](https://github.com/storytold/vectorcraft)) – Vektorillustration
+		- **[FilmCraft](https://getartcraft.com/apps/filmcraft)** ([github](https://github.com/storytold/filmcraft)) – Videobearbeitung
+		- **[LightCraft](https://getartcraft.com/apps/lightcraft)** ([github](https://github.com/storytold/lightcraft)) – Fotobibliothek & RAW-Konverter
+		- **[PdfCraft](https://getartcraft.com/apps/pdfcraft)** ([github](https://github.com/storytold/pdfcraft)) – PDF-Werkbank
+		- **[EffectCraft](https://getartcraft.com/apps/effectcraft)** ([github](https://github.com/storytold/effectcraft)) – Motion Graphics & Visual Effects (VFX)
+		- **[DesignCraft](https://getartcraft.com/apps/designcraft)** ([github](https://github.com/storytold/designcraft)) – Layout & Publishing
+		- **[FigCraft](https://getartcraft.com/apps/figcraft)** ([github](https://github.com/storytold/figcraft)) – Interface Design & Prototyping
+		- **[SoundCraft](https://getartcraft.com/apps/soundcraft)** ([github](https://github.com/storytold/soundcraft)) – Audio-Aufnahme, Bearbeitung & Mixing (DAW)
+		- AI-gestützte Teilaspekte: **[ArtCraft IDE for Artists](https://getartcraft.com/)** ([github](https://github.com/storytold/artcraft)), OBACHT: ArtCraft IDE (Einzel-App) nicht verwechseln mit dem ArtCraft App Launcher für die anderen Apps der Craft App Suite, also den Adobe-Klonen… (!)
+	- Weitere Alternativen zu einzelnen Produkten der Adobe CC? Unten!
 - Adobe **Photoshop**
 	- Desktop: **[Krita](https://krita.org/)** \[**choco install krita**\] + **[RawTherapee](https://www.rawtherapee.com/)** for RAW files \[**choco install rawtherapee**\]
+	- Desktop-Klon: [Craft App Suite](https://getartcraft.com/apps) insbesondere **[PhotoCraft](https://getartcraft.com/apps/photocraft)** ([github](https://github.com/storytold/photocraft))
 	- Cloud: **[Pixlr](https://pixlr.com/de/)**
-	- AI-gestützte Teilaspekte: [clipdrop.co](https://clipdrop.co/), [iLoveIMG](https://www.iloveimg.com/), **[AirCraft](https://getartcraft.com/)** ([github](https://github.com/storytold/artcraft))
+	- AI-gestützte Teilaspekte: [clipdrop.co](https://clipdrop.co/), [iLoveIMG](https://www.iloveimg.com/), [ArtCraft IDE](https://getartcraft.com/)
 	- Kollaboratives Malen: **[Aggie.io](https://aggie.io/)**
 - Adobe **Illustrator** (und Adobe Fresco)
 	- Desktop: **[FireAlpaca](https://firealpaca.com/)** \[**choco install firealpaca**\] | **[Inkscape](https://inkscape.org/)** \[**choco install inkscape**\]
+	- Desktop-Klon: [Craft App Suite](https://getartcraft.com/apps) insbesondere **[VectorCraft](https://getartcraft.com/apps/vectorcraft)** ([github](https://github.com/storytold/vectorcraft))
 	- Cloud: **[Vectr](https://vectr.com/)** | **[Canva](https://www.canva.com)** | [Graphite](https://editor.graphite.rs/) | [Corel Vector](https://app.corelvector.com/) (formerly: Gravit Designer)
 	- Kollaboratives Zeichnen (Design): **[snappa](https://snappa.com/)**
 	- Kollaboratives Zeichnen (Whiteboarding): **[invision](https://www.invisionapp.com/)** | **[miro](https://miro.com/de/)** | **[mural](https://start.mural.co/)**
 - Adobe **InDesign**
 	- Desktop: **[Scribus](https://www.scribus.net/)** \[**choco install scribus**\]
+	- Desktop-Klon: [Craft App Suite](https://getartcraft.com/apps) insbesondere **[DesignCraft](https://getartcraft.com/apps/designcraft)** ([github](https://github.com/storytold/designcraft))
 	- Cloud: **[LucidPress](https://www.lucidpress.com/)** | **[Canva](https://www.canva.com)**
 - Adobe **Acrobat** Pro
-	- Desktop:
+	- Desktop-Klon: [Craft App Suite](https://getartcraft.com/apps) insbesondere **[PdfCraft](https://getartcraft.com/apps/pdfcraft)** ([github](https://github.com/storytold/pdfcraft))
+	- Weitere Desktop Alternativen:
 		- PDF-Editor: **[PDF-XChange Editor](https://pdf-xchange.eu/pdf-xchange-editor/)** \[**choco install pdfxchangeeditor**\]
 		- Toolbox: **[CubePDF Utility](https://www.cube-soft.com/cubepdfutility/)** ⭐, [iLovePDF Desktop](https://www.ilovepdf.com/desktop), or [PDF24 Creator](https://tools.pdf24.org/creator)
 		- PDF-Compressor: (€) neuxpower [NXPowerLite](https://neuxpower.com/nxpowerlite-desktop) (Top!), kostenlos [iLovePDF Desktop](https://www.ilovepdf.com/desktop)
@@ -748,7 +766,7 @@ siehe Schwesterseite [awesome-6GL » Generative KI-Werkzeuge](https://github.com
 		- PDF-Conversion to PowerPoint: Adobe Online Tool **[Acrobat PDF to PPT](https://www.adobe.com/acrobat/online/pdf-to-ppt.html)** ⭐ (use in private tab for reset), (I have not tried, yet: [iLovePDF pdf-to-powerpoint](https://www.ilovepdf.com/pdf_to_powerpoint), [Smallpdf pdf-to-ppt](https://smallpdf.com/pdf-to-ppt) or [PDF24 pdf-to-powerpoint](https://tools.pdf24.org/pdf-to-powerpoint))
 - Prepress Tooling: Adobe **[Preflight](https://helpx.adobe.com/acrobat/using/analyzing-documents-preflight-tool-acrobat.html)**, Callas **[pdfToolbox](https://www.callassoftware.com/en/products/pdftoolbox/pdftoolboxdesktop)**/[pdfaPilot](https://www.callassoftware.com/en/products/pdfapilot/pdfapilotdesktop) and Enfocus **[PitStop](https://www.enfocus.com/pitstop-pro)**
 	- Desktop:
-		- In general: No free alternative, but a mix of [GhostScript](https://www.ghostscript.com/releases/gsdnld.html) (Win: use gswin64c.exe; i.a., ps2pdf, pdf2ps), [pdftk free](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) (concat files, add security, compress), [Xpdf](https://www.xpdfreader.com/download.html) (pdftops, pdftotext, pdftohtml, pdftoppm, pdftopng, pdfimages, pdfinfo, pdfdetach,pdftops), [poppler](https://community.chocolatey.org/packages/poppler) (i.a., pdffonts), and Apache [PDFBox](https://pdfbox.apache.org/) as well as optionally [PsUtils](https://gnuwin32.sourceforge.net/packages/psutils.htm) (i.a., psnup, psbook)
+		- In general: No traditional free alternative, but a mix of [GhostScript](https://www.ghostscript.com/releases/gsdnld.html) (Win: use gswin64c.exe; i.a., ps2pdf, pdf2ps), [pdftk free](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) (concat files, add security, compress), [Xpdf](https://www.xpdfreader.com/download.html) (pdftops, pdftotext, pdftohtml, pdftoppm, pdftopng, pdfimages, pdfinfo, pdfdetach,pdftops), [poppler](https://community.chocolatey.org/packages/poppler) (i.a., pdffonts), and Apache [PDFBox](https://pdfbox.apache.org/) as well as optionally [PsUtils](https://gnuwin32.sourceforge.net/packages/psutils.htm) (i.a., psnup, psbook)
 		- PDF/X-1a: **[scribus](https://www.scribus.net/)** \[**choco install scribus**\]
 			- Open arbitrary PDF file in Scribus (use default option **text as vectors**)
 			- Use **File** » **Document Setup…** » **Color Management**:
@@ -771,6 +789,7 @@ siehe Schwesterseite [awesome-6GL » Generative KI-Werkzeuge](https://github.com
 	- Desktop: **[DarkTable](https://www.darktable.org/)** \[**choco install darktable**\] 
 		- zzgl. die DAM-Alternative unten!
 		- Editor-only: **[RawTherapee](https://www.rawtherapee.com/)** \[**choco install rawtherapee**\]
+	- Desktop-Klon: [Craft App Suite](https://getartcraft.com/apps) insbesondere **[LightCraft](https://getartcraft.com/apps/lightcraft)** ([github](https://github.com/storytold/lightcraft))
 	- Cloud: **[polarr](https://photoeditor.polarr.co/)**
 - Adobe **Experience Manager** bzw. **MediaValet**
 	- (Category: Media Asset Management bzw. Digital Asset Management = DAM)
@@ -783,15 +802,19 @@ siehe Schwesterseite [awesome-6GL » Generative KI-Werkzeuge](https://github.com
 	- Cloud: **[webflow](https://webflow.com/)**
 - Adobe **XD**
 	- Desktop: **[JustInMind](https://www.justinmind.com)**
+	- Desktop-Klon: [Craft App Suite](https://getartcraft.com/apps) insbesondere **[FigCraft](https://getartcraft.com/apps/figcraft)** ([github](https://github.com/storytold/figcraft))
 	- Cloud: **[Figma](https://www.figma.com/)**, [mydraft](https://mydraft.cc/), [Moqups](https://moqups.com/), [Framer](https://www.framer.com/), [NinjaMock](https://ninjamock.com/), uvm.
 - Adobe **Premiere** / Apple **Final Cut**
 	- Desktop: **[OpenShot](https://www.openshot.org/)** \[**choco install openshot**\] | **[Kdenlive](https://kdenlive.org/de/)** \[**choco install kdenlive**\] | **[Shotcut](https://www.shotcut.org/)** \[**choco install shotcut.install**\] | **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** | **[HitFilm Express](https://fxhome.com/product/hitfilm-express)**
-	- AI-gestützte Teilaspekte: **[AirCraft](https://getartcraft.com/)** ([github](https://github.com/storytold/artcraft))
+	- Desktop-Klon: [Craft App Suite](https://getartcraft.com/apps) insbesondere **[FilmCraft](https://getartcraft.com/apps/filmcraft)** ([github](https://github.com/storytold/filmcraft))
+	- AI-gestützte Teilaspekte: **[ArtCraft IDE for Artists](https://getartcraft.com/)** ([github](https://github.com/storytold/artcraft))
 - Adobe **Audition**
 	- Desktop: **[Audacity](https://www.audacityteam.org/)** \[**choco install audacity**\]
+	- Desktop-Klon: [Craft App Suite](https://getartcraft.com/apps) insbesondere **[SoundCraft](https://getartcraft.com/apps/soundcraft)** ([github](https://github.com/storytold/soundcraft))
 	- Cloud: **[Audiotool](https://www.audiotool.com/)**
 - Adobe **After Effects**
 	- Desktop: **[Natron](https://natronGitHub.GitHub.io/)** \[**choco install natron.install**\] + **[Blender](https://www.blender.org/)** \[**choco install blender**\]
+	- Desktop-Klon: [Craft App Suite](https://getartcraft.com/apps) insbesondere **[EffectCraft](https://getartcraft.com/apps/effectcraft)** ([github](https://github.com/storytold/effectcraft))
 - Adobe **Captivate** (Screencast)
 	- Desktop: **[OBS](https://obsproject.com/)** \[**choco install obs-studio**\] | **[TechSmith Capture](https://www.techsmith.com/learn/tutorials/capture-desktop/capture-app/)** (formerly Jing) \[**choco install capture**\] | **[Screencast-O-Matic](https://screencast-o-matic.com/)** | **[screenrec](https://screenrec.com/)**
 	- Spezialhinweis: Man kann auch [mittels **PowerPoint**](https://insider.office.com/de-de/blog/tell-your-story-with-video-recording-in-powerpoint) eine Bild-in-Bild-Aufzeichnung („Teleprompter“) seiner Präsentation machen
@@ -813,7 +836,9 @@ siehe Schwesterseite [awesome-6GL » Generative KI-Werkzeuge](https://github.com
 		| [**OnlyOffice** Docs](https://www.onlyoffice.com/desktop.aspx) for Desktop (RU; hohe MS Office Format-Kompatibilität)\
 		| [**WPS Office**](https://de.wps.com/download/) (CN; hohe Benutzerfreundlichkeit)\
 		| (€:) [**WordPerfect** Office Education](https://www.wordperfect.com/en/product/education-edition/) (CA; hohe/präzise Formatkontrolle)
-	- AI-gestützte Teilaspekte: **[GenOffice](https://genoffice.ai/)** ([github](https://github.com/genspark-ai/genoffice))
+	- Desktop-Klone:
+		- **[GenOffice](https://genoffice.ai/)** ([github](https://github.com/genspark-ai/genoffice))
+		- **[Craft App Suite](https://getartcraft.com/apps)** u.a. mit Textverarbeitung **[WordCraft](https://getartcraft.com/apps/wordcraft)** ([github](https://github.com/storytold/wordcraft)), Tabellenkalkulation **[GridCraft](https://getartcraft.com/apps/gridcraft)** ([github](https://github.com/storytold/gridcraft)) und Präsentationssoftware **[DeckCraft](https://getartcraft.com/apps/deckcraft)** ([github](https://github.com/storytold/deckcraft))
 	- Cloud: **[ZoHo](https://www.zoho.com/)** inkl. [Zoho Docs for Desktop](https://www.zoho.com/docs/help/zoho-docs-for-desktop.html#installing-zohodrive) | [**OnlyOffice** Personal](https://personal.onlyoffice.com/) | **[Google Workspace](https://workspace.google.com/)** ([Google Docs](https://docs.google.com/document/u/0/), [Google Sheets](https://docs.google.com/spreadsheets/u/0/), [Google Slides](https://docs.google.com/presentation/u/0/))
 	- Web/Self-Hosted: [APITable](https://github.com/apitable/apitable)
 	- Android: **[Collabora Office](https://www.collaboraonline.com/collabora-office-android-ios/)** for Android (UK)\
@@ -822,14 +847,17 @@ siehe Schwesterseite [awesome-6GL » Generative KI-Werkzeuge](https://github.com
 		| [**WPS Office**](https://de.wps.com/office/android/) for Android (CN)
 - Microsoft **Word**
 	- vgl. Office, hinzu kommen noch weitere nennenswerte Alternativen:
+	- Klone: (1) **[GenOffice](https://genoffice.ai/)** ([github](https://github.com/genspark-ai/genoffice)) sowie (2) die AppCraft App **[WordCraft](https://getartcraft.com/apps/wordcraft)** ([github](https://github.com/storytold/wordcraft))
 	- Desktop: **[Jarte](https://www.jarte.com/)**
 	- Cloud: **[Dropbox Paper](https://paper.dropbox.com/)** | **[YoPad](https://yopad.eu)** | **[EduPad](https://edupad.ch)**
 - Microsoft **Excel**
 	- vgl. Office, hinzu kommen noch weitere nennenswerte Alternativen:
+	- Klone: (1) **[GenOffice](https://genoffice.ai/)** ([github](https://github.com/genspark-ai/genoffice)) sowie (2) die AppCraft App  **[GridCraft](https://getartcraft.com/apps/gridcraft)** ([github](https://github.com/storytold/gridcraft))
 	- Cloud: **[smartsheet](https://www.smartsheet.com/)**, **[Airtable](https://www.airtable.com/)** (zzgl. obige [ZohoSheets](https://www.zoho.com/sheet/) | [OnlyOffice Personal](https://personal.onlyoffice.com/) | [Google Sheets](https://sheets.google.com/document/u/0/) | [Excel Online](http://office.live.com/start/Excel.aspx))
 	- Kollaborative Spreadsheet-Bearbeitung? **[EtherCalc](https://ethercalc.net)**
 - Microsoft **PowerPoint**
 	- vgl. Office, hinzu kommen noch weitere nennenswerte Alternativen:
+	- Klone: (1) **[GenOffice](https://genoffice.ai/)** ([github](https://github.com/genspark-ai/genoffice)) sowie (2) die AppCraft App  **[DeckCraft](https://getartcraft.com/apps/deckcraft)** ([github](https://github.com/storytold/deckcraft))
 	- Desktop: [latex-**beamer**](https://ctan.org/pkg/beamer) bzw. [typst with **touying**](https://typst.app/universe/package/touying/)
 	- Web/Self-Hosted: **[reveal.js](https://revealjs.com/)**| [Decker](https://elearning.uni-wuerzburg.de/decker/) | [impress.js](https://github.com/impress/impress.js) | [Shower](https://github.com/shower/shower) | [Inspire.js](https://github.com/LeaVerou/inspire.js) | [deck.js](https://github.com/imakewebthings/deck.js) | [DZSlides](https://github.com/paulrouget/dzslides) | uvm.
 	- Cloud: **[slides.com](https://slides.com/)** (basiert auf [reveal.js](https://revealjs.com/))| [genially](https://genially.com/plans/education/) (für Studierende kostenlos) | **[Prezi](https://prezi.com/)** (nur 5 Dokumente kostenlos)\
@@ -919,6 +947,11 @@ siehe Schwesterseite [awesome-6GL » Generative KI-Werkzeuge](https://github.com
 	- Cloud: **[Octave Online](https://octave-online.net/)**
 		- (für die Cloud ggf. ebenfalls Scilab per Cloud-basierter Zugang via Plattformen wie **[CoCalc](https://cocalc.com/)**)
 	- (Der Vollständigkeit halber: MATLAB beinhaltet neben numerical computing auch [CAS-Funktionalität](https://en.wikipedia.org/wiki/List_of_computer_algebra_systems) wie Mathematica/Maple, das ist aber nicht MATLABs Sweet-Spot)
+- Autodesk **AutoCAD** (2D und 3D Computer-Aided Design)
+	- Desktop v.a. 2D: [LibreCAD](https://librecad.org/), [QCAD](https://qcad.org/en/)
+	- Desktop v.a. 3D: [FreeCAD](https://www.freecad.org/)
+		- programmierbar/scriptgesteuert: [OpenSCAD](https://openscad.org/)
+	- Desktop-Klon: [Craft App Suite](https://getartcraft.com/apps) insbesondere **[CADCraft](https://getartcraft.com/apps/cadcraft)** ([github](https://github.com/storytold/cadcraft))
 - Autodesk **Maya** / Autodesk **3DS Max** / Maxon **Cinema 4D** / SideFx **Houdini** / Maxon **ZBrush** (3D Digital Content Creation; All-In-One)
 	- Desktop: **[Blender](https://www.blender.org/)** \[**choco install blender**\]
 	- Nur als Studierende:
@@ -929,11 +962,11 @@ siehe Schwesterseite [awesome-6GL » Generative KI-Werkzeuge](https://github.com
 	- Cloud: [Spline](https://spline.design/)
 - Autodesk **MotionBuilder** / Reallusion **iClone** (3D Animationen; ohne umfangreich zu modellieren oder riggen)
 	- Destkop: Valve [Source FilmMaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) (SFM)
-	- AI-gestützte Teilaspekte: **[AirCraft](https://getartcraft.com/)** ([github](https://github.com/storytold/artcraft))
+	- AI-gestützte Teilaspekte: **[ArtCraft IDE for Artists](https://getartcraft.com/)** ([github](https://github.com/storytold/artcraft))
 - Bondware **Poser** / Reallusion **Character Creator** (3D Character Modeler)
 	- Destkop: [Daz 3D](https://www.daz3d.com)
 	- FOSS: [MakeHuman](http://www.makehumancommunity.org/) (sowie dessen Variante [MPFB2](https://static.makehumancommunity.org/mpfb/downloads.html) als Add-On für Blender)
-	- AI-gestützte Teilaspekte: **[AirCraft](https://getartcraft.com/)** ([github](https://github.com/storytold/artcraft))
+	- AI-gestützte Teilaspekte: **[ArtCraft IDE for Artists](https://getartcraft.com/)** ([github](https://github.com/storytold/artcraft))
 - Blackmagic Design: **DaVinci Resolve Studio** (Post-Production)
 	- Kostenlose Variante: **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)**
 - Foundry **[Nuke VFX](https://www.foundry.com/products/nuke-family/nuke)** (Post-Producton: Node-based Compositing/VFX)
