@@ -813,7 +813,7 @@ siehe Schwesterseite [awesome-6GL » Generative KI-Werkzeuge](https://github.com
 	- Desktop-Klon: [Craft App Suite](https://getartcraft.com/apps) insbesondere **[SoundCraft](https://getartcraft.com/apps/soundcraft)** ([github](https://github.com/storytold/soundcraft))
 	- Cloud: **[Audiotool](https://www.audiotool.com/)**
 - Adobe **After Effects**
-	- Desktop: **[Natron](https://natronGitHub.GitHub.io/)** \[**choco install natron.install**\] + **[Blender](https://www.blender.org/)** \[**choco install blender**\]
+	- Desktop: Maxon **[Autograph](https://www.maxon.net/autograph)**, Canva **[Cavalry](https://cavalry.studio/)** sowie die Open-Source-Kombination **[Natron](https://natronGitHub.GitHub.io/)** \[**choco install natron.install**\] + **[Blender](https://www.blender.org/)** \[**choco install blender**\]
 	- Desktop-Klon: [Craft App Suite](https://getartcraft.com/apps) insbesondere **[EffectCraft](https://getartcraft.com/apps/effectcraft)** ([github](https://github.com/storytold/effectcraft))
 - Adobe **Captivate** (Screencast)
 	- Desktop: **[OBS](https://obsproject.com/)** \[**choco install obs-studio**\] | **[TechSmith Capture](https://www.techsmith.com/learn/tutorials/capture-desktop/capture-app/)** (formerly Jing) \[**choco install capture**\] | **[Screencast-O-Matic](https://screencast-o-matic.com/)** | **[screenrec](https://screenrec.com/)**
@@ -960,7 +960,7 @@ siehe Schwesterseite [awesome-6GL » Generative KI-Werkzeuge](https://github.com
 		- **[Cinema 4D](https://www.maxon.net/en/educational-licenses)** (Educational, Six-month, renewable)
 		- **[Houdini](https://www.sidefx.com/education/education-programs/students/#free_software)** (Free Apprentice Edition)
 	- Cloud: [Spline](https://spline.design/)
-- Autodesk **MotionBuilder** / Reallusion **iClone** (3D Animationen; ohne umfangreich zu modellieren oder riggen)
+- Autodesk **MotionBuilder** / Reallusion **iClone** (Charakteranimations- und Motion-Capture-Tools; ohne umfangreich zu modellieren oder riggen)
 	- Destkop: Valve [Source FilmMaker](https://store.steampowered.com/app/1840/Source_Filmmaker/) (SFM)
 	- AI-gestützte Teilaspekte: **[ArtCraft IDE for Artists](https://getartcraft.com/)** ([github](https://github.com/storytold/artcraft))
 - Bondware **Poser** / Reallusion **Character Creator** (3D Character Modeler)
@@ -972,7 +972,7 @@ siehe Schwesterseite [awesome-6GL » Generative KI-Werkzeuge](https://github.com
 - Foundry **[Nuke VFX](https://www.foundry.com/products/nuke-family/nuke)** (Post-Producton: Node-based Compositing/VFX)
 	- Nennenswerte AI-Erweiterung: **[Copy Cat](https://learn.foundry.com/nuke/content/reference_guide/air_nodes/copycat.html)**
 	- €€€-Konkurrent: Blackmagic Design **[Fusion](https://www.blackmagicdesign.com/products/fusion)**
-	- FOSS/Desktop: **[Blender VFX](https://www.blender.org/features/vfx/)**
+	- FOSS/Desktop: **[Blender VFX](https://www.blender.org/features/vfx/)** sowie Maxon **[Autograph](https://www.maxon.net/autograph)**
 - Steinberg **Cubase** / Emagic|Apple **Logic** / Ableton **Live** / AVID **Pro Tools** / Digital Audio Workstation (DAW)
 	- Kostenlose Editionen: AVID **[Pro Tools Intro](https://www.avid.com/pro-tools/intro)**
 		- Weitere kostenlose Varianten: Cockos **[Reaper](https://www.reaper.fm/)** (60d kostenlos, dann Nag-Screen), [Garageband](https://www.apple.com/mac/garageband/) (nur macOS)
