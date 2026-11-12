@@ -50,6 +50,7 @@ Hinweise:
 - [Android Apps](#android-apps)
 - [Bonus: 3D-Printing](#bonus-3d-printing)
 - [Appendix: More Free Student Stuff](#appendix-more-free-student-stuff)
+- [Schwesterseiten](#schwesterseiten)
 - [Footer](#footer)
 
 <!-- tocstop -->
