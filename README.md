@@ -231,7 +231,7 @@ Hinweise:
 		- ⚠️: **Google Scholar, VPN: SpringerLink/Hanser, höfliche E-Mail-Nachfragen, ResearchGate, Bib besuchen (fei echt), unpaywall.org**
 - Read-it-Later
 	- (Remark: Pocket-like! But Pocket shut down in 2025.)
-	- Cloud: [Raindrop](https://raindrop.io/), [Notion](https://www.notion.com)
+	- Cloud: [Raindrop](https://raindrop.io/), [Notion](https://www.notion.com), [Glasp](https://glasp.co/)
 	- Web/Self-Hosted: [karakeep](https://karakeep.app/), [shiori](https://github.com/go-shiori/shiori)
 	- (Außerdem die OneNote-Alternativen unter [Kostenlose Alternativen](#kostenlose-alternativen), wie Evernote)
 - Persönliches Wissensmanagement / Zettelkasten / Notizen
